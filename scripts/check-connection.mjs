@@ -8,8 +8,8 @@ assert.equal(settings.status,200,'Supabase Auth endpoint must be available');
 const auth=await settings.json();
 assert.equal(auth.external.email,true,'Email sign-in must be enabled');
 assert.notEqual(auth.disable_signup,true,'Sign-up must be enabled');
-for(const table of ['health_activities','health_habit_checks']) {
+for(const table of ['health_activities','health_habit_checks','health_items']) {
  const response=await fetch(url+'/rest/v1/'+table+'?select=*&limit=1',{headers});
  assert.ok([401,403].includes(response.status),`Anonymous access to ${table} must be denied`);
 }
-console.log('PASS: Supabase Auth available, email enabled, signup enabled, both tables deny anonymous access.');
+console.log('PASS: Supabase Auth available, email enabled, signup enabled, all three tables deny anonymous access.');
