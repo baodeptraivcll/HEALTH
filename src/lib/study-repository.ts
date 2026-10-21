@@ -1,6 +1,7 @@
 import type { SupabaseClient } from '@supabase/supabase-js';
 import type { Answer, MistakeLog, Progress, Settings, Snapshot, StudyRepository, StudySession, Word } from './study-types.ts';
 import { defaultProgress, localDate, scheduleReview } from './study.ts';
+import { normalizeStudyWord } from './word-examples.mjs';
 
 export const defaultSettings = (userId: string): Settings => ({user_id:userId,new_words_per_day:15,tts_enabled:true,theme:'light'});
 
@@ -30,7 +31,7 @@ export function createStudyRepository(db: SupabaseClient, userId: string): Study
       const [words,progress,sessions,settings,mistakes] = await Promise.all([
         rows<Word>('words',false),rows<Progress>('user_word_progress'),rows<StudySession>('study_sessions'),rows<Settings>('user_settings'),rows<MistakeLog>('mistake_log'),
       ]);
-      return {words:words.sort((a,b)=>a.order_index-b.order_index),progress,sessions,settings:settings[0] || defaultSettings(userId),mistakes};
+      return {words:words.map(normalizeStudyWord).sort((a,b)=>a.order_index-b.order_index),progress,sessions,settings:settings[0] || defaultSettings(userId),mistakes};
     },
     async startSession() { const data = await rpc('start_study_session'); return (Array.isArray(data)?data[0]:data) as StudySession; },
     async answer(a) { await rpc('record_study_answer',{p_session_id:a.session_id,p_word_id:a.word_id,p_mode:a.mode,p_rating:a.rating,p_user_answer:a.user_answer,p_event_id:a.event_id}); },

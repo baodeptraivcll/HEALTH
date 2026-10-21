@@ -6,14 +6,14 @@
 
 ## Dữ liệu nguồn và giới hạn
 
-PDF cung cấp có 600 dòng, 50 chủ đề nhưng chỉ **596 mục từ duy nhất**. Từ lặp đã gộp mà giữ mọi nghĩa/chủ đề. Không tự tạo thêm từ, nghĩa, IPA hoặc ví dụ.
+PDF cung cấp có 600 dòng, 50 chủ đề nhưng chỉ **596 mục từ duy nhất**. Từ lặp đã gộp mà giữ mọi nghĩa/chủ đề. Không tự tạo thêm từ để đủ số lượng; ví dụ bổ sung được ghi nguồn riêng và các hiệu chỉnh có tham chiếu Cambridge.
 
 - `data/toeic600.pdf`: PDF gốc đã chuẩn hoá đường dẫn.
 - `data/words.json`: 596 mục không trùng để seed.
 - `data/words-source.json`: đủ 600 dòng, ô nguồn, trang và số thứ tự để đối chiếu.
 - `data/words-report.json` và `data/README.md`: chi tiết trùng, thiếu và lỗi nguồn.
 
-Mọi `example` hiện là `null`; một mục thiếu IPA, hai mục thiếu loại từ. Chế độ điền từ đã có bộ xử lý nhưng chưa có bài hợp lệ, nên giao diện thông báo thiếu ví dụ và không tạo câu giả. Thêm ví dụ có nguồn và seed lại sẽ mở bài điền từ nếu ví dụ chứa đúng mục từ. Chỉ số /600 giữ tên bộ học, kèm số lượng thực tế 596.
+Bản trích PDF vẫn giữ `example: null`, một mục thiếu IPA và hai mục thiếu loại từ. Ứng dụng bổ sung **596 cặp ví dụ Anh–Việt tự biên soạn** trong `data/examples.json`; dùng được cho flashcard, phản hồi quiz, danh sách và bài điền từ. Cambridge được tham khảo để đối chiếu một số cách dùng/lỗi nguồn, không phải nguồn trích nguyên văn của các câu. Xem `data/EXAMPLES.md` và `data/word-corrections.json` để kiểm tra nguồn gốc, hiệu chỉnh và cấu trúc dữ liệu. Chỉ số /600 giữ tên bộ học, kèm số lượng thực tế 596.
 
 ## Tính năng
 
@@ -46,8 +46,9 @@ Project đang sử dụng: `glfvowtqrzwmizwocqel`. Đã xoá ba bảng/function/
 Với project mới, chạy trong Supabase SQL Editor bằng tài khoản quản trị:
 
 1. `supabase/migrations/20261021_toeic.sql` (một lần).
-2. `supabase/seed.sql` (có thể chạy lại, upsert theo word và giữ id/tiến độ).
-3. `tests/rls.sql` để kiểm tra; dữ liệu test được rollback, kết quả cuối phải PASS.
+2. `supabase/migrations/20261022_bilingual_examples.sql` (thêm cột ví dụ song ngữ, giữ dữ liệu học).
+3. `supabase/seed.sql` (có thể chạy lại, hợp nhất bản nguồn với ví dụ/hiệu chỉnh, upsert theo word gốc và giữ id/tiến độ).
+4. `tests/rls.sql` để kiểm tra; dữ liệu test được rollback, kết quả cuối phải PASS.
 
 Schema gồm `words`, `user_word_progress`, `mistake_log`, `study_sessions`, `user_settings` và `review_events` chống ghi trùng. Tất cả bảng bật RLS. User đã đăng nhập được đọc words; các bảng cá nhân chỉ đọc của mình. Cài đặt ghi theo owner; tiến độ/log/buổi học được ghi qua RPC có kiểm tra auth.uid, lock theo user và transaction. Không cho client ghi trực tiếp counter để tránh sai quy tắc.
 
@@ -97,4 +98,4 @@ Repository hiện tại: https://github.com/baodeptraivcll/HEALTH. Dự án Verc
 
 Cấu hình Vercel: framework Next.js, build `npm run build`, output `.next`; thêm hai biến public Supabase cho Production/Preview cần sử dụng. Supabase Auth Site URL và Redirect URLs phải khớp domain triển khai để xác nhận email. Push vào nhánh production đã kết nối sẽ kích hoạt deployment. Kiểm tra trạng thái Ready và thử `/preview` cùng màn hình đăng nhập sau deploy.
 
-Giới hạn hiện tại: cần nguồn bổ sung để đủ 600 mục từ duy nhất và mở bài điền từ; âm thanh thực tế phụ thuộc giọng tiếng Anh được cài trên thiết bị. Không có dữ liệu học sức khoẻ cũ trong schema public mới.
+Giới hạn hiện tại: tài liệu chỉ có 596 mục từ duy nhất; ví dụ Anh–Việt được tự biên soạn, không phải câu trích từ Cambridge; âm thanh thực tế phụ thuộc giọng tiếng Anh được cài trên thiết bị. Không có dữ liệu học sức khoẻ cũ trong schema public mới.

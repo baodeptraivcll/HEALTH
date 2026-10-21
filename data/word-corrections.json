@@ -1,0 +1,13 @@
+[
+  {"word":"adhear to","source_note":"PDF in adhear to; hiệu chỉnh chính tả thành adhere to theo Cambridge.","dictionary_url":"https://dictionary.cambridge.org/us/dictionary/english/adhere-to"},
+  {"word":"conductive","ipa":"/kənˈduː.sɪv/","source_note":"Theo nghĩa trong PDF, mục từ cần học là conducive (tạo điều kiện thuận lợi). Conductive có nghĩa dẫn điện/nhiệt.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/conducive"},
+  {"word":"assurance","pos":"n","meaning_vi":"sự đảm bảo; lời cam đoan; sự tự tin","source_note":"Cambridge xếp assurance là danh từ; PDF ghi thêm loại động từ.","dictionary_url":"https://dictionary.cambridge.org/us/dictionary/english/assurance"},
+  {"word":"tedious","pos":"adj","source_note":"Hiệu chỉnh loại từ: tedious là tính từ, không phải danh từ như PDF ghi.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/tedious"},
+  {"word":"decade","pos":"n","source_note":"Hiệu chỉnh loại từ: decade là danh từ chỉ thập kỷ, không phải động từ.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/decade"},
+  {"word":"occupy","pos":"v","source_note":"Hiệu chỉnh loại từ: occupy là động từ, không phải danh từ như PDF ghi.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/occupy"},
+  {"word":"action","meaning_vi":"hành động; diễn biến (trong phim hoặc câu chuyện)","source_note":"Action không đồng nghĩa với acting (diễn xuất); nghĩa học đã được đối chiếu Cambridge.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/action"},
+  {"word":"looking forward to V-ing","source_note":"Dạng học là look forward to; sau to dùng danh từ hoặc động từ thêm -ing.","dictionary_url":"https://dictionary.cambridge.org/grammar/british-grammar/look-forward-to"},
+  {"word":"directory","meaning_vi":"danh bạ; danh mục thông tin","source_note":"Làm rõ nghĩa theo Cambridge: directory liệt kê tên, địa chỉ hoặc thông tin; không phải sách hướng dẫn sử dụng.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/directory"},
+  {"word":"profession","meaning_vi":"nghề nghiệp; giới chuyên môn","source_note":"Làm rõ nghĩa nghề nghiệp cần đào tạo hoặc kỹ năng chuyên biệt theo Cambridge.","dictionary_url":"https://dictionary.cambridge.org/us/dictionary/english/profession"},
+  {"word":"spectrum","meaning_vi":"quang phổ; dải; phạm vi đa dạng","source_note":"Spectrum có thể chỉ quang phổ hoặc một dải/phạm vi; nghĩa đã được đối chiếu Cambridge.","dictionary_url":"https://dictionary.cambridge.org/dictionary/english/spectrum"}
+]

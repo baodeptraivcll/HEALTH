@@ -66,4 +66,4 @@ npm run build
 
 Script trích xuất không kết nối Supabase, không seed và không sửa PDF. Kiểm thử dữ liệu xác nhận trích đúng nguồn và không bịa nội dung; test đạt không có nghĩa nguồn đã đủ 600 từ duy nhất.
 
-Theo yêu cầu tiếp tục hoàn thiện toàn bộ ứng dụng, seed sử dụng 596 mục từ thực tế, hiển thị rõ số lượng và giữ trường thiếu null. `ready_for_seed: false` phản ánh chưa đạt bộ nguồn đủ 600 từ/trường như yêu cầu ban đầu; không có dữ liệu bên ngoài được bổ sung. Chế độ điền từ chưa có bài hợp lệ do không có ví dụ.
+Theo yêu cầu tiếp tục hoàn thiện toàn bộ ứng dụng, seed sử dụng 596 mục từ thực tế, hiển thị rõ số lượng và giữ trường thiếu null. `ready_for_seed: false` phản ánh chưa đạt bộ nguồn đủ 600 từ/trường như yêu cầu ban đầu; không có dữ liệu bên ngoài được bổ sung. Ứng dụng đã bổ sung ví dụ song ngữ theo yêu cầu riêng trong `examples.json`; các ví dụ này không phải nội dung trích PDF. Xem `EXAMPLES.md`. Chế độ điền từ sử dụng lớp dữ liệu bổ sung này.

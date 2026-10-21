@@ -66,7 +66,7 @@ export function quizOptions(word: Word, words: Word[]): Word[] {
 }
 export function blankExample(word: Word): string | null {
   if (!word.example) return null;
-  const escaped = word.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const escaped = (word.example_answer || word.word).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const pattern = new RegExp(`(^|[^a-zA-Z])(${escaped})(?=$|[^a-zA-Z])`, 'gi');
   let found = false;
   const result = word.example.replace(pattern, (_match, prefix: string) => { found = true; return prefix + '_____'; });
