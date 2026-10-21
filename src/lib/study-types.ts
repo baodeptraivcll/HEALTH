@@ -1,7 +1,8 @@
+export type Synonym = {term:string;pos:string;meaning_vi:string;relation:'synonym'|'near';note_vi:string|null};
 export type Status = 'new' | 'learning' | 'mastered';
 export type Mode = 'flashcard' | 'quiz_meaning' | 'quiz_fill' | 'quiz_listen';
 export type Rating = 0 | 3 | 4 | 5;
-export type Word = { id: number; word: string; ipa: string | null; pos: string | null; meaning_vi: string | null; example: string | null; topic: string | null; order_index: number; study_term?: string | null; source_word?: string | null; example_vi?: string | null; example_answer?: string | null; example_source?: string | null; source_note?: string | null; dictionary_url?: string | null };
+export type Word = { synonyms?: Synonym[]; id: number; word: string; ipa: string | null; pos: string | null; meaning_vi: string | null; example: string | null; topic: string | null; order_index: number; study_term?: string | null; source_word?: string | null; example_vi?: string | null; example_answer?: string | null; example_source?: string | null; source_note?: string | null; dictionary_url?: string | null };
 export type Progress = { user_id: string; word_id: number; status: Status; ease_factor: number; interval_days: number; repetitions: number; next_review_at: string | null; correct_count: number; wrong_count: number; correct_streak: number; in_mistakes: boolean; last_wrong_at: string | null; last_reviewed_at: string | null; last_correct_session_id: string | null; first_reviewed_at?: string | null };
 export type StudySession = { id: string; user_id: string; date: string; words_studied: number; correct: number; wrong: number; duration_sec: number; completed_at: string | null; created_at: string };
 export type Settings = { user_id: string; new_words_per_day: number; tts_enabled: boolean; theme: 'light' | 'dark' };

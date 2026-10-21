@@ -1,0 +1,7066 @@
+[
+  {
+    "word": "abide by",
+    "synonyms": [
+      {
+        "term": "comply with",
+        "pos": "v",
+        "meaning_vi": "tuân thủ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "agreement",
+    "synonyms": [
+      {
+        "term": "contract",
+        "pos": "n",
+        "meaning_vi": "hợp đồng",
+        "relation": "near",
+        "note_vi": "Contract là hợp đồng có tính ràng buộc pháp lý; agreement có thể chỉ thỏa thuận nói chung."
+      }
+    ]
+  },
+  {
+    "word": "assurance",
+    "synonyms": [
+      {
+        "term": "guarantee",
+        "pos": "n",
+        "meaning_vi": "lời bảo đảm",
+        "relation": "near",
+        "note_vi": "Guarantee thường là cam kết chắc chắn hơn, đôi khi có ràng buộc pháp lý."
+      }
+    ]
+  },
+  {
+    "word": "cancellation",
+    "synonyms": [
+      {
+        "term": "annulment",
+        "pos": "n",
+        "meaning_vi": "sự hủy bỏ hiệu lực",
+        "relation": "near",
+        "note_vi": "Annulment thường dùng cho quyết định hoặc thỏa thuận pháp lý, trang trọng hơn cancellation."
+      }
+    ]
+  },
+  {
+    "word": "determine",
+    "synonyms": [
+      {
+        "term": "ascertain",
+        "pos": "v",
+        "meaning_vi": "xác định, tìm cho rõ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "engage",
+    "synonyms": [
+      {
+        "term": "participate",
+        "pos": "v",
+        "meaning_vi": "tham gia",
+        "relation": "near",
+        "note_vi": "Trong nghĩa tham gia thảo luận, dùng participate in thay cho engage in."
+      }
+    ]
+  },
+  {
+    "word": "establish",
+    "synonyms": [
+      {
+        "term": "set up",
+        "pos": "v",
+        "meaning_vi": "thành lập, thiết lập",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "obligate",
+    "synonyms": [
+      {
+        "term": "oblige",
+        "pos": "v",
+        "meaning_vi": "buộc phải",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "party",
+    "synonyms": [
+      {
+        "term": "signatory",
+        "pos": "n",
+        "meaning_vi": "bên ký kết",
+        "relation": "near",
+        "note_vi": "Signatory là người hoặc tổ chức đã ký; party chỉ một bên liên quan, có thể chưa ký."
+      }
+    ]
+  },
+  {
+    "word": "provision",
+    "synonyms": [
+      {
+        "term": "clause",
+        "pos": "n",
+        "meaning_vi": "điều khoản",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "resolve",
+    "synonyms": [
+      {
+        "term": "settle",
+        "pos": "v",
+        "meaning_vi": "giải quyết",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "specific",
+    "synonyms": [
+      {
+        "term": "precise",
+        "pos": "adj",
+        "meaning_vi": "chính xác, rõ ràng",
+        "relation": "near",
+        "note_vi": "Precise nhấn mạnh độ chính xác; specific nhấn mạnh tính cụ thể."
+      }
+    ]
+  },
+  {
+    "word": "attract",
+    "synonyms": [
+      {
+        "term": "draw",
+        "pos": "v",
+        "meaning_vi": "thu hút",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "compare",
+    "synonyms": [
+      {
+        "term": "contrast",
+        "pos": "v",
+        "meaning_vi": "đối chiếu điểm khác biệt",
+        "relation": "near",
+        "note_vi": "Contrast tập trung vào khác biệt; compare có thể xét cả điểm giống nhau."
+      }
+    ]
+  },
+  {
+    "word": "competition",
+    "synonyms": [
+      {
+        "term": "rivalry",
+        "pos": "n",
+        "meaning_vi": "sự cạnh tranh",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "consume",
+    "synonyms": [
+      {
+        "term": "use up",
+        "pos": "v",
+        "meaning_vi": "tiêu thụ, dùng hết",
+        "relation": "near",
+        "note_vi": "Use up nhấn mạnh dùng hết; consume có thể chỉ sử dụng một phần năng lượng."
+      }
+    ]
+  },
+  {
+    "word": "convince",
+    "synonyms": [
+      {
+        "term": "persuade",
+        "pos": "v",
+        "meaning_vi": "thuyết phục",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "inspiration",
+    "synonyms": [
+      {
+        "term": "stimulus",
+        "pos": "n",
+        "meaning_vi": "tác nhân khơi gợi",
+        "relation": "near",
+        "note_vi": "Stimulus thúc đẩy phản ứng hoặc ý tưởng; inspiration đặc biệt nhấn mạnh cảm hứng sáng tạo."
+      }
+    ]
+  },
+  {
+    "word": "market",
+    "synonyms": [
+      {
+        "term": "marketplace",
+        "pos": "n",
+        "meaning_vi": "thị trường",
+        "relation": "near",
+        "note_vi": "Marketplace nhấn mạnh môi trường mua bán; market còn có thể chỉ nhóm khách hàng hoặc nhu cầu."
+      }
+    ]
+  },
+  {
+    "word": "persuasion",
+    "synonyms": [
+      {
+        "term": "convincing",
+        "pos": "n",
+        "meaning_vi": "việc thuyết phục",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "productive",
+    "synonyms": [
+      {
+        "term": "fruitful",
+        "pos": "adj",
+        "meaning_vi": "mang lại kết quả tốt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "synonyms": [
+      {
+        "term": "contentment",
+        "pos": "n",
+        "meaning_vi": "sự mãn nguyện",
+        "relation": "near",
+        "note_vi": "Contentment thường chỉ trạng thái hài lòng nói chung, ít dùng làm chỉ số dịch vụ khách hàng."
+      }
+    ]
+  },
+  {
+    "word": "currently",
+    "synonyms": [
+      {
+        "term": "at present",
+        "pos": "adv",
+        "meaning_vi": "hiện nay",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "fad",
+    "synonyms": [
+      {
+        "term": "craze",
+        "pos": "n",
+        "meaning_vi": "cơn sốt nhất thời",
+        "relation": "near",
+        "note_vi": "Craze thường hàm ý sự yêu thích cuồng nhiệt hơn fad."
+      }
+    ]
+  },
+  {
+    "word": "characteristic",
+    "synonyms": [
+      {
+        "term": "feature",
+        "pos": "n",
+        "meaning_vi": "đặc điểm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "consequence",
+    "synonyms": [
+      {
+        "term": "result",
+        "pos": "n",
+        "meaning_vi": "kết quả",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "cover",
+    "synonyms": [
+      {
+        "term": "include",
+        "pos": "v",
+        "meaning_vi": "bao gồm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "expiration",
+    "synonyms": [
+      {
+        "term": "expiry",
+        "pos": "n",
+        "meaning_vi": "sự hết hạn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "frequently",
+    "synonyms": [
+      {
+        "term": "often",
+        "pos": "adv",
+        "meaning_vi": "thường xuyên",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "imply",
+    "synonyms": [
+      {
+        "term": "suggest",
+        "pos": "v",
+        "meaning_vi": "hàm ý, gợi ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "promise",
+    "synonyms": [
+      {
+        "term": "pledge",
+        "pos": "v",
+        "meaning_vi": "cam kết",
+        "relation": "near",
+        "note_vi": "Pledge trang trọng và nhấn mạnh sự cam kết hơn promise."
+      }
+    ]
+  },
+  {
+    "word": "reputation",
+    "synonyms": [
+      {
+        "term": "standing",
+        "pos": "n",
+        "meaning_vi": "danh tiếng, vị thế",
+        "relation": "near",
+        "note_vi": "Standing thường nhấn mạnh mức độ được kính trọng trong một cộng đồng hoặc ngành."
+      }
+    ]
+  },
+  {
+    "word": "require",
+    "synonyms": [
+      {
+        "term": "need",
+        "pos": "v",
+        "meaning_vi": "cần",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "synonyms": [
+      {
+        "term": "range",
+        "pos": "n",
+        "meaning_vi": "loạt, nhiều loại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "synonyms": [
+      {
+        "term": "speech",
+        "pos": "n",
+        "meaning_vi": "bài phát biểu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "avoid",
+    "synonyms": [
+      {
+        "term": "prevent",
+        "pos": "v",
+        "meaning_vi": "ngăn ngừa",
+        "relation": "near",
+        "note_vi": "Prevent nhấn mạnh ngăn sự việc xảy ra; avoid còn có thể là chủ động tránh gặp sự việc."
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "synonyms": [
+      {
+        "term": "show",
+        "pos": "v",
+        "meaning_vi": "cho thấy, chứng tỏ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "develop",
+    "synonyms": [
+      {
+        "term": "create",
+        "pos": "v",
+        "meaning_vi": "tạo ra",
+        "relation": "near",
+        "note_vi": "Create nhấn mạnh tạo ra điều mới; develop thường bao gồm quá trình xây dựng và cải tiến."
+      }
+    ]
+  },
+  {
+    "word": "evaluate",
+    "synonyms": [
+      {
+        "term": "assess",
+        "pos": "v",
+        "meaning_vi": "đánh giá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "gather",
+    "synonyms": [
+      {
+        "term": "collect",
+        "pos": "v",
+        "meaning_vi": "thu thập",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "synonyms": [
+      {
+        "term": "proposal",
+        "pos": "n",
+        "meaning_vi": "đề xuất",
+        "relation": "near",
+        "note_vi": "Proposal có thể là kế hoạch chi tiết; offer thường là lời đề nghị cung cấp hoặc thực hiện việc gì."
+      }
+    ]
+  },
+  {
+    "word": "primarily",
+    "synonyms": [
+      {
+        "term": "mainly",
+        "pos": "adv",
+        "meaning_vi": "chủ yếu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "risk",
+    "synonyms": [
+      {
+        "term": "danger",
+        "pos": "n",
+        "meaning_vi": "nguy cơ",
+        "relation": "near",
+        "note_vi": "Danger nhấn mạnh khả năng gây hại; risk trong kinh doanh còn chỉ mức độ bất định hoặc thua lỗ."
+      }
+    ]
+  },
+  {
+    "word": "strategy",
+    "synonyms": [
+      {
+        "term": "approach",
+        "pos": "n",
+        "meaning_vi": "cách tiếp cận",
+        "relation": "near",
+        "note_vi": "Approach là phương hướng xử lý; strategy thường là kế hoạch có mục tiêu dài hạn."
+      }
+    ]
+  },
+  {
+    "word": "strengthen",
+    "synonyms": [
+      {
+        "term": "reinforce",
+        "pos": "v",
+        "meaning_vi": "củng cố, tăng cường",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "substitution",
+    "synonyms": [
+      {
+        "term": "replacement",
+        "pos": "n",
+        "meaning_vi": "sự thay thế",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "accommodate",
+    "synonyms": [
+      {
+        "term": "house",
+        "pos": "v",
+        "meaning_vi": "cung cấp chỗ ở",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "arrangement",
+    "synonyms": [
+      {
+        "term": "configuration",
+        "pos": "n",
+        "meaning_vi": "cách sắp xếp, bố trí",
+        "relation": "near",
+        "note_vi": "Configuration nhấn mạnh vị trí hoặc hình thức bố trí, không chỉ việc tổ chức nói chung."
+      }
+    ]
+  },
+  {
+    "word": "association",
+    "synonyms": [
+      {
+        "term": "organization",
+        "pos": "n",
+        "meaning_vi": "tổ chức",
+        "relation": "near",
+        "note_vi": "Organization là khái niệm rộng; association thường tập hợp thành viên có chung mục đích."
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "synonyms": [
+      {
+        "term": "be present at",
+        "pos": "v",
+        "meaning_vi": "có mặt tại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "get in touch + with somebody",
+    "synonyms": [
+      {
+        "term": "contact",
+        "pos": "v",
+        "meaning_vi": "liên lạc với",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "hold",
+    "synonyms": [
+      {
+        "term": "organize",
+        "pos": "v",
+        "meaning_vi": "tổ chức",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "location",
+    "synonyms": [
+      {
+        "term": "position",
+        "pos": "n",
+        "meaning_vi": "vị trí",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "overcrowded",
+    "synonyms": [
+      {
+        "term": "packed",
+        "pos": "adj",
+        "meaning_vi": "chật kín người",
+        "relation": "near",
+        "note_vi": "Packed nhấn mạnh rất đông; overcrowded còn hàm ý vượt mức phù hợp."
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "synonyms": [
+      {
+        "term": "sign up",
+        "pos": "v",
+        "meaning_vi": "đăng ký",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "select",
+    "synonyms": [
+      {
+        "term": "choose",
+        "pos": "v",
+        "meaning_vi": "lựa chọn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "session",
+    "synonyms": [
+      {
+        "term": "meeting",
+        "pos": "n",
+        "meaning_vi": "cuộc họp",
+        "relation": "near",
+        "note_vi": "Session có thể là một phần trong hội nghị; meeting thường chỉ cả cuộc họp."
+      }
+    ]
+  },
+  {
+    "word": "take part in",
+    "synonyms": [
+      {
+        "term": "participate in",
+        "pos": "v",
+        "meaning_vi": "tham gia vào",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "access",
+    "synonyms": [
+      {
+        "term": "gain access to",
+        "pos": "v",
+        "meaning_vi": "có quyền hoặc khả năng truy cập",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "allocate",
+    "synonyms": [
+      {
+        "term": "assign",
+        "pos": "v",
+        "meaning_vi": "phân bổ, giao cho",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "compatible + with something",
+    "synonyms": [
+      {
+        "term": "interoperable with",
+        "pos": "adj",
+        "meaning_vi": "có thể hoạt động cùng",
+        "relation": "near",
+        "note_vi": "Interoperable with nhấn mạnh các hệ thống trao đổi và sử dụng được thông tin của nhau."
+      }
+    ]
+  },
+  {
+    "word": "delete",
+    "synonyms": [
+      {
+        "term": "erase",
+        "pos": "v",
+        "meaning_vi": "xóa",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "display",
+    "synonyms": [
+      {
+        "term": "show",
+        "pos": "v",
+        "meaning_vi": "hiển thị",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "duplicate",
+    "synonyms": [
+      {
+        "term": "copy",
+        "pos": "v",
+        "meaning_vi": "sao chép",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "failure",
+    "synonyms": [
+      {
+        "term": "breakdown",
+        "pos": "n",
+        "meaning_vi": "sự hỏng hóc",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "figure out",
+    "synonyms": [
+      {
+        "term": "work out",
+        "pos": "v",
+        "meaning_vi": "tìm ra, hiểu ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "ignore",
+    "synonyms": [
+      {
+        "term": "disregard",
+        "pos": "v",
+        "meaning_vi": "phớt lờ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "search",
+    "synonyms": [
+      {
+        "term": "look through",
+        "pos": "v",
+        "meaning_vi": "tìm trong, xem qua",
+        "relation": "near",
+        "note_vi": "Look through là xem qua để tìm thông tin; search có thể dùng công cụ tìm kiếm tự động."
+      }
+    ]
+  },
+  {
+    "word": "shut down",
+    "synonyms": [
+      {
+        "term": "turn off",
+        "pos": "v",
+        "meaning_vi": "tắt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "warning",
+    "synonyms": [
+      {
+        "term": "alert",
+        "pos": "n",
+        "meaning_vi": "cảnh báo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "affordable",
+    "synonyms": [
+      {
+        "term": "inexpensive",
+        "pos": "adj",
+        "meaning_vi": "không đắt",
+        "relation": "near",
+        "note_vi": "Inexpensive nói về mức giá thấp; affordable còn phụ thuộc khả năng chi trả của người mua."
+      }
+    ]
+  },
+  {
+    "word": "as needed",
+    "synonyms": [
+      {
+        "term": "when necessary",
+        "pos": "adv",
+        "meaning_vi": "khi cần thiết",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "capacity",
+    "synonyms": [
+      {
+        "term": "storage space",
+        "pos": "n",
+        "meaning_vi": "dung lượng lưu trữ",
+        "relation": "near",
+        "note_vi": "Chỉ phù hợp nghĩa dung lượng của thiết bị lưu trữ, không thay cho mọi nghĩa của capacity."
+      }
+    ]
+  },
+  {
+    "word": "durable",
+    "synonyms": [
+      {
+        "term": "hard-wearing",
+        "pos": "adj",
+        "meaning_vi": "bền, chịu mài mòn tốt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "be in charge of",
+    "synonyms": [
+      {
+        "term": "be responsible for",
+        "pos": "v",
+        "meaning_vi": "chịu trách nhiệm về",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "initiative",
+    "synonyms": [
+      {
+        "term": "proposal",
+        "pos": "n",
+        "meaning_vi": "sáng kiến, đề xuất",
+        "relation": "near",
+        "note_vi": "Proposal là đề xuất; initiative còn nhấn mạnh hành động chủ động để khởi xướng thay đổi."
+      }
+    ]
+  },
+  {
+    "word": "physically",
+    "synonyms": [
+      {
+        "term": "in person",
+        "pos": "adv",
+        "meaning_vi": "trực tiếp, có mặt tại chỗ",
+        "relation": "near",
+        "note_vi": "Trong nghĩa hiện diện, physically present tương đương present in person; cần đổi vị trí cụm từ."
+      }
+    ]
+  },
+  {
+    "word": "provider",
+    "synonyms": [
+      {
+        "term": "supplier",
+        "pos": "n",
+        "meaning_vi": "nhà cung cấp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "recur",
+    "synonyms": [
+      {
+        "term": "happen again",
+        "pos": "v",
+        "meaning_vi": "xảy ra lần nữa",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "reduction",
+    "synonyms": [
+      {
+        "term": "decrease",
+        "pos": "n",
+        "meaning_vi": "sự giảm bớt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "stay on top of",
+    "synonyms": [
+      {
+        "term": "keep abreast of",
+        "pos": "v",
+        "meaning_vi": "nắm bắt, cập nhật",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "stock",
+    "synonyms": [
+      {
+        "term": "inventory",
+        "pos": "n",
+        "meaning_vi": "hàng tồn kho",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "appreciation",
+    "synonyms": [
+      {
+        "term": "gratitude",
+        "pos": "n",
+        "meaning_vi": "lòng biết ơn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "bring in",
+    "synonyms": [
+      {
+        "term": "recruit",
+        "pos": "v",
+        "meaning_vi": "tuyển dụng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "casually",
+    "synonyms": [
+      {
+        "term": "informally",
+        "pos": "adv",
+        "meaning_vi": "một cách không trang trọng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "code",
+    "synonyms": [
+      {
+        "term": "rules",
+        "pos": "n",
+        "meaning_vi": "các quy tắc",
+        "relation": "near",
+        "note_vi": "Code là hệ thống quy tắc; rules chỉ các quy định riêng lẻ hoặc tập hợp quy định."
+      }
+    ]
+  },
+  {
+    "word": "expose",
+    "synonyms": [
+      {
+        "term": "reveal",
+        "pos": "v",
+        "meaning_vi": "làm lộ, tiết lộ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "glimpse",
+    "synonyms": [
+      {
+        "term": "brief look",
+        "pos": "n",
+        "meaning_vi": "cái nhìn thoáng qua",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "be made of",
+    "synonyms": [
+      {
+        "term": "be composed of",
+        "pos": "v",
+        "meaning_vi": "được cấu thành từ",
+        "relation": "near",
+        "note_vi": "Be composed of nhấn mạnh thành phần; be made of thường nói chất liệu vẫn nhận biết được."
+      }
+    ]
+  },
+  {
+    "word": "out of",
+    "synonyms": []
+  },
+  {
+    "word": "outdated",
+    "synonyms": [
+      {
+        "term": "obsolete",
+        "pos": "adj",
+        "meaning_vi": "lỗi thời",
+        "relation": "near",
+        "note_vi": "Obsolete thường hàm ý không còn được dùng hoặc cần đến; outdated chỉ chưa theo kịp hiện tại."
+      }
+    ]
+  },
+  {
+    "word": "practice",
+    "synonyms": [
+      {
+        "term": "rehearse",
+        "pos": "v",
+        "meaning_vi": "tập luyện trước",
+        "relation": "near",
+        "note_vi": "Rehearse thường là tập trước một màn thể hiện; practice còn chỉ luyện kỹ năng nói chung."
+      }
+    ]
+  },
+  {
+    "word": "reinforce",
+    "synonyms": [
+      {
+        "term": "strengthen",
+        "pos": "v",
+        "meaning_vi": "củng cố, tăng cường",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "verbally",
+    "synonyms": [
+      {
+        "term": "orally",
+        "pos": "adv",
+        "meaning_vi": "bằng lời nói",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "device",
+    "synonyms": [
+      {
+        "term": "apparatus",
+        "pos": "n",
+        "meaning_vi": "thiết bị, dụng cụ",
+        "relation": "near",
+        "note_vi": "Apparatus thường chỉ thiết bị chuyên dụng hoặc cả bộ dụng cụ, trang trọng hơn device."
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "synonyms": [
+      {
+        "term": "ease",
+        "pos": "v",
+        "meaning_vi": "làm cho dễ dàng hơn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "synonyms": [
+      {
+        "term": "communications system",
+        "pos": "n",
+        "meaning_vi": "hệ thống liên lạc",
+        "relation": "near",
+        "note_vi": "Đây là khái niệm rộng hơn mạng máy tính, có thể bao gồm cả điện thoại hoặc bộ đàm."
+      }
+    ]
+  },
+  {
+    "word": "popularity",
+    "synonyms": [
+      {
+        "term": "prevalence",
+        "pos": "n",
+        "meaning_vi": "mức độ phổ biến",
+        "relation": "near",
+        "note_vi": "Prevalence nhấn mạnh mức độ xuất hiện; popularity còn hàm ý được ưa chuộng."
+      }
+    ]
+  },
+  {
+    "word": "process",
+    "synonyms": [
+      {
+        "term": "handle",
+        "pos": "v",
+        "meaning_vi": "xử lý",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "synonyms": [
+      {
+        "term": "substitute for",
+        "pos": "v",
+        "meaning_vi": "thay thế cho",
+        "relation": "near",
+        "note_vi": "Đổi cấu trúc: thay X bằng Y là substitute Y for X, khác replace X with Y."
+      }
+    ]
+  },
+  {
+    "word": "revolution",
+    "synonyms": [
+      {
+        "term": "transformation",
+        "pos": "n",
+        "meaning_vi": "sự chuyển đổi lớn",
+        "relation": "near",
+        "note_vi": "Revolution nhấn mạnh thay đổi căn bản hoặc đột phá mạnh hơn transformation."
+      }
+    ]
+  },
+  {
+    "word": "sharp",
+    "synonyms": [
+      {
+        "term": "perceptive",
+        "pos": "adj",
+        "meaning_vi": "sắc sảo, tinh tường",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "skill",
+    "synonyms": [
+      {
+        "term": "ability",
+        "pos": "n",
+        "meaning_vi": "khả năng",
+        "relation": "near",
+        "note_vi": "Skill thường có được qua học tập và thực hành; ability rộng hơn, có thể là năng lực bẩm sinh."
+      }
+    ]
+  },
+  {
+    "word": "software",
+    "synonyms": [
+      {
+        "term": "computer programs",
+        "pos": "n",
+        "meaning_vi": "các chương trình máy tính",
+        "relation": "near",
+        "note_vi": "Software là danh từ không đếm được, có thể bao gồm cả dữ liệu và thành phần hỗ trợ chương trình."
+      }
+    ]
+  },
+  {
+    "word": "store",
+    "synonyms": [
+      {
+        "term": "save",
+        "pos": "v",
+        "meaning_vi": "lưu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "technical",
+    "synonyms": [
+      {
+        "term": "specialist",
+        "pos": "adj",
+        "meaning_vi": "thuộc chuyên môn",
+        "relation": "near",
+        "note_vi": "Specialist nhấn mạnh chuyên môn riêng; technical trong ví dụ nói cụ thể đến hỗ trợ công nghệ."
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "synonyms": [
+      {
+        "term": "put together",
+        "pos": "v",
+        "meaning_vi": "lắp ráp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "beforehand",
+    "synonyms": [
+      {
+        "term": "in advance",
+        "pos": "adv",
+        "meaning_vi": "trước, từ trước",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "complication",
+    "synonyms": [
+      {
+        "term": "problem",
+        "pos": "n",
+        "meaning_vi": "vấn đề gây khó khăn",
+        "relation": "near",
+        "note_vi": "Complication là vấn đề phát sinh khiến tình huống phức tạp hơn; problem có nghĩa rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "courier",
+    "synonyms": [
+      {
+        "term": "messenger",
+        "pos": "n",
+        "meaning_vi": "người đưa tin, chuyển tài liệu",
+        "relation": "near",
+        "note_vi": "Messenger thường chuyển tin hoặc tài liệu; courier còn vận chuyển bưu kiện theo dịch vụ chuyên nghiệp."
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "synonyms": [
+      {
+        "term": "hand out",
+        "pos": "v",
+        "meaning_vi": "phân phát",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "synonyms": [
+      {
+        "term": "expedited",
+        "pos": "adj",
+        "meaning_vi": "được xử lý nhanh",
+        "relation": "near",
+        "note_vi": "Expedited nhấn mạnh được đẩy nhanh xử lý; express thường là tên hoặc loại dịch vụ giao nhanh."
+      }
+    ]
+  },
+  {
+    "word": "fold",
+    "synonyms": [
+      {
+        "term": "bend",
+        "pos": "v",
+        "meaning_vi": "gập, bẻ cong",
+        "relation": "near",
+        "note_vi": "Fold tạo nếp gấp bằng cách gập một phần lên phần khác; bend không nhất thiết tạo nếp."
+      }
+    ]
+  },
+  {
+    "word": "layout",
+    "synonyms": [
+      {
+        "term": "arrangement",
+        "pos": "n",
+        "meaning_vi": "cách bố trí",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "mention",
+    "synonyms": [
+      {
+        "term": "refer to",
+        "pos": "v",
+        "meaning_vi": "đề cập đến",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "petition",
+    "synonyms": [
+      {
+        "term": "formal request",
+        "pos": "n",
+        "meaning_vi": "yêu cầu chính thức",
+        "relation": "near",
+        "note_vi": "Petition thường là yêu cầu bằng văn bản, có thể kèm nhiều chữ ký ủng hộ."
+      }
+    ]
+  },
+  {
+    "word": "proof",
+    "synonyms": [
+      {
+        "term": "evidence",
+        "pos": "n",
+        "meaning_vi": "bằng chứng",
+        "relation": "near",
+        "note_vi": "Proof nhấn mạnh đủ để chứng minh; evidence có thể chỉ là thông tin hỗ trợ kết luận."
+      }
+    ]
+  },
+  {
+    "word": "revise",
+    "synonyms": [
+      {
+        "term": "amend",
+        "pos": "v",
+        "meaning_vi": "sửa đổi",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "abundant",
+    "synonyms": [
+      {
+        "term": "plentiful",
+        "pos": "adj",
+        "meaning_vi": "dồi dào",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "accomplishment",
+    "synonyms": [
+      {
+        "term": "achievement",
+        "pos": "n",
+        "meaning_vi": "thành tựu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "bring together",
+    "synonyms": [
+      {
+        "term": "unite",
+        "pos": "v",
+        "meaning_vi": "tập hợp, kết nối",
+        "relation": "near",
+        "note_vi": "Unite còn hàm ý tạo sự đoàn kết hoặc thống nhất; bring together có thể chỉ đưa mọi người đến cùng nơi."
+      }
+    ]
+  },
+  {
+    "word": "candidate",
+    "synonyms": [
+      {
+        "term": "applicant",
+        "pos": "n",
+        "meaning_vi": "người ứng tuyển",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "come up with",
+    "synonyms": [
+      {
+        "term": "devise",
+        "pos": "v",
+        "meaning_vi": "nghĩ ra, đề ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "commensurate with",
+    "synonyms": [
+      {
+        "term": "proportionate to",
+        "pos": "adj",
+        "meaning_vi": "tương xứng với",
+        "relation": "near",
+        "note_vi": "Proportionate to nhấn mạnh tỷ lệ tương ứng; commensurate with nhấn mạnh mức độ phù hợp về giá trị hoặc quy mô."
+      }
+    ]
+  },
+  {
+    "word": "match",
+    "synonyms": [
+      {
+        "term": "fit",
+        "pos": "n",
+        "meaning_vi": "sự phù hợp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "synonyms": [
+      {
+        "term": "professional summary",
+        "pos": "n",
+        "meaning_vi": "bản tóm tắt nghề nghiệp",
+        "relation": "near",
+        "note_vi": "Profile có thể gồm nhiều thông tin cá nhân và nghề nghiệp hơn một bản tóm tắt."
+      }
+    ]
+  },
+  {
+    "word": "qualification",
+    "synonyms": [
+      {
+        "term": "credential",
+        "pos": "n",
+        "meaning_vi": "văn bằng, chứng nhận năng lực",
+        "relation": "near",
+        "note_vi": "Credential là bằng chứng về năng lực; qualification còn có thể chỉ năng lực hoặc điều kiện cần thiết."
+      }
+    ]
+  },
+  {
+    "word": "recruit",
+    "synonyms": [
+      {
+        "term": "hire",
+        "pos": "v",
+        "meaning_vi": "tuyển dụng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "synonyms": [
+      {
+        "term": "hand in",
+        "pos": "v",
+        "meaning_vi": "nộp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "time-consuming",
+    "synonyms": [
+      {
+        "term": "lengthy",
+        "pos": "adj",
+        "meaning_vi": "kéo dài",
+        "relation": "near",
+        "note_vi": "Lengthy chỉ thời lượng dài; time-consuming nhấn mạnh việc chiếm nhiều thời gian và công sức."
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "synonyms": [
+      {
+        "term": "capacity",
+        "pos": "n",
+        "meaning_vi": "khả năng, năng lực",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "apply for",
+    "synonyms": [
+      {
+        "term": "seek",
+        "pos": "v",
+        "meaning_vi": "tìm kiếm, xin",
+        "relation": "near",
+        "note_vi": "Seek a position là tìm kiếm vị trí; apply for nhấn mạnh hành động nộp đơn ứng tuyển."
+      }
+    ]
+  },
+  {
+    "word": "background",
+    "synonyms": [
+      {
+        "term": "experience",
+        "pos": "n",
+        "meaning_vi": "kinh nghiệm",
+        "relation": "near",
+        "note_vi": "Background còn gồm quá trình học tập và môi trường xuất thân; experience chỉ phần kinh nghiệm."
+      }
+    ]
+  },
+  {
+    "word": "be ready for",
+    "synonyms": [
+      {
+        "term": "be prepared for",
+        "pos": "v",
+        "meaning_vi": "sẵn sàng cho",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "call in",
+    "synonyms": [
+      {
+        "term": "summon",
+        "pos": "v",
+        "meaning_vi": "triệu tập, gọi đến",
+        "relation": "near",
+        "note_vi": "Summon trang trọng và có sắc thái yêu cầu mạnh hơn call in."
+      }
+    ]
+  },
+  {
+    "word": "confidence",
+    "synonyms": [
+      {
+        "term": "self-assurance",
+        "pos": "n",
+        "meaning_vi": "sự tự tin",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "constantly",
+    "synonyms": [
+      {
+        "term": "continually",
+        "pos": "adv",
+        "meaning_vi": "liên tục, lặp đi lặp lại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "synonyms": [
+      {
+        "term": "specialist",
+        "pos": "n",
+        "meaning_vi": "chuyên gia",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "follow up",
+    "synonyms": [
+      {
+        "term": "check back",
+        "pos": "v",
+        "meaning_vi": "liên hệ lại để nắm tình hình",
+        "relation": "near",
+        "note_vi": "Check back chỉ việc hỏi lại tình hình; follow up còn bao gồm hành động tiếp theo để thúc đẩy kết quả."
+      }
+    ]
+  },
+  {
+    "word": "hesitant",
+    "synonyms": [
+      {
+        "term": "reluctant",
+        "pos": "adj",
+        "meaning_vi": "miễn cưỡng",
+        "relation": "near",
+        "note_vi": "Reluctant nhấn mạnh không muốn làm; hesitant có thể chỉ do dự vì chưa chắc chắn."
+      }
+    ]
+  },
+  {
+    "word": "interview",
+    "synonyms": []
+  },
+  {
+    "word": "present",
+    "synonyms": [
+      {
+        "term": "put forward",
+        "pos": "v",
+        "meaning_vi": "trình bày, đưa ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "weaken",
+    "synonyms": [
+      {
+        "term": "undermine",
+        "pos": "v",
+        "meaning_vi": "làm suy yếu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "conduct",
+    "synonyms": [
+      {
+        "term": "carry out",
+        "pos": "v",
+        "meaning_vi": "tiến hành, thực hiện",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "generate",
+    "synonyms": [
+      {
+        "term": "produce",
+        "pos": "v",
+        "meaning_vi": "tạo ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "hire",
+    "synonyms": [
+      {
+        "term": "recruit",
+        "pos": "v",
+        "meaning_vi": "tuyển dụng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "keep up with",
+    "synonyms": [
+      {
+        "term": "stay abreast of",
+        "pos": "v",
+        "meaning_vi": "theo kịp, cập nhật",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "look up to somebody",
+    "synonyms": [
+      {
+        "term": "admire",
+        "pos": "v",
+        "meaning_vi": "ngưỡng mộ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "mentor",
+    "synonyms": [
+      {
+        "term": "adviser",
+        "pos": "n",
+        "meaning_vi": "người cố vấn",
+        "relation": "near",
+        "note_vi": "Mentor thường hướng dẫn lâu dài và chia sẻ kinh nghiệm; adviser có thể chỉ tư vấn về một vấn đề."
+      }
+    ]
+  },
+  {
+    "word": "on track",
+    "synonyms": [
+      {
+        "term": "on schedule",
+        "pos": "adj",
+        "meaning_vi": "đúng tiến độ",
+        "relation": "near",
+        "note_vi": "On schedule nhấn mạnh thời gian; on track còn bao gồm việc tiến tới đúng mục tiêu."
+      }
+    ]
+  },
+  {
+    "word": "reject",
+    "synonyms": [
+      {
+        "term": "turn down",
+        "pos": "v",
+        "meaning_vi": "từ chối",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "set up",
+    "synonyms": [
+      {
+        "term": "arrange",
+        "pos": "v",
+        "meaning_vi": "sắp xếp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "success",
+    "synonyms": [
+      {
+        "term": "positive outcome",
+        "pos": "n",
+        "meaning_vi": "kết quả tốt",
+        "relation": "near",
+        "note_vi": "Success có thể chỉ việc đạt mục tiêu hoặc sự thành công lâu dài, rộng hơn một kết quả đơn lẻ."
+      }
+    ]
+  },
+  {
+    "word": "training",
+    "synonyms": [
+      {
+        "term": "instruction",
+        "pos": "n",
+        "meaning_vi": "sự hướng dẫn, giảng dạy",
+        "relation": "near",
+        "note_vi": "Instruction nhấn mạnh truyền đạt kiến thức hoặc chỉ dẫn; training còn gồm thực hành kỹ năng."
+      }
+    ]
+  },
+  {
+    "word": "update",
+    "synonyms": [
+      {
+        "term": "bring up to date",
+        "pos": "v",
+        "meaning_vi": "cập nhật",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "be aware of",
+    "synonyms": [
+      {
+        "term": "know about",
+        "pos": "v",
+        "meaning_vi": "biết về",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "basis",
+    "synonyms": [
+      {
+        "term": "foundation",
+        "pos": "n",
+        "meaning_vi": "nền tảng, cơ sở",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "benefit",
+    "synonyms": [
+      {
+        "term": "perk",
+        "pos": "n",
+        "meaning_vi": "phúc lợi thêm",
+        "relation": "near",
+        "note_vi": "Perk thường là đặc quyền hoặc lợi ích thêm trong công việc, mang sắc thái thân mật."
+      }
+    ]
+  },
+  {
+    "word": "compensate",
+    "synonyms": [
+      {
+        "term": "reimburse",
+        "pos": "v",
+        "meaning_vi": "hoàn trả chi phí",
+        "relation": "near",
+        "note_vi": "Reimburse dùng cho khoản đã chi; compensate còn dùng để bồi thường tổn thất hoặc công sức."
+      }
+    ]
+  },
+  {
+    "word": "delicate",
+    "synonyms": [
+      {
+        "term": "sensitive",
+        "pos": "adj",
+        "meaning_vi": "tế nhị, nhạy cảm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "eligible",
+    "synonyms": [
+      {
+        "term": "qualified",
+        "pos": "adj",
+        "meaning_vi": "đủ điều kiện",
+        "relation": "near",
+        "note_vi": "Qualified thường nhấn mạnh bằng cấp hoặc năng lực; eligible dựa vào tiêu chí được phép hưởng hoặc tham gia."
+      }
+    ]
+  },
+  {
+    "word": "flexibly",
+    "synonyms": [
+      {
+        "term": "adaptably",
+        "pos": "adv",
+        "meaning_vi": "một cách linh hoạt, dễ thích ứng",
+        "relation": "near",
+        "note_vi": "Adaptably nhấn mạnh khả năng thích ứng; flexibly còn chỉ cách sắp xếp có thể thay đổi."
+      }
+    ]
+  },
+  {
+    "word": "negotiate",
+    "synonyms": [
+      {
+        "term": "bargain",
+        "pos": "v",
+        "meaning_vi": "thương lượng",
+        "relation": "near",
+        "note_vi": "Bargain thường tập trung vào giá cả hoặc điều kiện trao đổi; negotiate có phạm vi rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "retire",
+    "synonyms": [
+      {
+        "term": "leave the workforce",
+        "pos": "v",
+        "meaning_vi": "nghỉ làm, rời lực lượng lao động",
+        "relation": "near",
+        "note_vi": "Retire thường là nghỉ hưu; leave the workforce còn có thể là tạm nghỉ vì lý do khác."
+      }
+    ]
+  },
+  {
+    "word": "vested",
+    "synonyms": [
+      {
+        "term": "conferred",
+        "pos": "adj",
+        "meaning_vi": "được trao",
+        "relation": "near",
+        "note_vi": "Vested in nhấn mạnh quyền chính thức thuộc về ai; dùng conferred on khi nói quyền được trao cho ai."
+      }
+    ]
+  },
+  {
+    "word": "wage",
+    "synonyms": [
+      {
+        "term": "pay",
+        "pos": "n",
+        "meaning_vi": "tiền công",
+        "relation": "near",
+        "note_vi": "Pay là tiền công nói chung; wage thường được tính theo giờ hoặc tuần."
+      }
+    ]
+  },
+  {
+    "word": "raise",
+    "synonyms": [
+      {
+        "term": "increase",
+        "pos": "v",
+        "meaning_vi": "tăng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "achievement",
+    "synonyms": [
+      {
+        "term": "accomplishment",
+        "pos": "n",
+        "meaning_vi": "thành tựu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "synonyms": [
+      {
+        "term": "provide",
+        "pos": "v",
+        "meaning_vi": "đóng góp, cung cấp",
+        "relation": "near",
+        "note_vi": "Provide nhấn mạnh cung cấp; contribute nhấn mạnh thêm phần của mình vào nỗ lực chung."
+      }
+    ]
+  },
+  {
+    "word": "dedication",
+    "synonyms": [
+      {
+        "term": "commitment",
+        "pos": "n",
+        "meaning_vi": "sự tận tâm, cam kết",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "looking forward to V-ing",
+    "synonyms": [
+      {
+        "term": "eagerly anticipate",
+        "pos": "v",
+        "meaning_vi": "háo hức mong đợi",
+        "relation": "near",
+        "note_vi": "Anticipate có thể theo sau trực tiếp bằng danh từ hoặc V-ing, không dùng to như look forward to."
+      }
+    ]
+  },
+  {
+    "word": "look to",
+    "synonyms": [
+      {
+        "term": "rely on",
+        "pos": "v",
+        "meaning_vi": "trông cậy vào",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "loyal",
+    "synonyms": [
+      {
+        "term": "faithful",
+        "pos": "adj",
+        "meaning_vi": "trung thành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "merit",
+    "synonyms": [
+      {
+        "term": "worthiness",
+        "pos": "n",
+        "meaning_vi": "giá trị, sự xứng đáng",
+        "relation": "near",
+        "note_vi": "Merit trong tuyển dụng nhấn mạnh năng lực hoặc thành tích xứng đáng; worthiness có nghĩa rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "obviously",
+    "synonyms": [
+      {
+        "term": "clearly",
+        "pos": "adv",
+        "meaning_vi": "rõ ràng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "synonyms": [
+      {
+        "term": "advance",
+        "pos": "v",
+        "meaning_vi": "thăng chức, đưa lên vị trí cao hơn",
+        "relation": "near",
+        "note_vi": "Advance còn có thể chỉ sự tiến bộ; promote nhấn mạnh trao chức vụ cao hơn."
+      }
+    ]
+  },
+  {
+    "word": "recognition",
+    "synonyms": [
+      {
+        "term": "acknowledgment",
+        "pos": "n",
+        "meaning_vi": "sự ghi nhận",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "value",
+    "synonyms": [
+      {
+        "term": "appraise",
+        "pos": "v",
+        "meaning_vi": "định giá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "bargain",
+    "synonyms": [
+      {
+        "term": "good deal",
+        "pos": "n",
+        "meaning_vi": "món hời",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "synonyms": [
+      {
+        "term": "endure",
+        "pos": "v",
+        "meaning_vi": "chịu đựng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "behavior",
+    "synonyms": [
+      {
+        "term": "conduct",
+        "pos": "n",
+        "meaning_vi": "hành vi, cách cư xử",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "checkout",
+    "synonyms": [
+      {
+        "term": "payment counter",
+        "pos": "n",
+        "meaning_vi": "quầy thanh toán",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "comfort",
+    "synonyms": [
+      {
+        "term": "ease",
+        "pos": "n",
+        "meaning_vi": "sự thoải mái",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "expand",
+    "synonyms": [
+      {
+        "term": "broaden",
+        "pos": "v",
+        "meaning_vi": "mở rộng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "explore",
+    "synonyms": [
+      {
+        "term": "investigate",
+        "pos": "v",
+        "meaning_vi": "tìm hiểu, khảo sát",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "item",
+    "synonyms": [
+      {
+        "term": "article",
+        "pos": "n",
+        "meaning_vi": "món đồ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "mandatory",
+    "synonyms": [
+      {
+        "term": "compulsory",
+        "pos": "adj",
+        "meaning_vi": "bắt buộc",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "merchandise",
+    "synonyms": [
+      {
+        "term": "goods",
+        "pos": "n",
+        "meaning_vi": "hàng hóa",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "strictly",
+    "synonyms": [
+      {
+        "term": "rigorously",
+        "pos": "adv",
+        "meaning_vi": "một cách nghiêm ngặt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "trend",
+    "synonyms": [
+      {
+        "term": "tendency",
+        "pos": "n",
+        "meaning_vi": "xu hướng",
+        "relation": "near",
+        "note_vi": "Tendency có thể là khuynh hướng hành vi; trend thường là hướng thay đổi được nhiều người thể hiện."
+      }
+    ]
+  },
+  {
+    "word": "diversify",
+    "synonyms": [
+      {
+        "term": "broaden the range of",
+        "pos": "v",
+        "meaning_vi": "đa dạng hóa, mở rộng phạm vi",
+        "relation": "near",
+        "note_vi": "Cụm này nhấn mạnh mở rộng chủng loại; diversify còn nhấn mạnh tạo nhiều nguồn hoặc lĩnh vực khác nhau."
+      }
+    ]
+  },
+  {
+    "word": "consistent",
+    "synonyms": [
+      {
+        "term": "uniform",
+        "pos": "adj",
+        "meaning_vi": "đồng nhất",
+        "relation": "near",
+        "note_vi": "Uniform nhấn mạnh giống nhau giữa các sản phẩm; consistent còn nhấn mạnh ổn định qua thời gian."
+      }
+    ]
+  },
+  {
+    "word": "enterprise",
+    "synonyms": [
+      {
+        "term": "business",
+        "pos": "n",
+        "meaning_vi": "doanh nghiệp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "essentially",
+    "synonyms": [
+      {
+        "term": "basically",
+        "pos": "adv",
+        "meaning_vi": "về cơ bản",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "synonyms": [
+      {
+        "term": "operate",
+        "pos": "v",
+        "meaning_vi": "hoạt động",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "maintain",
+    "synonyms": [
+      {
+        "term": "sustain",
+        "pos": "v",
+        "meaning_vi": "duy trì",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "obtain",
+    "synonyms": [
+      {
+        "term": "get",
+        "pos": "v",
+        "meaning_vi": "có được, đạt được",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "prerequisite",
+    "synonyms": [
+      {
+        "term": "precondition",
+        "pos": "n",
+        "meaning_vi": "điều kiện tiên quyết",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "quality",
+    "synonyms": [
+      {
+        "term": "standard",
+        "pos": "n",
+        "meaning_vi": "mức chất lượng",
+        "relation": "near",
+        "note_vi": "Standard chỉ mức chất lượng đạt được hoặc yêu cầu; quality còn chỉ đặc tính và độ tốt nói chung."
+      }
+    ]
+  },
+  {
+    "word": "source",
+    "synonyms": [
+      {
+        "term": "supplier",
+        "pos": "n",
+        "meaning_vi": "nhà cung cấp",
+        "relation": "near",
+        "note_vi": "Trong ví dụ, source là nguồn cung và có thể thay bằng supplier; source còn chỉ nơi xuất xứ hoặc nguồn thông tin."
+      }
+    ]
+  },
+  {
+    "word": "stationery",
+    "synonyms": [
+      {
+        "term": "office supplies",
+        "pos": "n",
+        "meaning_vi": "văn phòng phẩm",
+        "relation": "near",
+        "note_vi": "Office supplies rộng hơn, còn có thể gồm thiết bị và vật dụng ngoài giấy bút."
+      }
+    ]
+  },
+  {
+    "word": "smooth",
+    "synonyms": [
+      {
+        "term": "trouble-free",
+        "pos": "adj",
+        "meaning_vi": "không gặp trục trặc",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "carrier",
+    "synonyms": [
+      {
+        "term": "transport company",
+        "pos": "n",
+        "meaning_vi": "công ty vận chuyển",
+        "relation": "near",
+        "note_vi": "Chỉ bên vận chuyển là doanh nghiệp; carrier còn có thể chỉ cá nhân."
+      }
+    ]
+  },
+  {
+    "word": "inventory",
+    "synonyms": [
+      {
+        "term": "stock",
+        "pos": "n",
+        "meaning_vi": "hàng tồn kho",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "accurately",
+    "synonyms": [
+      {
+        "term": "precisely",
+        "pos": "adv",
+        "meaning_vi": "một cách chính xác",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "catalog",
+    "synonyms": [
+      {
+        "term": "product listing",
+        "pos": "n",
+        "meaning_vi": "danh mục sản phẩm",
+        "relation": "near",
+        "note_vi": "Nhấn mạnh danh sách sản phẩm; catalog có thể là một ấn phẩm đầy đủ hơn."
+      }
+    ]
+  },
+  {
+    "word": "fulfill",
+    "synonyms": [
+      {
+        "term": "complete",
+        "pos": "v",
+        "meaning_vi": "hoàn thành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "integral",
+    "synonyms": [
+      {
+        "term": "essential",
+        "pos": "adj",
+        "meaning_vi": "thiết yếu",
+        "relation": "near",
+        "note_vi": "Essential nhấn mạnh sự cần thiết; integral nhấn mạnh là phần không thể tách rời."
+      }
+    ]
+  },
+  {
+    "word": "minimize",
+    "synonyms": [
+      {
+        "term": "reduce",
+        "pos": "v",
+        "meaning_vi": "giảm bớt",
+        "relation": "near",
+        "note_vi": "Reduce chỉ giảm; minimize nhấn mạnh giảm xuống mức thấp nhất có thể."
+      }
+    ]
+  },
+  {
+    "word": "on hand",
+    "synonyms": [
+      {
+        "term": "available",
+        "pos": "adj",
+        "meaning_vi": "có sẵn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "ship",
+    "synonyms": [
+      {
+        "term": "dispatch",
+        "pos": "v",
+        "meaning_vi": "gửi hàng đi",
+        "relation": "near",
+        "note_vi": "Dispatch nhấn mạnh khâu gửi đi; ship bao quát việc vận chuyển hàng."
+      }
+    ]
+  },
+  {
+    "word": "sufficiently",
+    "synonyms": [
+      {
+        "term": "adequately",
+        "pos": "adv",
+        "meaning_vi": "một cách đủ mức",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "supply",
+    "synonyms": [
+      {
+        "term": "provide",
+        "pos": "v",
+        "meaning_vi": "cung cấp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "receive",
+    "synonyms": [
+      {
+        "term": "get",
+        "pos": "v",
+        "meaning_vi": "nhận được",
+        "relation": "near",
+        "note_vi": "Get ít trang trọng hơn và có nhiều nghĩa khác ngoài nhận được."
+      }
+    ]
+  },
+  {
+    "word": "charge",
+    "synonyms": [
+      {
+        "term": "fee",
+        "pos": "n",
+        "meaning_vi": "khoản phí",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "compile",
+    "synonyms": [
+      {
+        "term": "assemble",
+        "pos": "v",
+        "meaning_vi": "tập hợp",
+        "relation": "near",
+        "note_vi": "Assemble nhấn mạnh tập hợp tài liệu; compile thường còn gồm sắp xếp thành một bản hoàn chỉnh."
+      }
+    ]
+  },
+  {
+    "word": "customer",
+    "synonyms": [
+      {
+        "term": "buyer",
+        "pos": "n",
+        "meaning_vi": "người mua",
+        "relation": "near",
+        "note_vi": "Buyer nhấn mạnh việc mua; customer nhấn mạnh quan hệ với cửa hàng hoặc doanh nghiệp."
+      }
+    ]
+  },
+  {
+    "word": "discount",
+    "synonyms": [
+      {
+        "term": "price reduction",
+        "pos": "n",
+        "meaning_vi": "sự giảm giá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "dispute",
+    "synonyms": [
+      {
+        "term": "challenge",
+        "pos": "v",
+        "meaning_vi": "phản đối tính đúng đắn",
+        "relation": "near",
+        "note_vi": "Challenge rộng hơn; trong hóa đơn, chỉ việc phản đối một khoản phí hoặc quyết định."
+      }
+    ]
+  },
+  {
+    "word": "efficient",
+    "synonyms": [
+      {
+        "term": "productive",
+        "pos": "adj",
+        "meaning_vi": "có năng suất",
+        "relation": "near",
+        "note_vi": "Productive nhấn mạnh đầu ra; efficient nhấn mạnh sử dụng ít thời gian và nguồn lực."
+      }
+    ]
+  },
+  {
+    "word": "estimate",
+    "synonyms": [
+      {
+        "term": "approximate",
+        "pos": "v",
+        "meaning_vi": "ước tính",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "impose",
+    "synonyms": [
+      {
+        "term": "levy",
+        "pos": "v",
+        "meaning_vi": "áp thu",
+        "relation": "near",
+        "note_vi": "Levy dùng với thuế hoặc khoản phí, không thay impose trong mọi ngữ cảnh ép buộc."
+      }
+    ]
+  },
+  {
+    "word": "mistake",
+    "synonyms": [
+      {
+        "term": "error",
+        "pos": "n",
+        "meaning_vi": "lỗi",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "prompt",
+    "synonyms": [
+      {
+        "term": "quick",
+        "pos": "adj",
+        "meaning_vi": "nhanh chóng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "rectify",
+    "synonyms": [
+      {
+        "term": "correct",
+        "pos": "v",
+        "meaning_vi": "sửa cho đúng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "terms",
+    "synonyms": [
+      {
+        "term": "conditions",
+        "pos": "n",
+        "meaning_vi": "các điều kiện",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "adjustment",
+    "synonyms": [
+      {
+        "term": "modification",
+        "pos": "n",
+        "meaning_vi": "sự điều chỉnh",
+        "relation": "near",
+        "note_vi": "Modification có thể là thay đổi lớn; adjustment thường là điều chỉnh nhỏ để phù hợp hơn."
+      }
+    ]
+  },
+  {
+    "word": "automatic",
+    "synonyms": [
+      {
+        "term": "automated",
+        "pos": "adj",
+        "meaning_vi": "được tự động hóa",
+        "relation": "near",
+        "note_vi": "Automated nhấn mạnh công việc đã được giao cho máy; automatic mô tả hoạt động tự động."
+      }
+    ]
+  },
+  {
+    "word": "crucial",
+    "synonyms": [
+      {
+        "term": "vital",
+        "pos": "adj",
+        "meaning_vi": "cực kỳ quan trọng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "discrepancy",
+    "synonyms": [
+      {
+        "term": "inconsistency",
+        "pos": "n",
+        "meaning_vi": "sự không nhất quán",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "synonyms": [
+      {
+        "term": "interrupt",
+        "pos": "v",
+        "meaning_vi": "làm gián đoạn",
+        "relation": "near",
+        "note_vi": "Interrupt nhấn mạnh ngắt công việc đang diễn ra; disturb còn có thể là gây phiền hoặc bất an."
+      }
+    ]
+  },
+  {
+    "word": "reflection",
+    "synonyms": [
+      {
+        "term": "reflected image",
+        "pos": "n",
+        "meaning_vi": "hình ảnh phản chiếu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "synonyms": [
+      {
+        "term": "manage",
+        "pos": "v",
+        "meaning_vi": "điều hành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "scan",
+    "synonyms": [
+      {
+        "term": "skim",
+        "pos": "v",
+        "meaning_vi": "đọc lướt",
+        "relation": "near",
+        "note_vi": "Skim để nắm ý chính; scan thường để tìm nhanh một thông tin cụ thể."
+      }
+    ]
+  },
+  {
+    "word": "subtract",
+    "synonyms": [
+      {
+        "term": "deduct",
+        "pos": "v",
+        "meaning_vi": "trừ đi",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "tedious",
+    "synonyms": [
+      {
+        "term": "monotonous",
+        "pos": "adj",
+        "meaning_vi": "đơn điệu, buồn tẻ",
+        "relation": "near",
+        "note_vi": "Monotonous nhấn mạnh sự lặp lại; tedious nhấn mạnh gây chán vì lâu hoặc tẻ nhạt."
+      }
+    ]
+  },
+  {
+    "word": "verify",
+    "synonyms": [
+      {
+        "term": "confirm",
+        "pos": "v",
+        "meaning_vi": "xác nhận",
+        "relation": "near",
+        "note_vi": "Verify nhấn mạnh kiểm tra chứng cứ để xác minh; confirm còn dùng để xác nhận điều đã biết."
+      }
+    ]
+  },
+  {
+    "word": "install",
+    "synonyms": [
+      {
+        "term": "set up",
+        "pos": "v",
+        "meaning_vi": "cài đặt, lắp đặt",
+        "relation": "near",
+        "note_vi": "Set up rộng hơn và có thể bao gồm cấu hình hoặc chuẩn bị sau khi lắp đặt."
+      }
+    ]
+  },
+  {
+    "word": "accept",
+    "synonyms": [
+      {
+        "term": "receive",
+        "pos": "v",
+        "meaning_vi": "tiếp nhận",
+        "relation": "near",
+        "note_vi": "Accept bao hàm đồng ý nhận; receive không nhất thiết bao hàm sự chấp thuận."
+      }
+    ]
+  },
+  {
+    "word": "balance",
+    "synonyms": [
+      {
+        "term": "remaining amount",
+        "pos": "n",
+        "meaning_vi": "số tiền còn lại",
+        "relation": "near",
+        "note_vi": "Trong tài khoản, chỉ số tiền còn lại; balance còn có nghĩa số tiền chưa thanh toán."
+      }
+    ]
+  },
+  {
+    "word": "borrow",
+    "synonyms": [
+      {
+        "term": "take on loan",
+        "pos": "v",
+        "meaning_vi": "vay, mượn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "cautiously",
+    "synonyms": [
+      {
+        "term": "carefully",
+        "pos": "adv",
+        "meaning_vi": "một cách cẩn thận",
+        "relation": "near",
+        "note_vi": "Cautiously nhấn mạnh đề phòng rủi ro; carefully rộng hơn về sự chú ý và tỉ mỉ."
+      }
+    ]
+  },
+  {
+    "word": "deduct",
+    "synonyms": [
+      {
+        "term": "subtract",
+        "pos": "v",
+        "meaning_vi": "khấu trừ, trừ đi",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "dividend",
+    "synonyms": [
+      {
+        "term": "shareholder payout",
+        "pos": "n",
+        "meaning_vi": "khoản chi trả cho cổ đông",
+        "relation": "near",
+        "note_vi": "Rộng hơn cổ tức, có thể gồm loại chi trả khác cho cổ đông."
+      }
+    ]
+  },
+  {
+    "word": "down payment",
+    "synonyms": [
+      {
+        "term": "initial payment",
+        "pos": "n",
+        "meaning_vi": "khoản thanh toán ban đầu",
+        "relation": "near",
+        "note_vi": "Down payment là phần trả trước của tổng giá; initial payment không nhất thiết có đặc điểm này."
+      }
+    ]
+  },
+  {
+    "word": "mortgage",
+    "synonyms": [
+      {
+        "term": "secured property loan",
+        "pos": "n",
+        "meaning_vi": "khoản vay có bất động sản bảo đảm",
+        "relation": "near",
+        "note_vi": "Mô tả khoản vay thế chấp bất động sản; mortgage còn có thể chỉ chính quyền bảo đảm đó."
+      }
+    ]
+  },
+  {
+    "word": "restricted",
+    "synonyms": [
+      {
+        "term": "limited",
+        "pos": "adj",
+        "meaning_vi": "bị hạn chế",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "signature",
+    "synonyms": []
+  },
+  {
+    "word": "take out",
+    "synonyms": [
+      {
+        "term": "withdraw",
+        "pos": "v",
+        "meaning_vi": "rút tiền",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "transaction",
+    "synonyms": [
+      {
+        "term": "deal",
+        "pos": "n",
+        "meaning_vi": "giao dịch",
+        "relation": "near",
+        "note_vi": "Deal thường nhấn mạnh thỏa thuận kinh doanh; transaction còn gồm các thao tác ngân hàng đơn lẻ."
+      }
+    ]
+  },
+  {
+    "word": "accounting",
+    "synonyms": [
+      {
+        "term": "bookkeeping",
+        "pos": "n",
+        "meaning_vi": "công việc ghi sổ kế toán",
+        "relation": "near",
+        "note_vi": "Bookkeeping tập trung ghi chép giao dịch; accounting còn gồm phân tích và lập báo cáo tài chính."
+      }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "synonyms": [
+      {
+        "term": "build up",
+        "pos": "v",
+        "meaning_vi": "tích lũy",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "asset",
+    "synonyms": [
+      {
+        "term": "possession",
+        "pos": "n",
+        "meaning_vi": "tài sản sở hữu",
+        "relation": "near",
+        "note_vi": "Possession nhấn mạnh vật thuộc sở hữu; asset còn bao hàm giá trị kinh tế và tài sản vô hình."
+      }
+    ]
+  },
+  {
+    "word": "audit",
+    "synonyms": [
+      {
+        "term": "examine",
+        "pos": "v",
+        "meaning_vi": "kiểm tra",
+        "relation": "near",
+        "note_vi": "Examine rộng hơn; audit là kiểm tra có hệ thống, thường theo chuẩn kế toán hoặc tuân thủ."
+      }
+    ]
+  },
+  {
+    "word": "budget",
+    "synonyms": [
+      {
+        "term": "spending plan",
+        "pos": "n",
+        "meaning_vi": "kế hoạch chi tiêu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "build up",
+    "synonyms": [
+      {
+        "term": "accumulate",
+        "pos": "v",
+        "meaning_vi": "tích lũy",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "client",
+    "synonyms": [
+      {
+        "term": "customer",
+        "pos": "n",
+        "meaning_vi": "khách hàng",
+        "relation": "near",
+        "note_vi": "Client thường dùng với dịch vụ chuyên môn hoặc quan hệ lâu dài; customer rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "debt",
+    "synonyms": [
+      {
+        "term": "liability",
+        "pos": "n",
+        "meaning_vi": "khoản phải trả",
+        "relation": "near",
+        "note_vi": "Liability rộng hơn khoản nợ vay, bao gồm nhiều nghĩa vụ tài chính khác."
+      }
+    ]
+  },
+  {
+    "word": "outstanding",
+    "synonyms": [
+      {
+        "term": "unpaid",
+        "pos": "adj",
+        "meaning_vi": "chưa thanh toán",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "profitable",
+    "synonyms": [
+      {
+        "term": "lucrative",
+        "pos": "adj",
+        "meaning_vi": "mang lại nhiều lợi nhuận",
+        "relation": "near",
+        "note_vi": "Lucrative thường nhấn mạnh lợi nhuận cao; profitable chỉ cần có lãi."
+      }
+    ]
+  },
+  {
+    "word": "reconcile",
+    "synonyms": [
+      {
+        "term": "bring into agreement",
+        "pos": "v",
+        "meaning_vi": "làm cho khớp nhau",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "turnover",
+    "synonyms": [
+      {
+        "term": "sales revenue",
+        "pos": "n",
+        "meaning_vi": "doanh thu bán hàng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "aggressive",
+    "synonyms": [
+      {
+        "term": "hostile",
+        "pos": "adj",
+        "meaning_vi": "đầy thái độ đối địch",
+        "relation": "near",
+        "note_vi": "Hostile nhấn mạnh thái độ đối địch; aggressive có thể chỉ cách thể hiện hùng hổ hoặc lấn át."
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "synonyms": [
+      {
+        "term": "outlook",
+        "pos": "n",
+        "meaning_vi": "cách nhìn nhận",
+        "relation": "near",
+        "note_vi": "Outlook thiên về cách nhìn tổng thể; attitude còn chỉ thái độ với một đối tượng cụ thể."
+      }
+    ]
+  },
+  {
+    "word": "commit",
+    "synonyms": [
+      {
+        "term": "pledge",
+        "pos": "v",
+        "meaning_vi": "cam kết dành",
+        "relation": "near",
+        "note_vi": "Pledge nhấn mạnh lời cam kết; commit funds còn có thể là chính thức dành nguồn tiền."
+      }
+    ]
+  },
+  {
+    "word": "conservative",
+    "synonyms": [
+      {
+        "term": "cautious",
+        "pos": "adj",
+        "meaning_vi": "thận trọng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "fund",
+    "synonyms": [
+      {
+        "term": "finance",
+        "pos": "v",
+        "meaning_vi": "tài trợ vốn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "invest",
+    "synonyms": [
+      {
+        "term": "put money into",
+        "pos": "v",
+        "meaning_vi": "đầu tư tiền vào",
+        "relation": "near",
+        "note_vi": "Thay cả invest in bằng put money into khi nói về đầu tư tiền; không thêm in sau into."
+      }
+    ]
+  },
+  {
+    "word": "long-term",
+    "synonyms": [
+      {
+        "term": "long-range",
+        "pos": "adj",
+        "meaning_vi": "dài hạn",
+        "relation": "near",
+        "note_vi": "Long-range thường dùng với kế hoạch hoặc mục tiêu hướng xa; long-term rộng hơn về thời gian kéo dài."
+      }
+    ]
+  },
+  {
+    "word": "portfolio",
+    "synonyms": [
+      {
+        "term": "investment holdings",
+        "pos": "n",
+        "meaning_vi": "các khoản đầu tư đang nắm giữ",
+        "relation": "near",
+        "note_vi": "Chỉ các tài sản đầu tư trong danh mục; portfolio còn nhấn mạnh toàn bộ danh mục được quản lý."
+      }
+    ]
+  },
+  {
+    "word": "pull out",
+    "synonyms": [
+      {
+        "term": "withdraw",
+        "pos": "v",
+        "meaning_vi": "rút lui",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "resource",
+    "synonyms": [
+      {
+        "term": "reserve",
+        "pos": "n",
+        "meaning_vi": "nguồn dự trữ",
+        "relation": "near",
+        "note_vi": "Reserve là nguồn giữ lại để dùng khi cần; resource không nhất thiết được dự trữ."
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "synonyms": [
+      {
+        "term": "yield",
+        "pos": "n",
+        "meaning_vi": "lợi suất, khoản sinh lời",
+        "relation": "near",
+        "note_vi": "Yield thường gắn với mức sinh lời; return còn bao gồm lãi hoặc lỗ vốn của khoản đầu tư."
+      }
+    ]
+  },
+  {
+    "word": "wisely",
+    "synonyms": [
+      {
+        "term": "prudently",
+        "pos": "adv",
+        "meaning_vi": "một cách khôn ngoan, thận trọng",
+        "relation": "near",
+        "note_vi": "Prudently nhấn mạnh tránh rủi ro; wisely bao quát sự sáng suốt nói chung."
+      }
+    ]
+  },
+  {
+    "word": "calculation",
+    "synonyms": [
+      {
+        "term": "computation",
+        "pos": "n",
+        "meaning_vi": "phép tính",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "deadline",
+    "synonyms": [
+      {
+        "term": "due date",
+        "pos": "n",
+        "meaning_vi": "ngày đến hạn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "file",
+    "synonyms": [
+      {
+        "term": "submit",
+        "pos": "v",
+        "meaning_vi": "nộp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "fill out",
+    "synonyms": [
+      {
+        "term": "complete",
+        "pos": "v",
+        "meaning_vi": "điền đầy đủ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "give up",
+    "synonyms": [
+      {
+        "term": "abandon",
+        "pos": "v",
+        "meaning_vi": "từ bỏ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "joint",
+    "synonyms": [
+      {
+        "term": "shared",
+        "pos": "adj",
+        "meaning_vi": "chung",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "owe",
+    "synonyms": [
+      {
+        "term": "be indebted to",
+        "pos": "v",
+        "meaning_vi": "mắc nợ",
+        "relation": "near",
+        "note_vi": "Cần đổi cấu trúc: owe someone money → be indebted to someone for money."
+      }
+    ]
+  },
+  {
+    "word": "penalty",
+    "synonyms": [
+      {
+        "term": "fine",
+        "pos": "n",
+        "meaning_vi": "tiền phạt",
+        "relation": "near",
+        "note_vi": "Fine chỉ hình phạt bằng tiền; penalty còn có thể là các hình phạt khác."
+      }
+    ]
+  },
+  {
+    "word": "preparation",
+    "synonyms": [
+      {
+        "term": "groundwork",
+        "pos": "n",
+        "meaning_vi": "công việc chuẩn bị nền tảng",
+        "relation": "near",
+        "note_vi": "Groundwork là phần chuẩn bị ban đầu; preparation bao quát toàn bộ sự chuẩn bị."
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "synonyms": [
+      {
+        "term": "reimbursement",
+        "pos": "n",
+        "meaning_vi": "khoản hoàn trả",
+        "relation": "near",
+        "note_vi": "Refund trả lại tiền đã thu; reimbursement thường bù lại chi phí người nhận đã chi hộ hoặc được duyệt."
+      }
+    ]
+  },
+  {
+    "word": "spouse",
+    "synonyms": [
+      {
+        "term": "marriage partner",
+        "pos": "n",
+        "meaning_vi": "người bạn đời trong hôn nhân",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "withhold",
+    "synonyms": [
+      {
+        "term": "retain",
+        "pos": "v",
+        "meaning_vi": "giữ lại",
+        "relation": "near",
+        "note_vi": "Retain chỉ việc giữ lại nói chung; withhold nhấn mạnh chưa giao hoặc không chi trả."
+      }
+    ]
+  },
+  {
+    "word": "desire",
+    "synonyms": [
+      {
+        "term": "wish",
+        "pos": "n",
+        "meaning_vi": "mong muốn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "detail",
+    "synonyms": [
+      {
+        "term": "particular",
+        "pos": "n",
+        "meaning_vi": "chi tiết cụ thể",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "forecast",
+    "synonyms": [
+      {
+        "term": "projection",
+        "pos": "n",
+        "meaning_vi": "dự báo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "level",
+    "synonyms": [
+      {
+        "term": "amount",
+        "pos": "n",
+        "meaning_vi": "lượng, số tiền",
+        "relation": "near",
+        "note_vi": "Dùng cho mức chi tiêu trong ví dụ; level còn chỉ cấp bậc hoặc mức độ, không luôn thay bằng amount."
+      }
+    ]
+  },
+  {
+    "word": "overall",
+    "synonyms": [
+      {
+        "term": "total",
+        "pos": "adj",
+        "meaning_vi": "tổng cộng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "synonyms": [
+      {
+        "term": "viewpoint",
+        "pos": "n",
+        "meaning_vi": "quan điểm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "project",
+    "synonyms": [
+      {
+        "term": "forecast",
+        "pos": "v",
+        "meaning_vi": "dự báo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "realistic",
+    "synonyms": [
+      {
+        "term": "practical",
+        "pos": "adj",
+        "meaning_vi": "thực tế, khả thi",
+        "relation": "near",
+        "note_vi": "Practical nhấn mạnh tính ứng dụng hoặc khả thi; realistic nhấn mạnh bám sát thực tế."
+      }
+    ]
+  },
+  {
+    "word": "target",
+    "synonyms": [
+      {
+        "term": "aim at",
+        "pos": "v",
+        "meaning_vi": "nhắm đến",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "translation",
+    "synonyms": [
+      {
+        "term": "rendering",
+        "pos": "n",
+        "meaning_vi": "bản chuyển ngữ",
+        "relation": "near",
+        "note_vi": "Rendering có thể là bản dịch nhưng còn chỉ cách thể hiện trong nghệ thuật hoặc lĩnh vực khác."
+      }
+    ]
+  },
+  {
+    "word": "typically",
+    "synonyms": [
+      {
+        "term": "usually",
+        "pos": "adv",
+        "meaning_vi": "thông thường",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "yield",
+    "synonyms": [
+      {
+        "term": "produce",
+        "pos": "v",
+        "meaning_vi": "tạo ra, sản xuất",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "adjacent",
+    "synonyms": [
+      {
+        "term": "neighboring",
+        "pos": "adj",
+        "meaning_vi": "liền kề, lân cận",
+        "relation": "near",
+        "note_vi": "Neighboring có thể chỉ ở gần; adjacent nhấn mạnh ngay sát bên."
+      }
+    ]
+  },
+  {
+    "word": "collaboration",
+    "synonyms": [
+      {
+        "term": "cooperation",
+        "pos": "n",
+        "meaning_vi": "sự hợp tác",
+        "relation": "near",
+        "note_vi": "Collaboration thường là cùng làm một sản phẩm hoặc nhiệm vụ; cooperation có thể chỉ sự hỗ trợ phối hợp."
+      }
+    ]
+  },
+  {
+    "word": "concentrate on",
+    "synonyms": [
+      {
+        "term": "focus on",
+        "pos": "v",
+        "meaning_vi": "tập trung vào",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "conductive",
+    "synonyms": [
+      {
+        "term": "favorable",
+        "pos": "adj",
+        "meaning_vi": "thuận lợi",
+        "relation": "near",
+        "note_vi": "Favorable mô tả điều kiện có lợi; conducive thường đi với to để chỉ điều kiện giúp một việc xảy ra."
+      }
+    ]
+  },
+  {
+    "word": "disruption",
+    "synonyms": [
+      {
+        "term": "disturbance",
+        "pos": "n",
+        "meaning_vi": "sự xáo trộn",
+        "relation": "near",
+        "note_vi": "Disturbance rộng hơn và có thể chỉ tiếng ồn; disruption nhấn mạnh sự gián đoạn hoạt động bình thường."
+      }
+    ]
+  },
+  {
+    "word": "hamper",
+    "synonyms": [
+      {
+        "term": "hinder",
+        "pos": "v",
+        "meaning_vi": "cản trở",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "inconsiderate",
+    "synonyms": [
+      {
+        "term": "thoughtless",
+        "pos": "adj",
+        "meaning_vi": "thiếu suy nghĩ cho người khác",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "lobby",
+    "synonyms": [
+      {
+        "term": "foyer",
+        "pos": "n",
+        "meaning_vi": "tiền sảnh",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "move up",
+    "synonyms": [
+      {
+        "term": "advance",
+        "pos": "v",
+        "meaning_vi": "thăng tiến",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "open to",
+    "synonyms": [
+      {
+        "term": "receptive to",
+        "pos": "adj",
+        "meaning_vi": "sẵn sàng tiếp nhận",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "scrutiny",
+    "synonyms": [
+      {
+        "term": "close examination",
+        "pos": "n",
+        "meaning_vi": "sự xem xét kỹ lưỡng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "opt",
+    "synonyms": [
+      {
+        "term": "choose",
+        "pos": "v",
+        "meaning_vi": "chọn",
+        "relation": "near",
+        "note_vi": "Opt for tương ứng với choose + tân ngữ; bỏ for khi dùng choose."
+      }
+    ]
+  },
+  {
+    "word": "adhear to",
+    "synonyms": [
+      {
+        "term": "comply with",
+        "pos": "v",
+        "meaning_vi": "tuân thủ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "agenda",
+    "synonyms": [
+      {
+        "term": "order of business",
+        "pos": "n",
+        "meaning_vi": "chương trình làm việc",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "bring up",
+    "synonyms": [
+      {
+        "term": "raise",
+        "pos": "v",
+        "meaning_vi": "nêu ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "conclude",
+    "synonyms": [
+      {
+        "term": "end",
+        "pos": "v",
+        "meaning_vi": "kết thúc",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "go ahead",
+    "synonyms": [
+      {
+        "term": "proceed",
+        "pos": "v",
+        "meaning_vi": "tiến hành, tiếp tục",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "synonyms": [
+      {
+        "term": "objective",
+        "pos": "n",
+        "meaning_vi": "mục tiêu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "lengthy",
+    "synonyms": [
+      {
+        "term": "long",
+        "pos": "adj",
+        "meaning_vi": "kéo dài",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "matter",
+    "synonyms": [
+      {
+        "term": "issue",
+        "pos": "n",
+        "meaning_vi": "vấn đề",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "periodically",
+    "synonyms": [
+      {
+        "term": "at intervals",
+        "pos": "adv",
+        "meaning_vi": "theo từng khoảng thời gian",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "synonyms": [
+      {
+        "term": "precedence",
+        "pos": "n",
+        "meaning_vi": "sự ưu tiên",
+        "relation": "near",
+        "note_vi": "Precedence nhấn mạnh được xét trước; priority còn chỉ một nhiệm vụ được ưu tiên."
+      }
+    ]
+  },
+  {
+    "word": "progress",
+    "synonyms": [
+      {
+        "term": "advancement",
+        "pos": "n",
+        "meaning_vi": "sự tiến triển",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "waste",
+    "synonyms": [
+      {
+        "term": "squander",
+        "pos": "v",
+        "meaning_vi": "phung phí",
+        "relation": "near",
+        "note_vi": "Squander nhấn mạnh sự lãng phí nghiêm trọng hoặc thiếu khôn ngoan."
+      }
+    ]
+  },
+  {
+    "word": "brand",
+    "synonyms": [
+      {
+        "term": "label",
+        "pos": "n",
+        "meaning_vi": "nhãn hiệu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "conform to",
+    "synonyms": [
+      {
+        "term": "comply with",
+        "pos": "v",
+        "meaning_vi": "tuân theo",
+        "relation": "near",
+        "note_vi": "Comply with nhấn mạnh tuân quy định; conform to còn có nghĩa khớp với hình mẫu hoặc tiêu chuẩn."
+      }
+    ]
+  },
+  {
+    "word": "defect",
+    "synonyms": [
+      {
+        "term": "flaw",
+        "pos": "n",
+        "meaning_vi": "lỗi, khuyết điểm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "enhance",
+    "synonyms": [
+      {
+        "term": "improve",
+        "pos": "v",
+        "meaning_vi": "cải thiện",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "garment",
+    "synonyms": [
+      {
+        "term": "item of clothing",
+        "pos": "n",
+        "meaning_vi": "một món quần áo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "inspect",
+    "synonyms": [
+      {
+        "term": "examine",
+        "pos": "v",
+        "meaning_vi": "kiểm tra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "perceptive",
+    "synonyms": [
+      {
+        "term": "observant",
+        "pos": "adj",
+        "meaning_vi": "tinh ý",
+        "relation": "near",
+        "note_vi": "Observant nhấn mạnh nhận ra chi tiết; perceptive còn nhấn mạnh hiểu sâu ý nghĩa của điều quan sát."
+      }
+    ]
+  },
+  {
+    "word": "repel",
+    "synonyms": [
+      {
+        "term": "resist",
+        "pos": "v",
+        "meaning_vi": "chống chịu",
+        "relation": "near",
+        "note_vi": "Resist water chỉ chống tác động hoặc thấm nước; repel water nhấn mạnh làm nước không bám vào bề mặt."
+      }
+    ]
+  },
+  {
+    "word": "take back",
+    "synonyms": [
+      {
+        "term": "accept a return of",
+        "pos": "v",
+        "meaning_vi": "nhận lại hàng trả",
+        "relation": "near",
+        "note_vi": "Chỉ nghĩa cửa hàng nhận lại hàng; take back còn có nghĩa lấy lại hoặc rút lại lời nói."
+      }
+    ]
+  },
+  {
+    "word": "throw out",
+    "synonyms": [
+      {
+        "term": "discard",
+        "pos": "v",
+        "meaning_vi": "loại bỏ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "uniformly",
+    "synonyms": [
+      {
+        "term": "evenly",
+        "pos": "adv",
+        "meaning_vi": "đồng đều",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "synonyms": [
+      {
+        "term": "crease",
+        "pos": "n",
+        "meaning_vi": "nếp nhăn, nếp gấp",
+        "relation": "near",
+        "note_vi": "Crease thường là nếp gấp rõ; wrinkle có thể là nếp nhăn nhỏ và không đều."
+      }
+    ]
+  },
+  {
+    "word": "anxious",
+    "synonyms": [
+      {
+        "term": "worried",
+        "pos": "adj",
+        "meaning_vi": "lo lắng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "ascertain",
+    "synonyms": [
+      {
+        "term": "determine",
+        "pos": "v",
+        "meaning_vi": "xác định",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "assume",
+    "synonyms": [
+      {
+        "term": "take on",
+        "pos": "v",
+        "meaning_vi": "đảm nhận",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "decade",
+    "synonyms": [
+      {
+        "term": "ten-year period",
+        "pos": "n",
+        "meaning_vi": "khoảng thời gian mười năm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "examine",
+    "synonyms": [
+      {
+        "term": "inspect",
+        "pos": "v",
+        "meaning_vi": "xem xét kỹ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "synonyms": [
+      {
+        "term": "test",
+        "pos": "v",
+        "meaning_vi": "thử nghiệm",
+        "relation": "near",
+        "note_vi": "Test kiểm tra một ý tưởng hoặc vật cụ thể; experiment nhấn mạnh thử cách mới để tìm hiểu kết quả."
+      }
+    ]
+  },
+  {
+    "word": "logical",
+    "synonyms": [
+      {
+        "term": "rational",
+        "pos": "adj",
+        "meaning_vi": "hợp lý",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "research",
+    "synonyms": [
+      {
+        "term": "investigation",
+        "pos": "n",
+        "meaning_vi": "sự nghiên cứu, khảo sát",
+        "relation": "near",
+        "note_vi": "Investigation có thể nhằm làm rõ một vụ việc; research thường nhằm xây dựng kiến thức có hệ thống."
+      }
+    ]
+  },
+  {
+    "word": "responsibility",
+    "synonyms": [
+      {
+        "term": "duty",
+        "pos": "n",
+        "meaning_vi": "trách nhiệm, bổn phận",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "solve",
+    "synonyms": [
+      {
+        "term": "resolve",
+        "pos": "v",
+        "meaning_vi": "giải quyết",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "supervisor",
+    "synonyms": [
+      {
+        "term": "overseer",
+        "pos": "n",
+        "meaning_vi": "người giám sát",
+        "relation": "near",
+        "note_vi": "Overseer ít phổ biến hơn trong văn phòng hiện đại và có thể gợi vai trò kiểm soát trực tiếp."
+      }
+    ]
+  },
+  {
+    "word": "systematic",
+    "synonyms": [
+      {
+        "term": "methodical",
+        "pos": "adj",
+        "meaning_vi": "có phương pháp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "apprehensive",
+    "synonyms": [
+      {
+        "term": "uneasy",
+        "pos": "adj",
+        "meaning_vi": "bất an, lo ngại",
+        "relation": "near",
+        "note_vi": "Apprehensive thường lo về điều sắp xảy ra; uneasy còn chỉ sự không thoải mái nói chung."
+      }
+    ]
+  },
+  {
+    "word": "circumstance",
+    "synonyms": [
+      {
+        "term": "situation",
+        "pos": "n",
+        "meaning_vi": "tình huống",
+        "relation": "near",
+        "note_vi": "Circumstance có thể là một yếu tố hoàn cảnh; situation thường là toàn bộ tình thế."
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "synonyms": [
+      {
+        "term": "state",
+        "pos": "n",
+        "meaning_vi": "tình trạng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "due to",
+    "synonyms": [
+      {
+        "term": "because of",
+        "pos": "prep",
+        "meaning_vi": "bởi vì",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "fluctuate",
+    "synonyms": [
+      {
+        "term": "vary",
+        "pos": "v",
+        "meaning_vi": "biến động",
+        "relation": "near",
+        "note_vi": "Vary chỉ thay đổi; fluctuate nhấn mạnh dao động lên xuống."
+      }
+    ]
+  },
+  {
+    "word": "get out of",
+    "synonyms": [
+      {
+        "term": "escape",
+        "pos": "v",
+        "meaning_vi": "thoát khỏi",
+        "relation": "near",
+        "note_vi": "Escape rộng hơn; get out of a lease thường là tránh hoặc chấm dứt nghĩa vụ hợp đồng."
+      }
+    ]
+  },
+  {
+    "word": "indicator",
+    "synonyms": [
+      {
+        "term": "sign",
+        "pos": "n",
+        "meaning_vi": "dấu hiệu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "lease",
+    "synonyms": [
+      {
+        "term": "rental agreement",
+        "pos": "n",
+        "meaning_vi": "hợp đồng thuê",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "lock into",
+    "synonyms": [
+      {
+        "term": "bind someone to",
+        "pos": "v",
+        "meaning_vi": "ràng buộc vào",
+        "relation": "near",
+        "note_vi": "Cần thêm tân ngữ: lock someone into hoặc bind someone to; giới từ và cấu trúc không giống nhau."
+      }
+    ]
+  },
+  {
+    "word": "occupy",
+    "synonyms": [
+      {
+        "term": "take up",
+        "pos": "v",
+        "meaning_vi": "chiếm, sử dụng không gian",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "tenant",
+    "synonyms": [
+      {
+        "term": "renter",
+        "pos": "n",
+        "meaning_vi": "người thuê",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "subject to",
+    "synonyms": [
+      {
+        "term": "dependent on",
+        "pos": "adj",
+        "meaning_vi": "phụ thuộc vào",
+        "relation": "near",
+        "note_vi": "Dùng cho nghĩa còn tùy vào điều kiện hoặc chấp thuận; subject to còn có nghĩa chịu quy định hoặc tác động."
+      }
+    ]
+  },
+  {
+    "word": "appeal",
+    "synonyms": [
+      {
+        "term": "attractiveness",
+        "pos": "n",
+        "meaning_vi": "sức hấp dẫn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "synonyms": [
+      {
+        "term": "reach",
+        "pos": "v",
+        "meaning_vi": "đến",
+        "relation": "near",
+        "note_vi": "Reach nhận địa điểm trực tiếp; arrive thường cần at hoặc in trước địa điểm."
+      }
+    ]
+  },
+  {
+    "word": "compromise",
+    "synonyms": [
+      {
+        "term": "agreement",
+        "pos": "n",
+        "meaning_vi": "sự thỏa thuận",
+        "relation": "near",
+        "note_vi": "Compromise là thỏa thuận có nhượng bộ; agreement không nhất thiết có nhượng bộ."
+      }
+    ]
+  },
+  {
+    "word": "daring",
+    "synonyms": [
+      {
+        "term": "bold",
+        "pos": "adj",
+        "meaning_vi": "táo bạo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "familiar with",
+    "synonyms": [
+      {
+        "term": "acquainted with",
+        "pos": "adj",
+        "meaning_vi": "quen thuộc với",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "guide",
+    "synonyms": [
+      {
+        "term": "direct",
+        "pos": "v",
+        "meaning_vi": "chỉ đường",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "majority",
+    "synonyms": [
+      {
+        "term": "greater part",
+        "pos": "n",
+        "meaning_vi": "phần lớn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "mix",
+    "synonyms": [
+      {
+        "term": "blend",
+        "pos": "v",
+        "meaning_vi": "trộn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "rely on",
+    "synonyms": [
+      {
+        "term": "depend on",
+        "pos": "v",
+        "meaning_vi": "dựa vào",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "secure",
+    "synonyms": [
+      {
+        "term": "safe",
+        "pos": "adj",
+        "meaning_vi": "an toàn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "subjective",
+    "synonyms": [
+      {
+        "term": "personal",
+        "pos": "adj",
+        "meaning_vi": "mang tính cá nhân",
+        "relation": "near",
+        "note_vi": "Personal thể hiện góc nhìn riêng; subjective nhấn mạnh bị chi phối bởi cảm nhận thay vì chứng cứ khách quan."
+      }
+    ]
+  },
+  {
+    "word": "suggestion",
+    "synonyms": [
+      {
+        "term": "proposal",
+        "pos": "n",
+        "meaning_vi": "đề xuất",
+        "relation": "near",
+        "note_vi": "Proposal thường là đề xuất có chủ đích hoặc chính thức hơn suggestion."
+      }
+    ]
+  },
+  {
+    "word": "appetite",
+    "synonyms": [
+      {
+        "term": "hunger",
+        "pos": "n",
+        "meaning_vi": "cảm giác đói",
+        "relation": "near",
+        "note_vi": "Hunger là nhu cầu ăn do đói; appetite là cảm giác muốn ăn và có thể tồn tại khi chưa đói."
+      }
+    ]
+  },
+  {
+    "word": "complete",
+    "synonyms": [
+      {
+        "term": "finish",
+        "pos": "v",
+        "meaning_vi": "hoàn thành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "excite",
+    "synonyms": [
+      {
+        "term": "thrill",
+        "pos": "v",
+        "meaning_vi": "làm phấn khích",
+        "relation": "near",
+        "note_vi": "Thrill thường diễn tả cảm giác vui thích hoặc phấn khích mạnh hơn excite."
+      }
+    ]
+  },
+  {
+    "word": "flavor",
+    "synonyms": [
+      {
+        "term": "taste",
+        "pos": "n",
+        "meaning_vi": "hương vị",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "forget",
+    "synonyms": [
+      {
+        "term": "fail to remember",
+        "pos": "v",
+        "meaning_vi": "không nhớ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "ingredient",
+    "synonyms": [
+      {
+        "term": "component",
+        "pos": "n",
+        "meaning_vi": "thành phần",
+        "relation": "near",
+        "note_vi": "Component dùng rộng cho bộ phận của một tổng thể; ingredient chuyên dùng cho chất hoặc thực phẩm được kết hợp."
+      }
+    ]
+  },
+  {
+    "word": "judge",
+    "synonyms": [
+      {
+        "term": "evaluate",
+        "pos": "v",
+        "meaning_vi": "đánh giá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "mix-up",
+    "synonyms": [
+      {
+        "term": "confusion",
+        "pos": "n",
+        "meaning_vi": "sự nhầm lẫn",
+        "relation": "near",
+        "note_vi": "Mix-up thường là một sự cố nhầm cụ thể; confusion còn chỉ trạng thái bối rối."
+      }
+    ]
+  },
+  {
+    "word": "patron",
+    "synonyms": [
+      {
+        "term": "customer",
+        "pos": "n",
+        "meaning_vi": "khách hàng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "synonyms": [
+      {
+        "term": "forecast",
+        "pos": "v",
+        "meaning_vi": "dự đoán",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "randomly",
+    "synonyms": [
+      {
+        "term": "by chance",
+        "pos": "adv",
+        "meaning_vi": "một cách ngẫu nhiên",
+        "relation": "near",
+        "note_vi": "By chance nhấn mạnh tình cờ; randomly còn chỉ cách chọn theo quy trình ngẫu nhiên có chủ ý."
+      }
+    ]
+  },
+  {
+    "word": "remind",
+    "synonyms": [
+      {
+        "term": "prompt",
+        "pos": "v",
+        "meaning_vi": "nhắc",
+        "relation": "near",
+        "note_vi": "Prompt thúc đẩy hoặc gợi ai nhớ và hành động; remind nhấn mạnh nhắc lại thông tin đã biết."
+      }
+    ]
+  },
+  {
+    "word": "burden",
+    "synonyms": [
+      {
+        "term": "load",
+        "pos": "n",
+        "meaning_vi": "gánh nặng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "commonly",
+    "synonyms": [
+      {
+        "term": "frequently",
+        "pos": "adv",
+        "meaning_vi": "thường xuyên",
+        "relation": "near",
+        "note_vi": "Frequently nhấn mạnh tần suất; commonly nhấn mạnh mức độ phổ biến trong một nhóm hoặc hoàn cảnh."
+      }
+    ]
+  },
+  {
+    "word": "delivery",
+    "synonyms": [
+      {
+        "term": "drop-off",
+        "pos": "n",
+        "meaning_vi": "việc đưa hàng đến điểm nhận",
+        "relation": "near",
+        "note_vi": "Drop-off nhấn mạnh mang hàng đến và để lại tại điểm nhận; delivery bao quát việc giao hàng nói chung."
+      }
+    ]
+  },
+  {
+    "word": "elegance",
+    "synonyms": [
+      {
+        "term": "refinement",
+        "pos": "n",
+        "meaning_vi": "sự tinh tế",
+        "relation": "near",
+        "note_vi": "Refinement nhấn mạnh nét tinh tế, trau chuốt; elegance nhấn mạnh vẻ thanh lịch và hài hòa."
+      }
+    ]
+  },
+  {
+    "word": "fall to",
+    "synonyms": [
+      {
+        "term": "become the responsibility of",
+        "pos": "v",
+        "meaning_vi": "trở thành trách nhiệm của",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "impress",
+    "synonyms": [
+      {
+        "term": "make a good impression on",
+        "pos": "v",
+        "meaning_vi": "gây ấn tượng với",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "synonyms": [
+      {
+        "term": "separate",
+        "pos": "adj",
+        "meaning_vi": "riêng lẻ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "reasonable",
+    "synonyms": [
+      {
+        "term": "fair",
+        "pos": "adj",
+        "meaning_vi": "hợp lý, phải chăng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "multiple",
+    "synonyms": [
+      {
+        "term": "several",
+        "pos": "adj",
+        "meaning_vi": "một số, nhiều hơn hai",
+        "relation": "near",
+        "note_vi": "Multiple là nhiều hơn một; several thường chỉ hơn hai nhưng không quá nhiều."
+      }
+    ]
+  },
+  {
+    "word": "narrow",
+    "synonyms": [
+      {
+        "term": "cramped",
+        "pos": "adj",
+        "meaning_vi": "chật chội",
+        "relation": "near",
+        "note_vi": "Cramped nhấn mạnh thiếu không gian thoải mái; narrow nhấn mạnh bề ngang nhỏ."
+      }
+    ]
+  },
+  {
+    "word": "pick up",
+    "synonyms": [
+      {
+        "term": "collect",
+        "pos": "v",
+        "meaning_vi": "đến lấy",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "synonyms": [
+      {
+        "term": "pay",
+        "pos": "v",
+        "meaning_vi": "thanh toán",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "accustom to",
+    "synonyms": [
+      {
+        "term": "familiarize someone with",
+        "pos": "v",
+        "meaning_vi": "làm cho quen với",
+        "relation": "near",
+        "note_vi": "Cần tân ngữ ở cả hai: accustom someone to hoặc familiarize someone with; familiarize thiên về biết rõ, accustom thiên về quen dần."
+      }
+    ]
+  },
+  {
+    "word": "apprentice",
+    "synonyms": [
+      {
+        "term": "trainee",
+        "pos": "n",
+        "meaning_vi": "người đang được đào tạo",
+        "relation": "near",
+        "note_vi": "Apprentice thường học nghề theo chương trình có hướng dẫn; trainee dùng cho nhiều loại đào tạo khác."
+      }
+    ]
+  },
+  {
+    "word": "culinary",
+    "synonyms": [
+      {
+        "term": "gastronomic",
+        "pos": "adj",
+        "meaning_vi": "thuộc về nghệ thuật ẩm thực",
+        "relation": "near",
+        "note_vi": "Gastronomic thường nhấn mạnh thưởng thức món ngon và ẩm thực tinh tế; culinary rộng hơn về việc nấu ăn."
+      }
+    ]
+  },
+  {
+    "word": "demand",
+    "synonyms": [
+      {
+        "term": "require",
+        "pos": "v",
+        "meaning_vi": "yêu cầu",
+        "relation": "near",
+        "note_vi": "Demand nhấn mạnh yêu cầu mạnh mẽ hoặc kiên quyết; require có thể chỉ sự cần thiết khách quan."
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "synonyms": [
+      {
+        "term": "attract",
+        "pos": "v",
+        "meaning_vi": "thu hút",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "incorporate",
+    "synonyms": [
+      {
+        "term": "integrate",
+        "pos": "v",
+        "meaning_vi": "hợp nhất, tích hợp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "influx",
+    "synonyms": [
+      {
+        "term": "inflow",
+        "pos": "n",
+        "meaning_vi": "dòng đổ vào",
+        "relation": "near",
+        "note_vi": "Thường chỉ dòng người hoặc nguồn lực đi vào; sắc thái ít nhấn mạnh số lượng đông."
+      }
+    ]
+  },
+  {
+    "word": "method",
+    "synonyms": [
+      {
+        "term": "technique",
+        "pos": "n",
+        "meaning_vi": "kỹ thuật, phương pháp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "methodical",
+    "synonyms": [
+      {
+        "term": "systematic",
+        "pos": "adj",
+        "meaning_vi": "có hệ thống",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "synonyms": [
+      {
+        "term": "process",
+        "pos": "n",
+        "meaning_vi": "quy trình",
+        "relation": "near",
+        "note_vi": "Process có thể chỉ toàn bộ quá trình, còn procedure nhấn mạnh các bước quy định."
+      }
+    ]
+  },
+  {
+    "word": "outlet",
+    "synonyms": [
+      {
+        "term": "channel",
+        "pos": "n",
+        "meaning_vi": "kênh thể hiện",
+        "relation": "near",
+        "note_vi": "Trong ngữ cảnh thể hiện sự sáng tạo; channel thường đi với for."
+      }
+    ]
+  },
+  {
+    "word": "profession",
+    "synonyms": [
+      {
+        "term": "occupation",
+        "pos": "n",
+        "meaning_vi": "nghề nghiệp",
+        "relation": "near",
+        "note_vi": "Occupation rộng hơn, không nhất thiết đòi hỏi đào tạo chuyên môn."
+      }
+    ]
+  },
+  {
+    "word": "relinquish",
+    "synonyms": [
+      {
+        "term": "give up",
+        "pos": "v",
+        "meaning_vi": "từ bỏ, nhường lại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "theme",
+    "synonyms": [
+      {
+        "term": "subject",
+        "pos": "n",
+        "meaning_vi": "chủ đề",
+        "relation": "near",
+        "note_vi": "Subject phù hợp khi nói nội dung; theme còn có thể chỉ phong cách xuyên suốt sự kiện."
+      }
+    ]
+  },
+  {
+    "word": "assist",
+    "synonyms": [
+      {
+        "term": "help",
+        "pos": "v",
+        "meaning_vi": "giúp đỡ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "support",
+    "synonyms": [
+      {
+        "term": "back",
+        "pos": "v",
+        "meaning_vi": "ủng hộ, hậu thuẫn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "coordinate",
+    "synonyms": [
+      {
+        "term": "organize",
+        "pos": "v",
+        "meaning_vi": "tổ chức, sắp xếp",
+        "relation": "near",
+        "note_vi": "Coordinate nhấn mạnh phối hợp nhiều bên; organize rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "dimension",
+    "synonyms": [
+      {
+        "term": "measurement",
+        "pos": "n",
+        "meaning_vi": "số đo",
+        "relation": "near",
+        "note_vi": "Chỉ số đo một chiều như chiều rộng; measurement cũng có nghĩa là việc đo."
+      }
+    ]
+  },
+  {
+    "word": "general",
+    "synonyms": [
+      {
+        "term": "overall",
+        "pos": "adj",
+        "meaning_vi": "tổng quát",
+        "relation": "near",
+        "note_vi": "Overall nhấn mạnh cái nhìn toàn thể; không thay được mọi nghĩa của general."
+      }
+    ]
+  },
+  {
+    "word": "ideal",
+    "synonyms": [
+      {
+        "term": "perfect",
+        "pos": "adj",
+        "meaning_vi": "lý tưởng, hoàn hảo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "exact",
+    "synonyms": [
+      {
+        "term": "precise",
+        "pos": "adj",
+        "meaning_vi": "chính xác",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "lead time",
+    "synonyms": []
+  },
+  {
+    "word": "proximity",
+    "synonyms": [
+      {
+        "term": "nearness",
+        "pos": "n",
+        "meaning_vi": "sự gần gũi về khoảng cách",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "regulation",
+    "synonyms": [
+      {
+        "term": "rule",
+        "pos": "n",
+        "meaning_vi": "quy định",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "site",
+    "synonyms": [
+      {
+        "term": "location",
+        "pos": "n",
+        "meaning_vi": "địa điểm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "stage",
+    "synonyms": [
+      {
+        "term": "put on",
+        "pos": "v",
+        "meaning_vi": "tổ chức, trình diễn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "agency",
+    "synonyms": [
+      {
+        "term": "firm",
+        "pos": "n",
+        "meaning_vi": "công ty",
+        "relation": "near",
+        "note_vi": "Firm là công ty nói chung, không riêng công ty đại diện hoặc môi giới."
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "synonyms": [
+      {
+        "term": "make known",
+        "pos": "v",
+        "meaning_vi": "công bố, cho biết",
+        "relation": "near",
+        "note_vi": "Cụm này thường đặt tân ngữ ở giữa, như make the decision known."
+      }
+    ]
+  },
+  {
+    "word": "beverage",
+    "synonyms": [
+      {
+        "term": "drink",
+        "pos": "n",
+        "meaning_vi": "đồ uống",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "board",
+    "synonyms": [
+      {
+        "term": "get on",
+        "pos": "v",
+        "meaning_vi": "lên tàu, xe",
+        "relation": "near",
+        "note_vi": "Dùng cho tàu, xe buýt, máy bay; không dùng cho ô tô con như get in."
+      }
+    ]
+  },
+  {
+    "word": "claim",
+    "synonyms": [
+      {
+        "term": "request",
+        "pos": "v",
+        "meaning_vi": "yêu cầu",
+        "relation": "near",
+        "note_vi": "Claim compensation nhấn mạnh quyền được bồi thường; request chỉ việc đề nghị."
+      }
+    ]
+  },
+  {
+    "word": "delay",
+    "synonyms": [
+      {
+        "term": "hold up",
+        "pos": "v",
+        "meaning_vi": "làm chậm, trì hoãn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "depart",
+    "synonyms": [
+      {
+        "term": "leave",
+        "pos": "v",
+        "meaning_vi": "rời đi, khởi hành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "embark",
+    "synonyms": [
+      {
+        "term": "board",
+        "pos": "v",
+        "meaning_vi": "lên tàu",
+        "relation": "near",
+        "note_vi": "Board nhận tân ngữ trực tiếp; embark thường dùng on trước tên tàu."
+      }
+    ]
+  },
+  {
+    "word": "itinerary",
+    "synonyms": [
+      {
+        "term": "travel plan",
+        "pos": "n",
+        "meaning_vi": "kế hoạch hành trình",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "luggage",
+    "synonyms": [
+      {
+        "term": "baggage",
+        "pos": "n",
+        "meaning_vi": "hành lý",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "prohibit",
+    "synonyms": [
+      {
+        "term": "forbid",
+        "pos": "v",
+        "meaning_vi": "cấm",
+        "relation": "near",
+        "note_vi": "Forbid thường dùng cấu trúc forbid someone to do; prohibit dùng from doing."
+      }
+    ]
+  },
+  {
+    "word": "valid",
+    "synonyms": []
+  },
+  {
+    "word": "deal with",
+    "synonyms": [
+      {
+        "term": "handle",
+        "pos": "v",
+        "meaning_vi": "xử lý",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "destination",
+    "synonyms": [
+      {
+        "term": "endpoint",
+        "pos": "n",
+        "meaning_vi": "điểm cuối",
+        "relation": "near",
+        "note_vi": "Endpoint nhấn mạnh nơi kết thúc hành trình, ít dùng trong quảng bá du lịch."
+      }
+    ]
+  },
+  {
+    "word": "distinguish",
+    "synonyms": [
+      {
+        "term": "tell apart",
+        "pos": "v",
+        "meaning_vi": "phân biệt",
+        "relation": "near",
+        "note_vi": "Tell apart thường đặt hai đối tượng giữa tell và apart."
+      }
+    ]
+  },
+  {
+    "word": "economize",
+    "synonyms": [
+      {
+        "term": "save money",
+        "pos": "v",
+        "meaning_vi": "tiết kiệm tiền",
+        "relation": "near",
+        "note_vi": "Dùng cho nghĩa tiết kiệm chi tiêu; economize còn dùng với nguồn lực khác."
+      }
+    ]
+  },
+  {
+    "word": "equivalent",
+    "synonyms": [
+      {
+        "term": "comparable",
+        "pos": "adj",
+        "meaning_vi": "tương đương, có thể so sánh",
+        "relation": "near",
+        "note_vi": "Comparable không bảo đảm bằng nhau hoàn toàn như equivalent."
+      }
+    ]
+  },
+  {
+    "word": "excursion",
+    "synonyms": [
+      {
+        "term": "outing",
+        "pos": "n",
+        "meaning_vi": "chuyến đi chơi ngắn",
+        "relation": "near",
+        "note_vi": "Outing thường thiên về giải trí, không nhất thiết có hướng dẫn viên."
+      }
+    ]
+  },
+  {
+    "word": "expense",
+    "synonyms": [
+      {
+        "term": "cost",
+        "pos": "n",
+        "meaning_vi": "chi phí",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "extend",
+    "synonyms": [
+      {
+        "term": "lengthen",
+        "pos": "v",
+        "meaning_vi": "kéo dài",
+        "relation": "near",
+        "note_vi": "Dùng khi tăng thời gian hoặc độ dài; không dùng cho mọi nghĩa mở rộng của extend."
+      }
+    ]
+  },
+  {
+    "word": "prospective",
+    "synonyms": [
+      {
+        "term": "potential",
+        "pos": "adj",
+        "meaning_vi": "tiềm năng, có thể trở thành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "situation",
+    "synonyms": [
+      {
+        "term": "circumstance",
+        "pos": "n",
+        "meaning_vi": "hoàn cảnh",
+        "relation": "near",
+        "note_vi": "Circumstance thường dùng số nhiều circumstances khi nói hoàn cảnh chung."
+      }
+    ]
+  },
+  {
+    "word": "substantially",
+    "synonyms": [
+      {
+        "term": "considerably",
+        "pos": "adv",
+        "meaning_vi": "đáng kể",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "economy class",
+    "synonyms": []
+  },
+  {
+    "word": "comprehensive",
+    "synonyms": [
+      {
+        "term": "thorough",
+        "pos": "adj",
+        "meaning_vi": "kỹ lưỡng, đầy đủ",
+        "relation": "near",
+        "note_vi": "Comprehensive nhấn mạnh bao quát đủ phần; thorough nhấn mạnh mức độ kỹ càng."
+      }
+    ]
+  },
+  {
+    "word": "deluxe",
+    "synonyms": [
+      {
+        "term": "luxurious",
+        "pos": "adj",
+        "meaning_vi": "sang trọng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "directory",
+    "synonyms": [
+      {
+        "term": "listing",
+        "pos": "n",
+        "meaning_vi": "danh sách thông tin",
+        "relation": "near",
+        "note_vi": "Listing có thể chỉ một mục hoặc danh sách; directory thường là danh bạ có cấu trúc."
+      }
+    ]
+  },
+  {
+    "word": "duration",
+    "synonyms": [
+      {
+        "term": "length",
+        "pos": "n",
+        "meaning_vi": "khoảng thời gian",
+        "relation": "near",
+        "note_vi": "Dùng length of the journey để chỉ thời gian; length cũng có nghĩa độ dài vật lý."
+      }
+    ]
+  },
+  {
+    "word": "entitle",
+    "synonyms": [
+      {
+        "term": "give the right to",
+        "pos": "v",
+        "meaning_vi": "cho quyền được",
+        "relation": "near",
+        "note_vi": "Cụm này thường đặt người nhận quyền sau give, như give travelers the right to travel."
+      }
+    ]
+  },
+  {
+    "word": "fare",
+    "synonyms": [
+      {
+        "term": "ticket price",
+        "pos": "n",
+        "meaning_vi": "giá vé",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "offset",
+    "synonyms": [
+      {
+        "term": "counterbalance",
+        "pos": "v",
+        "meaning_vi": "bù lại, cân bằng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "operate",
+    "synonyms": [
+      {
+        "term": "run",
+        "pos": "v",
+        "meaning_vi": "hoạt động, vận hành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "punctual",
+    "synonyms": [
+      {
+        "term": "prompt",
+        "pos": "adj",
+        "meaning_vi": "đúng giờ, nhanh chóng",
+        "relation": "near",
+        "note_vi": "Prompt nhấn mạnh không chậm trễ; punctual nhấn mạnh đúng giờ hẹn."
+      }
+    ]
+  },
+  {
+    "word": "relatively",
+    "synonyms": [
+      {
+        "term": "comparatively",
+        "pos": "adv",
+        "meaning_vi": "tương đối",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "remainder",
+    "synonyms": [
+      {
+        "term": "rest",
+        "pos": "n",
+        "meaning_vi": "phần còn lại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "remote",
+    "synonyms": [
+      {
+        "term": "isolated",
+        "pos": "adj",
+        "meaning_vi": "hẻo lánh, biệt lập",
+        "relation": "near",
+        "note_vi": "Isolated nhấn mạnh sự tách biệt; remote nhấn mạnh khoảng cách xa."
+      }
+    ]
+  },
+  {
+    "word": "advanced",
+    "synonyms": [
+      {
+        "term": "sophisticated",
+        "pos": "adj",
+        "meaning_vi": "tiên tiến, tinh vi",
+        "relation": "near",
+        "note_vi": "Sophisticated nhấn mạnh độ phức tạp và tinh vi của công nghệ."
+      }
+    ]
+  },
+  {
+    "word": "chain",
+    "synonyms": [
+      {
+        "term": "group",
+        "pos": "n",
+        "meaning_vi": "tập đoàn, nhóm doanh nghiệp",
+        "relation": "near",
+        "note_vi": "Group không nhất thiết gồm cơ sở cùng thương hiệu như chain."
+      }
+    ]
+  },
+  {
+    "word": "check in",
+    "synonyms": [
+      {
+        "term": "register",
+        "pos": "v",
+        "meaning_vi": "đăng ký làm thủ tục",
+        "relation": "near",
+        "note_vi": "Ở khách sạn; register rộng hơn và có thể cần thêm at the hotel."
+      }
+    ]
+  },
+  {
+    "word": "confirm",
+    "synonyms": [
+      {
+        "term": "verify",
+        "pos": "v",
+        "meaning_vi": "xác minh",
+        "relation": "near",
+        "note_vi": "Verify nhấn mạnh kiểm tra tính đúng; confirm còn có nghĩa xác nhận cam kết đặt chỗ."
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "synonyms": [
+      {
+        "term": "anticipate",
+        "pos": "v",
+        "meaning_vi": "dự kiến, mong đợi",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "housekeeper",
+    "synonyms": [
+      {
+        "term": "room attendant",
+        "pos": "n",
+        "meaning_vi": "nhân viên dọn phòng",
+        "relation": "near",
+        "note_vi": "Dùng trong khách sạn; housekeeper còn có thể chỉ người quản lý việc nhà."
+      }
+    ]
+  },
+  {
+    "word": "notify",
+    "synonyms": [
+      {
+        "term": "inform",
+        "pos": "v",
+        "meaning_vi": "thông báo",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "preclude",
+    "synonyms": [
+      {
+        "term": "prevent",
+        "pos": "v",
+        "meaning_vi": "ngăn cản",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "quote",
+    "synonyms": [
+      {
+        "term": "quotation",
+        "pos": "n",
+        "meaning_vi": "lời trích dẫn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "synonyms": [
+      {
+        "term": "price",
+        "pos": "n",
+        "meaning_vi": "mức giá",
+        "relation": "near",
+        "note_vi": "Dùng cho giá dịch vụ trong ví dụ; rate cũng có nghĩa tỷ lệ."
+      }
+    ]
+  },
+  {
+    "word": "reserve",
+    "synonyms": [
+      {
+        "term": "book",
+        "pos": "v",
+        "meaning_vi": "đặt trước",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "synonyms": [
+      {
+        "term": "provide",
+        "pos": "v",
+        "meaning_vi": "cung cấp",
+        "relation": "near",
+        "note_vi": "Serve breakfast nhấn mạnh phục vụ món ăn; provide breakfast chỉ cung cấp bữa sáng."
+      }
+    ]
+  },
+  {
+    "word": "coincide",
+    "synonyms": [
+      {
+        "term": "overlap",
+        "pos": "v",
+        "meaning_vi": "trùng thời gian",
+        "relation": "near",
+        "note_vi": "Overlap có thể chỉ trùng một phần; coincide có thể là đúng cùng thời điểm."
+      }
+    ]
+  },
+  {
+    "word": "confusion",
+    "synonyms": [
+      {
+        "term": "bewilderment",
+        "pos": "n",
+        "meaning_vi": "sự bối rối",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "contact",
+    "synonyms": [
+      {
+        "term": "get in touch with",
+        "pos": "v",
+        "meaning_vi": "liên hệ với",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "disappoint",
+    "synonyms": [
+      {
+        "term": "let down",
+        "pos": "v",
+        "meaning_vi": "làm thất vọng",
+        "relation": "near",
+        "note_vi": "Có thể tách cụm, như let the clients down."
+      }
+    ]
+  },
+  {
+    "word": "guarantee",
+    "synonyms": [
+      {
+        "term": "ensure",
+        "pos": "v",
+        "meaning_vi": "bảo đảm",
+        "relation": "near",
+        "note_vi": "Ensure nhấn mạnh làm cho chắc chắn xảy ra; guarantee còn là lời cam kết chính thức."
+      }
+    ]
+  },
+  {
+    "word": "intend",
+    "synonyms": [
+      {
+        "term": "plan",
+        "pos": "v",
+        "meaning_vi": "dự định",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "license",
+    "synonyms": [
+      {
+        "term": "permit",
+        "pos": "n",
+        "meaning_vi": "giấy phép",
+        "relation": "near",
+        "note_vi": "Tên giấy phép lái xe thường là driving license; permit có thể chỉ giấy phép học lái hoặc loại khác."
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "synonyms": [
+      {
+        "term": "anxious",
+        "pos": "adj",
+        "meaning_vi": "lo lắng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "optional",
+    "synonyms": [
+      {
+        "term": "voluntary",
+        "pos": "adj",
+        "meaning_vi": "tự nguyện, không bắt buộc",
+        "relation": "near",
+        "note_vi": "Voluntary nhấn mạnh lựa chọn tự nguyện; optional nhấn mạnh không bắt buộc."
+      }
+    ]
+  },
+  {
+    "word": "tempt",
+    "synonyms": [
+      {
+        "term": "entice",
+        "pos": "v",
+        "meaning_vi": "lôi cuốn, dụ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "thrill",
+    "synonyms": [
+      {
+        "term": "excitement",
+        "pos": "n",
+        "meaning_vi": "sự phấn khích",
+        "relation": "near",
+        "note_vi": "Thrill thường chỉ một cảm giác phấn khích cụ thể, excitement có thể kéo dài hơn."
+      }
+    ]
+  },
+  {
+    "word": "tier",
+    "synonyms": [
+      {
+        "term": "level",
+        "pos": "n",
+        "meaning_vi": "tầng, cấp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "attain",
+    "synonyms": [
+      {
+        "term": "achieve",
+        "pos": "v",
+        "meaning_vi": "đạt được",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "combine",
+    "synonyms": [
+      {
+        "term": "bring together",
+        "pos": "v",
+        "meaning_vi": "kết hợp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "synonyms": [
+      {
+        "term": "carry on",
+        "pos": "v",
+        "meaning_vi": "tiếp tục",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "description",
+    "synonyms": [
+      {
+        "term": "account",
+        "pos": "n",
+        "meaning_vi": "bản mô tả",
+        "relation": "near",
+        "note_vi": "Account có thể là lời kể chi tiết về sự kiện; description cũng mô tả đặc điểm tĩnh."
+      }
+    ]
+  },
+  {
+    "word": "disperse",
+    "synonyms": [
+      {
+        "term": "scatter",
+        "pos": "v",
+        "meaning_vi": "phân tán, tản ra",
+        "relation": "near",
+        "note_vi": "Scatter thường gợi việc tản nhanh ra nhiều hướng; disperse trung tính hơn."
+      }
+    ]
+  },
+  {
+    "word": "entertain",
+    "synonyms": [
+      {
+        "term": "amuse",
+        "pos": "v",
+        "meaning_vi": "làm vui, giúp giải trí",
+        "relation": "near",
+        "note_vi": "Amuse thiên về gây thích thú hoặc buồn cười; entertain bao gồm nhiều hình thức giải trí."
+      }
+    ]
+  },
+  {
+    "word": "influence",
+    "synonyms": [
+      {
+        "term": "affect",
+        "pos": "v",
+        "meaning_vi": "ảnh hưởng đến",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "range",
+    "synonyms": [
+      {
+        "term": "variety",
+        "pos": "n",
+        "meaning_vi": "sự đa dạng, nhiều loại",
+        "relation": "near",
+        "note_vi": "Phù hợp với a wide range of; range còn có nghĩa phạm vi hoặc giới hạn."
+      }
+    ]
+  },
+  {
+    "word": "release",
+    "synonyms": [
+      {
+        "term": "bring out",
+        "pos": "v",
+        "meaning_vi": "phát hành",
+        "relation": "near",
+        "note_vi": "Dùng cho phim, sách, sản phẩm; không dùng cho mọi nghĩa giải phóng của release."
+      }
+    ]
+  },
+  {
+    "word": "represent",
+    "synonyms": [
+      {
+        "term": "depict",
+        "pos": "v",
+        "meaning_vi": "miêu tả, thể hiện",
+        "relation": "near",
+        "note_vi": "Dùng khi ảnh thể hiện sự kiện; represent còn có nghĩa đại diện."
+      }
+    ]
+  },
+  {
+    "word": "separate",
+    "synonyms": [
+      {
+        "term": "distinct",
+        "pos": "adj",
+        "meaning_vi": "riêng biệt",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "successive",
+    "synonyms": [
+      {
+        "term": "consecutive",
+        "pos": "adj",
+        "meaning_vi": "liên tiếp",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "action",
+    "synonyms": []
+  },
+  {
+    "word": "approach",
+    "synonyms": [
+      {
+        "term": "go up to",
+        "pos": "v",
+        "meaning_vi": "tiến đến gần",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "audience",
+    "synonyms": [
+      {
+        "term": "spectators",
+        "pos": "n",
+        "meaning_vi": "khán giả",
+        "relation": "near",
+        "note_vi": "Spectators thường xem trực tiếp; audience bao gồm người nghe hoặc theo dõi phát sóng."
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "synonyms": [
+      {
+        "term": "imaginative",
+        "pos": "adj",
+        "meaning_vi": "giàu trí tưởng tượng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "dialogue",
+    "synonyms": [
+      {
+        "term": "conversation",
+        "pos": "n",
+        "meaning_vi": "cuộc đối thoại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "element",
+    "synonyms": [
+      {
+        "term": "component",
+        "pos": "n",
+        "meaning_vi": "thành phần, yếu tố",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "synonyms": [
+      {
+        "term": "expertise",
+        "pos": "n",
+        "meaning_vi": "chuyên môn",
+        "relation": "near",
+        "note_vi": "Expertise là kỹ năng chuyên sâu có được, experience nhấn mạnh quá trình từng làm."
+      }
+    ]
+  },
+  {
+    "word": "occur",
+    "synonyms": [
+      {
+        "term": "happen",
+        "pos": "v",
+        "meaning_vi": "xảy ra",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "perform",
+    "synonyms": [
+      {
+        "term": "play",
+        "pos": "v",
+        "meaning_vi": "biểu diễn, chơi nhạc",
+        "relation": "near",
+        "note_vi": "Dùng cho biểu diễn nhạc trong ví dụ; không thay mọi loại biểu diễn."
+      }
+    ]
+  },
+  {
+    "word": "rehearse",
+    "synonyms": [
+      {
+        "term": "practice",
+        "pos": "v",
+        "meaning_vi": "luyện tập, diễn tập",
+        "relation": "near",
+        "note_vi": "Rehearse thường chuẩn bị cho buổi biểu diễn; practice rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "review",
+    "synonyms": [
+      {
+        "term": "critique",
+        "pos": "n",
+        "meaning_vi": "bài phê bình",
+        "relation": "near",
+        "note_vi": "Critique thường phân tích chi tiết hơn một bài review ngắn."
+      }
+    ]
+  },
+  {
+    "word": "sell out",
+    "synonyms": []
+  },
+  {
+    "word": "available",
+    "synonyms": [
+      {
+        "term": "obtainable",
+        "pos": "adj",
+        "meaning_vi": "có thể có được",
+        "relation": "near",
+        "note_vi": "Obtainable nhấn mạnh khả năng kiếm hoặc mua được; available còn chỉ người rảnh."
+      }
+    ]
+  },
+  {
+    "word": "broaden",
+    "synonyms": [
+      {
+        "term": "expand",
+        "pos": "v",
+        "meaning_vi": "mở rộng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "categorize",
+    "synonyms": [
+      {
+        "term": "classify",
+        "pos": "v",
+        "meaning_vi": "phân loại",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "disparate",
+    "synonyms": [
+      {
+        "term": "dissimilar",
+        "pos": "adj",
+        "meaning_vi": "khác nhau",
+        "relation": "near",
+        "note_vi": "Disparate nhấn mạnh khác biệt lớn hoặc khó so sánh; dissimilar nhẹ hơn."
+      }
+    ]
+  },
+  {
+    "word": "divide",
+    "synonyms": [
+      {
+        "term": "split",
+        "pos": "v",
+        "meaning_vi": "chia, phân chia",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "favor",
+    "synonyms": [
+      {
+        "term": "prefer",
+        "pos": "v",
+        "meaning_vi": "ưa chuộng hơn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "instinct",
+    "synonyms": [
+      {
+        "term": "intuition",
+        "pos": "n",
+        "meaning_vi": "trực giác",
+        "relation": "near",
+        "note_vi": "Intuition nhấn mạnh nhận biết không qua suy luận; instinct còn là bản năng bẩm sinh."
+      }
+    ]
+  },
+  {
+    "word": "prefer",
+    "synonyms": [
+      {
+        "term": "favor",
+        "pos": "v",
+        "meaning_vi": "ưa chuộng hơn",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "reason",
+    "synonyms": [
+      {
+        "term": "cause",
+        "pos": "n",
+        "meaning_vi": "nguyên nhân",
+        "relation": "near",
+        "note_vi": "Cause chỉ nguyên nhân gây ra sự việc; reason cũng có thể là lý do biện minh."
+      }
+    ]
+  },
+  {
+    "word": "relaxation",
+    "synonyms": [
+      {
+        "term": "rest",
+        "pos": "n",
+        "meaning_vi": "sự nghỉ ngơi",
+        "relation": "near",
+        "note_vi": "Rest thiên về nghỉ để hồi sức; relaxation nhấn mạnh giảm căng thẳng."
+      }
+    ]
+  },
+  {
+    "word": "taste",
+    "synonyms": [
+      {
+        "term": "preference",
+        "pos": "n",
+        "meaning_vi": "sở thích, thị hiếu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "urge",
+    "synonyms": [
+      {
+        "term": "encourage",
+        "pos": "v",
+        "meaning_vi": "khuyến khích",
+        "relation": "near",
+        "note_vi": "Urge mạnh và khẩn thiết hơn encourage."
+      }
+    ]
+  },
+  {
+    "word": "acquire",
+    "synonyms": [
+      {
+        "term": "obtain",
+        "pos": "v",
+        "meaning_vi": "có được",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "admire",
+    "synonyms": [
+      {
+        "term": "appreciate",
+        "pos": "v",
+        "meaning_vi": "trân trọng, thưởng thức",
+        "relation": "near",
+        "note_vi": "Trong ngữ cảnh chiêm ngưỡng vẻ đẹp; admire còn dùng cho ngưỡng mộ con người."
+      }
+    ]
+  },
+  {
+    "word": "collection",
+    "synonyms": [
+      {
+        "term": "assemblage",
+        "pos": "n",
+        "meaning_vi": "tập hợp hiện vật",
+        "relation": "near",
+        "note_vi": "Assemblage trang trọng hơn và không nhất thiết có chủ đích sưu tầm."
+      }
+    ]
+  },
+  {
+    "word": "criticism",
+    "synonyms": [
+      {
+        "term": "critique",
+        "pos": "n",
+        "meaning_vi": "sự phê bình",
+        "relation": "near",
+        "note_vi": "Critique thường là phân tích có hệ thống; criticism cũng có thể chỉ lời chê."
+      }
+    ]
+  },
+  {
+    "word": "fashion",
+    "synonyms": [
+      {
+        "term": "style",
+        "pos": "n",
+        "meaning_vi": "phong cách",
+        "relation": "near",
+        "note_vi": "Fashion nhấn mạnh xu hướng được ưa chuộng theo thời; style có thể riêng của cá nhân."
+      }
+    ]
+  },
+  {
+    "word": "leisure",
+    "synonyms": [
+      {
+        "term": "free time",
+        "pos": "n",
+        "meaning_vi": "thời gian rảnh",
+        "relation": "near",
+        "note_vi": "Không thay nguyên cụm at one's leisure bằng at one's free time."
+      }
+    ]
+  },
+  {
+    "word": "respond",
+    "synonyms": [
+      {
+        "term": "reply",
+        "pos": "v",
+        "meaning_vi": "trả lời",
+        "relation": "near",
+        "note_vi": "Reply dùng cho lời hồi đáp; respond còn chỉ phản ứng hoặc hành động đáp lại."
+      }
+    ]
+  },
+  {
+    "word": "schedule",
+    "synonyms": [
+      {
+        "term": "timetable",
+        "pos": "n",
+        "meaning_vi": "thời gian biểu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "significant",
+    "synonyms": [
+      {
+        "term": "important",
+        "pos": "adj",
+        "meaning_vi": "quan trọng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "specialize in",
+    "synonyms": [
+      {
+        "term": "focus on",
+        "pos": "v",
+        "meaning_vi": "tập trung vào",
+        "relation": "near",
+        "note_vi": "Specialize in nhấn mạnh lĩnh vực chuyên môn; focus on chỉ sự tập trung."
+      }
+    ]
+  },
+  {
+    "word": "spectrum",
+    "synonyms": []
+  },
+  {
+    "word": "assignment",
+    "synonyms": [
+      {
+        "term": "task",
+        "pos": "n",
+        "meaning_vi": "nhiệm vụ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "decisive",
+    "synonyms": [
+      {
+        "term": "resolute",
+        "pos": "adj",
+        "meaning_vi": "kiên quyết",
+        "relation": "near",
+        "note_vi": "Resolute nhấn mạnh quyết tâm; decisive nhấn mạnh quyết định nhanh và dứt khoát."
+      }
+    ]
+  },
+  {
+    "word": "disseminate",
+    "synonyms": [
+      {
+        "term": "spread",
+        "pos": "v",
+        "meaning_vi": "phổ biến, truyền bá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "impact",
+    "synonyms": [
+      {
+        "term": "effect",
+        "pos": "n",
+        "meaning_vi": "tác động, ảnh hưởng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "in-depth",
+    "synonyms": [
+      {
+        "term": "detailed",
+        "pos": "adj",
+        "meaning_vi": "chi tiết",
+        "relation": "near",
+        "note_vi": "In-depth nhấn mạnh phân tích sâu; detailed nhấn mạnh nhiều chi tiết."
+      }
+    ]
+  },
+  {
+    "word": "investigate",
+    "synonyms": [
+      {
+        "term": "look into",
+        "pos": "v",
+        "meaning_vi": "điều tra, tìm hiểu",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "synonyms": [
+      {
+        "term": "connection",
+        "pos": "n",
+        "meaning_vi": "mối liên hệ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "politician",
+    "synonyms": []
+  },
+  {
+    "word": "subscribe",
+    "synonyms": [
+      {
+        "term": "take out a subscription",
+        "pos": "v",
+        "meaning_vi": "đăng ký mua dài hạn",
+        "relation": "near",
+        "note_vi": "Cụm này cần to trước tên báo hoặc tạp chí."
+      }
+    ]
+  },
+  {
+    "word": "thorough",
+    "synonyms": [
+      {
+        "term": "comprehensive",
+        "pos": "adj",
+        "meaning_vi": "toàn diện",
+        "relation": "near",
+        "note_vi": "Thorough nhấn mạnh kỹ lưỡng; comprehensive nhấn mạnh đủ các phần."
+      }
+    ]
+  },
+  {
+    "word": "choose",
+    "synonyms": [
+      {
+        "term": "select",
+        "pos": "v",
+        "meaning_vi": "chọn lựa",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "annual",
+    "synonyms": [
+      {
+        "term": "yearly",
+        "pos": "adj",
+        "meaning_vi": "hằng năm",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "synonyms": [
+      {
+        "term": "scheduled meeting",
+        "pos": "n",
+        "meaning_vi": "cuộc gặp đã hẹn",
+        "relation": "near",
+        "note_vi": "Appointment có thể là lịch khám; scheduled meeting thường dùng trong công việc."
+      }
+    ]
+  },
+  {
+    "word": "assess",
+    "synonyms": [
+      {
+        "term": "evaluate",
+        "pos": "v",
+        "meaning_vi": "đánh giá",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "diagnose",
+    "synonyms": [
+      {
+        "term": "identify",
+        "pos": "v",
+        "meaning_vi": "xác định",
+        "relation": "near",
+        "note_vi": "Diagnose chuyên chỉ nhận định bệnh hoặc nguyên nhân lỗi; identify rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "effective",
+    "synonyms": [
+      {
+        "term": "successful",
+        "pos": "adj",
+        "meaning_vi": "có hiệu quả, thành công",
+        "relation": "near",
+        "note_vi": "Successful chỉ đạt mục tiêu; effective nhấn mạnh tạo ra tác dụng mong muốn."
+      }
+    ]
+  },
+  {
+    "word": "instrument",
+    "synonyms": [
+      {
+        "term": "tool",
+        "pos": "n",
+        "meaning_vi": "dụng cụ",
+        "relation": "near",
+        "note_vi": "Instrument có thể chỉ dụng cụ chuyên dụng, còn tool rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "manage",
+    "synonyms": [
+      {
+        "term": "handle",
+        "pos": "v",
+        "meaning_vi": "xử lý, quản lý",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "synonyms": [
+      {
+        "term": "stop",
+        "pos": "v",
+        "meaning_vi": "ngăn chặn",
+        "relation": "near",
+        "note_vi": "Prevent thường dùng from doing; stop có thể chỉ chấm dứt việc đang diễn ra."
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "synonyms": [
+      {
+        "term": "suggest",
+        "pos": "v",
+        "meaning_vi": "gợi ý, đề xuất",
+        "relation": "near",
+        "note_vi": "Suggest không dùng cấu trúc suggest someone to do."
+      }
+    ]
+  },
+  {
+    "word": "record",
+    "synonyms": [
+      {
+        "term": "file",
+        "pos": "n",
+        "meaning_vi": "hồ sơ",
+        "relation": "near",
+        "note_vi": "File là tập hợp thông tin; record có thể là một bản ghi hoặc lịch sử."
+      }
+    ]
+  },
+  {
+    "word": "serious",
+    "synonyms": [
+      {
+        "term": "severe",
+        "pos": "adj",
+        "meaning_vi": "nghiêm trọng",
+        "relation": "near",
+        "note_vi": "Severe nhấn mạnh mức độ nặng; serious cũng chỉ thái độ nghiêm túc."
+      }
+    ]
+  },
+  {
+    "word": "refer",
+    "synonyms": [
+      {
+        "term": "consult",
+        "pos": "v",
+        "meaning_vi": "tham khảo",
+        "relation": "near",
+        "note_vi": "Consult nhận tân ngữ trực tiếp, còn refer thường cần to."
+      }
+    ]
+  },
+  {
+    "word": "catch up",
+    "synonyms": [
+      {
+        "term": "get up to date",
+        "pos": "v",
+        "meaning_vi": "theo kịp, cập nhật cho kịp",
+        "relation": "near",
+        "note_vi": "Với việc tồn đọng thường dùng get up to date with."
+      }
+    ]
+  },
+  {
+    "word": "distraction",
+    "synonyms": [
+      {
+        "term": "disturbance",
+        "pos": "n",
+        "meaning_vi": "sự gây xao nhãng",
+        "relation": "near",
+        "note_vi": "Disturbance nhấn mạnh việc quấy nhiễu; distraction là điều khiến mất tập trung."
+      }
+    ]
+  },
+  {
+    "word": "encouragement",
+    "synonyms": [
+      {
+        "term": "support",
+        "pos": "n",
+        "meaning_vi": "sự động viên, hỗ trợ",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "evident",
+    "synonyms": [
+      {
+        "term": "obvious",
+        "pos": "adj",
+        "meaning_vi": "rõ ràng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "habit",
+    "synonyms": [
+      {
+        "term": "routine",
+        "pos": "n",
+        "meaning_vi": "thói quen, nếp sinh hoạt",
+        "relation": "near",
+        "note_vi": "Routine thường là chuỗi việc đều đặn; habit có thể chỉ một hành vi lặp lại."
+      }
+    ]
+  },
+  {
+    "word": "illuminate",
+    "synonyms": [
+      {
+        "term": "light up",
+        "pos": "v",
+        "meaning_vi": "chiếu sáng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "irritate",
+    "synonyms": [
+      {
+        "term": "annoy",
+        "pos": "v",
+        "meaning_vi": "làm bực mình",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "overview",
+    "synonyms": [
+      {
+        "term": "summary",
+        "pos": "n",
+        "meaning_vi": "bản tóm tắt",
+        "relation": "near",
+        "note_vi": "Overview nhấn mạnh cái nhìn toàn cảnh; summary tóm lược nội dung chính."
+      }
+    ]
+  },
+  {
+    "word": "position",
+    "synonyms": [
+      {
+        "term": "location",
+        "pos": "n",
+        "meaning_vi": "vị trí",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "regular",
+    "synonyms": [
+      {
+        "term": "routine",
+        "pos": "adj",
+        "meaning_vi": "định kỳ, thường lệ",
+        "relation": "near",
+        "note_vi": "Dùng cho kiểm tra thường lệ; regular còn có nghĩa đều đặn hoặc thông thường."
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "synonyms": [
+      {
+        "term": "reinstate",
+        "pos": "v",
+        "meaning_vi": "khôi phục",
+        "relation": "near",
+        "note_vi": "Reinstate nhấn mạnh đưa trở lại hoạt động hoặc vị trí cũ; restore cũng chỉ sửa chữa."
+      }
+    ]
+  },
+  {
+    "word": "aware",
+    "synonyms": [
+      {
+        "term": "conscious",
+        "pos": "adj",
+        "meaning_vi": "nhận thức được",
+        "relation": "near",
+        "note_vi": "Trong nghĩa biết về điều gì, cả hai thường đi với of."
+      }
+    ]
+  },
+  {
+    "word": "alternative",
+    "synonyms": [
+      {
+        "term": "other",
+        "pos": "adj",
+        "meaning_vi": "khác, thay thế",
+        "relation": "near",
+        "note_vi": "Other chỉ một lựa chọn khác; alternative nhấn mạnh lựa chọn thay thế."
+      }
+    ]
+  },
+  {
+    "word": "aspect",
+    "synonyms": [
+      {
+        "term": "facet",
+        "pos": "n",
+        "meaning_vi": "khía cạnh",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "concern",
+    "synonyms": [
+      {
+        "term": "worry",
+        "pos": "n",
+        "meaning_vi": "mối lo lắng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "emphasize",
+    "synonyms": [
+      {
+        "term": "stress",
+        "pos": "v",
+        "meaning_vi": "nhấn mạnh",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "incur",
+    "synonyms": [
+      {
+        "term": "become liable for",
+        "pos": "v",
+        "meaning_vi": "phải chịu trách nhiệm chi trả",
+        "relation": "near",
+        "note_vi": "Cụm này hợp với chi phí hoặc nghĩa vụ pháp lý; incur còn đi với tổn thất và sự chỉ trích."
+      }
+    ]
+  },
+  {
+    "word": "personnel",
+    "synonyms": [
+      {
+        "term": "staff",
+        "pos": "n",
+        "meaning_vi": "nhân viên",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "policy",
+    "synonyms": [
+      {
+        "term": "rule",
+        "pos": "n",
+        "meaning_vi": "quy định",
+        "relation": "near",
+        "note_vi": "Policy thường là định hướng hoặc bộ nguyên tắc; rule là quy định cụ thể."
+      }
+    ]
+  },
+  {
+    "word": "portion",
+    "synonyms": [
+      {
+        "term": "part",
+        "pos": "n",
+        "meaning_vi": "phần",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "regardless",
+    "synonyms": []
+  },
+  {
+    "word": "reimburse",
+    "synonyms": [
+      {
+        "term": "repay",
+        "pos": "v",
+        "meaning_vi": "hoàn trả",
+        "relation": "near",
+        "note_vi": "Reimburse thường hoàn chi phí đã trả hộ; repay còn dùng trả nợ."
+      }
+    ]
+  },
+  {
+    "word": "suit",
+    "synonyms": [
+      {
+        "term": "be suitable for",
+        "pos": "v",
+        "meaning_vi": "phù hợp với",
+        "relation": "near",
+        "note_vi": "Cụm này dùng be chia theo chủ ngữ, như is suitable for."
+      }
+    ]
+  },
+  {
+    "word": "treat",
+    "synonyms": [
+      {
+        "term": "care for",
+        "pos": "v",
+        "meaning_vi": "chăm sóc",
+        "relation": "near",
+        "note_vi": "Treat nhấn mạnh điều trị; care for bao gồm chăm sóc rộng hơn, không nhất thiết chữa trị."
+      }
+    ]
+  },
+  {
+    "word": "accompany",
+    "synonyms": [
+      {
+        "term": "go with",
+        "pos": "v",
+        "meaning_vi": "đi cùng",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "admit",
+    "synonyms": [
+      {
+        "term": "receive",
+        "pos": "v",
+        "meaning_vi": "tiếp nhận",
+        "relation": "near",
+        "note_vi": "Trong bệnh viện, admit bao hàm thủ tục nhập viện; receive chỉ tiếp nhận nói chung."
+      }
+    ]
+  },
+  {
+    "word": "authorize",
+    "synonyms": [
+      {
+        "term": "approve",
+        "pos": "v",
+        "meaning_vi": "phê duyệt, cho phép",
+        "relation": "near",
+        "note_vi": "Authorize thường trao thẩm quyền; approve nhấn mạnh đồng ý chính thức."
+      }
+    ]
+  },
+  {
+    "word": "designate",
+    "synonyms": [
+      {
+        "term": "appoint",
+        "pos": "v",
+        "meaning_vi": "chỉ định",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "escort",
+    "synonyms": [
+      {
+        "term": "guide",
+        "pos": "n",
+        "meaning_vi": "người dẫn đường",
+        "relation": "near",
+        "note_vi": "Escort nhấn mạnh đi kèm hoặc bảo vệ; guide nhấn mạnh chỉ đường hoặc giải thích."
+      }
+    ]
+  },
+  {
+    "word": "identify",
+    "synonyms": [
+      {
+        "term": "establish the identity of",
+        "pos": "v",
+        "meaning_vi": "xác định danh tính của",
+        "relation": "near",
+        "note_vi": "Với identify themselves dùng establish their own identity; với tân ngữ thường dùng establish the identity of."
+      }
+    ]
+  },
+  {
+    "word": "permission",
+    "synonyms": [
+      {
+        "term": "authorization",
+        "pos": "n",
+        "meaning_vi": "sự cho phép",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "pertinent",
+    "synonyms": [
+      {
+        "term": "relevant",
+        "pos": "adj",
+        "meaning_vi": "có liên quan",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "result",
+    "synonyms": [
+      {
+        "term": "outcome",
+        "pos": "n",
+        "meaning_vi": "kết quả",
+        "relation": "near",
+        "note_vi": "Outcome thường là kết quả cuối cùng; result còn dùng cho số liệu xét nghiệm."
+      }
+    ]
+  },
+  {
+    "word": "statement",
+    "synonyms": [
+      {
+        "term": "account",
+        "pos": "n",
+        "meaning_vi": "bản tường trình",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "surgery",
+    "synonyms": [
+      {
+        "term": "operation",
+        "pos": "n",
+        "meaning_vi": "ca phẫu thuật",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "consultation",
+    "synonyms": [
+      {
+        "term": "discussion",
+        "pos": "n",
+        "meaning_vi": "sự trao đổi, bàn bạc",
+        "relation": "near",
+        "note_vi": "Consultation thường để xin ý kiến hoặc tư vấn; discussion rộng hơn."
+      }
+    ]
+  },
+  {
+    "word": "convenient",
+    "synonyms": [
+      {
+        "term": "handy",
+        "pos": "adj",
+        "meaning_vi": "thuận tiện",
+        "relation": "near",
+        "note_vi": "Handy ít trang trọng hơn; còn có nghĩa vừa tầm tay hoặc hữu ích."
+      }
+    ]
+  },
+  {
+    "word": "detect",
+    "synonyms": [
+      {
+        "term": "spot",
+        "pos": "v",
+        "meaning_vi": "phát hiện",
+        "relation": "near",
+        "note_vi": "Spot ít trang trọng hơn, thường là nhận ra bằng quan sát."
+      }
+    ]
+  },
+  {
+    "word": "factor",
+    "synonyms": [
+      {
+        "term": "element",
+        "pos": "n",
+        "meaning_vi": "yếu tố",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "interaction",
+    "synonyms": [
+      {
+        "term": "communication",
+        "pos": "n",
+        "meaning_vi": "sự giao tiếp",
+        "relation": "near",
+        "note_vi": "Communication là trao đổi thông tin; interaction còn bao gồm tác động qua lại khác."
+      }
+    ]
+  },
+  {
+    "word": "limit",
+    "synonyms": [
+      {
+        "term": "cap",
+        "pos": "n",
+        "meaning_vi": "giới hạn tối đa",
+        "relation": "near",
+        "note_vi": "Cap nhấn mạnh mức trần; limit cũng có thể chỉ ranh giới hoặc giới hạn khác."
+      }
+    ]
+  },
+  {
+    "word": "monitor",
+    "synonyms": [
+      {
+        "term": "track",
+        "pos": "v",
+        "meaning_vi": "theo dõi",
+        "relation": "near",
+        "note_vi": "Track nhấn mạnh theo dõi diễn biến theo thời gian; monitor còn có sắc thái giám sát."
+      }
+    ]
+  },
+  {
+    "word": "potential",
+    "synonyms": [
+      {
+        "term": "prospective",
+        "pos": "adj",
+        "meaning_vi": "tiềm năng, có thể trở thành",
+        "relation": "synonym",
+        "note_vi": null
+      }
+    ]
+  },
+  {
+    "word": "sample",
+    "synonyms": [
+      {
+        "term": "specimen",
+        "pos": "n",
+        "meaning_vi": "mẫu",
+        "relation": "near",
+        "note_vi": "Specimen thường là mẫu đại diện hoặc mẫu xét nghiệm; sample rộng hơn, gồm cả hàng dùng thử."
+      }
+    ]
+  },
+  {
+    "word": "sense",
+    "synonyms": [
+      {
+        "term": "judgment",
+        "pos": "n",
+        "meaning_vi": "khả năng phán đoán",
+        "relation": "near",
+        "note_vi": "Dùng trong good sense; sense còn nhiều nghĩa khác như giác quan."
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "synonyms": [
+      {
+        "term": "offer to help",
+        "pos": "v",
+        "meaning_vi": "tình nguyện giúp",
+        "relation": "near",
+        "note_vi": "Cần chỉnh câu khi đã có to help sau volunteer để tránh lặp."
+      }
+    ]
+  }
+]

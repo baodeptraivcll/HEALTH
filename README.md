@@ -47,8 +47,9 @@ Với project mới, chạy trong Supabase SQL Editor bằng tài khoản quản
 
 1. `supabase/migrations/20261021_toeic.sql` (một lần).
 2. `supabase/migrations/20261022_bilingual_examples.sql` (thêm cột ví dụ song ngữ, giữ dữ liệu học).
-3. `supabase/seed.sql` (có thể chạy lại, hợp nhất bản nguồn với ví dụ/hiệu chỉnh, upsert theo word gốc và giữ id/tiến độ).
-4. `tests/rls.sql` để kiểm tra; dữ liệu test được rollback, kết quả cuối phải PASS.
+3. `supabase/migrations/20261023_synonyms.sql` (thêm từ đồng nghĩa, giữ dữ liệu học).
+4. `supabase/seed.sql` (có thể chạy lại, hợp nhất bản nguồn với ví dụ/hiệu chỉnh, upsert theo word gốc và giữ id/tiến độ).
+5. `tests/rls.sql` để kiểm tra; dữ liệu test được rollback, kết quả cuối phải PASS.
 
 Schema gồm `words`, `user_word_progress`, `mistake_log`, `study_sessions`, `user_settings` và `review_events` chống ghi trùng. Tất cả bảng bật RLS. User đã đăng nhập được đọc words; các bảng cá nhân chỉ đọc của mình. Cài đặt ghi theo owner; tiến độ/log/buổi học được ghi qua RPC có kiểm tra auth.uid, lock theo user và transaction. Không cho client ghi trực tiếp counter để tránh sai quy tắc.
 
@@ -99,3 +100,5 @@ Repository hiện tại: https://github.com/baodeptraivcll/HEALTH. Dự án Verc
 Cấu hình Vercel: framework Next.js, build `npm run build`, output `.next`; thêm hai biến public Supabase cho Production/Preview cần sử dụng. Supabase Auth Site URL và Redirect URLs phải khớp domain triển khai để xác nhận email. Push vào nhánh production đã kết nối sẽ kích hoạt deployment. Kiểm tra trạng thái Ready và thử `/preview` cùng màn hình đăng nhập sau deploy.
 
 Giới hạn hiện tại: tài liệu chỉ có 596 mục từ duy nhất; ví dụ Anh–Việt được tự biên soạn, không phải câu trích từ Cambridge; âm thanh thực tế phụ thuộc giọng tiếng Anh được cài trên thiết bị. Không có dữ liệu học sức khoẻ cũ trong schema public mới.
+
+Từ đồng nghĩa theo ngữ cảnh nằm trong `data/synonyms.json`: 596 mục, 585 mục có từ thay thế, 11 mục chưa có từ phù hợp. Đây là nội dung biên soạn bổ sung, không phải trích nguyên văn Cambridge. Từ gần nghĩa có nhãn và lưu ý ngữ pháp/phạm vi dùng. Loại từ hiển thị đầy đủ Anh–Việt trên thẻ, quiz, bộ lọc và danh sách. Hai loại từ thiếu trong PDF (carrier/invest) được bổ sung qua overlay có dẫn nguồn Cambridge; bản trích gốc vẫn giữ nguyên.

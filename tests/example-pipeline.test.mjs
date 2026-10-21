@@ -26,3 +26,26 @@ test('fill blanks use the real surface form for phrases with an inserted object'
  const w={...raw,word:'accustom someone to',example:'The course will accustom trainees to the new workflow.',example_answer:'accustom trainees to'};
  assert.equal(blankExample(w),'The course will _____ the new workflow.');
 });
+
+import { formatPartOfSpeech } from '../src/lib/study.ts';
+test('full part-of-speech names preserve multi-class words and missing information',()=>{
+ assert.equal(formatPartOfSpeech('n, v'),'Noun — Danh từ · Verb — Động từ');
+ assert.equal(formatPartOfSpeech('adj'),'Adjective — Tính từ');
+ assert.equal(formatPartOfSpeech(null),'Chưa rõ loại từ');
+});
+test('synonyms preserve identity and reject incomplete contextual annotations',()=>{
+ const synonym={term:'comply with',pos:'v',meaning_vi:'tuân thủ',relation:'near',note_vi:'Thường dùng với quy định.'};
+ assert.deepEqual(enrichWordData([raw],[entry],[],[{word:raw.word,synonyms:[synonym]}])[0].synonyms,[synonym]);
+ assert.throws(()=>enrichWordData([raw],[entry],[],[{word:raw.word,synonyms:[{...synonym,note_vi:null}]}]),/đồng nghĩa/);
+});
+
+test('synonym corpus covers exact source identities with honest near-meaning caveats',async()=>{
+ const {readFile}=await import('node:fs/promises');
+ const read=async p=>JSON.parse(await readFile(p,'utf8'));
+ const source=await read('data/words.json'), examples=await read('data/examples.json'), synonyms=await read('data/synonyms.json');
+ assert.deepEqual(synonyms.map(x=>x.word),source.map(x=>x.word));
+ const result=enrichWordData(source,examples,await read('data/word-corrections.json'),synonyms);
+ assert.equal(result.filter(x=>x.synonyms.length).length,585);
+ assert.equal(result.find(x=>x.word==='carrier').pos,'n');assert.equal(result.find(x=>x.word==='invest').pos,'v');
+ for(const w of result)for(const s of w.synonyms){assert.notEqual(s.term.toLowerCase(),w.study_term.toLowerCase());if(s.relation==='near')assert.ok(s.note_vi.trim());}
+});

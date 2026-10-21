@@ -15,7 +15,10 @@ const exports={};
 const exampleExports={};
 const exampleCompiled=ts.transpileModule(fs.readFileSync('src/app/WordExample.tsx','utf8'),{compilerOptions:{jsx:ts.JsxEmit.ReactJSX,module:ts.ModuleKind.CommonJS}}).outputText;
 new Function('require','exports',exampleCompiled)(require,exampleExports);
-new Function('require','exports',compiled)(id=>id.endsWith('.css')?{}:id==='../lib/study'?study:id==='./WordExample'?exampleExports:require(id),exports);
+const synonymExports={};
+const synonymCompiled=ts.transpileModule(fs.readFileSync('src/app/WordSynonyms.tsx','utf8'),{compilerOptions:{jsx:ts.JsxEmit.ReactJSX,module:ts.ModuleKind.CommonJS}}).outputText;
+new Function('require','exports',synonymCompiled)(id=>id==='../lib/study'?study:require(id),synonymExports);
+new Function('require','exports',compiled)(id=>id.endsWith('.css')?{}:id==='../lib/study'?study:id==='./WordExample'?exampleExports:id==='./WordSynonyms'?synonymExports:require(id),exports);
 const words=Array.from({length:4},(_,i)=>({id:i+1,word:`word${i+1}`,ipa:null,pos:'n',meaning_vi:`nghĩa ${i+1}`,example:null,topic:'Chủ đề',order_index:i+1}));
 function repository(size=4,studyWords=words) {const values=new Map();return createPreviewRepository(studyWords.slice(0,size),{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)});}
 const button=text=>Array.from(document.querySelectorAll('button')).find(b=>b.textContent.trim().includes(text));
@@ -92,4 +95,17 @@ test('bilingual examples show on flashcards and fill mode uses a grammatical sur
     assert.equal(document.querySelector('.example-vi').textContent,bilingual.example_vi);
     assert.match(document.querySelector('.example-credit').textContent,/tự biên soạn/);
   } finally {await view.close();}
+});
+
+test('full POS and contextual synonyms appear below explanation on flashcards and quiz feedback',async()=>{
+ const item={...words[0],pos:'v',example:'Please abide by these rules.',synonyms:[{term:'comply with',pos:'v',meaning_vi:'tuân thủ',relation:'near',note_vi:'Dùng với quy định.'}]};
+ const view=await mount(repository(1,[item]));
+ try {
+  await click(button('Bắt đầu học'));await click(document.querySelector('.flashcard'));
+  const card=document.querySelector('.flashcard');assert.match(card.textContent,/Verb — Động từ/);assert.match(card.querySelector('.word-synonyms').textContent,/comply with.*tuân thủ/);
+  assert.ok(card.querySelector('h2').compareDocumentPosition(card.querySelector('.word-synonyms'))&4);
+  assert.ok(card.querySelector('.word-synonyms').compareDocumentPosition(card.querySelector('.example-pair'))&4);
+  await click(button('Kết thúc'));await click(button('Chọn nghĩa'));await click(button('Bắt đầu học'));await click(document.querySelector('.quiz-options button'));
+  assert.match(document.querySelector('.answer-feedback').textContent,/comply with/);
+ } finally {await view.close();}
 });

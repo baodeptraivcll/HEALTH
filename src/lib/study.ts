@@ -94,3 +94,8 @@ export function dashboardStats(words: Word[], progress: Progress[], sessions: St
     mistakes:progress.filter(p=>p.in_mistakes).length,accuracy:correct+wrong?Math.round(correct/(correct+wrong)*100):0,
     streak,totalStudied:completed.reduce((n,s)=>n+s.words_studied,0),chart,topMistakes };
 }
+
+export function formatPartOfSpeech(pos: string | null | undefined): string {
+ const names: Record<string,string> = {n:'Noun — Danh từ',v:'Verb — Động từ',adj:'Adjective — Tính từ',a:'Adjective — Tính từ',adv:'Adverb — Trạng từ',prep:'Preposition — Giới từ',conj:'Conjunction — Liên từ',pron:'Pronoun — Đại từ'};
+ return pos ? [...new Set(pos.split(/[,/]/).map(p=>p.trim()).filter(Boolean))].map(p=>names[p]||p).join(' · ') : 'Chưa rõ loại từ';
+}
