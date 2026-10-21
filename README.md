@@ -2,6 +2,8 @@
 
 Ứng dụng học từ vựng TOEIC bằng tiếng Việt, tối ưu điện thoại. Next.js 16.4, React 19, TypeScript và Supabase Auth/Postgres; triển khai bằng Vercel.
 
+[Mở ứng dụng](https://health-beta-sage.vercel.app) · [Xem và học thử không cần đăng nhập](https://health-beta-sage.vercel.app/preview)
+
 ## Dữ liệu nguồn và giới hạn
 
 PDF cung cấp có 600 dòng, 50 chủ đề nhưng chỉ **596 mục từ duy nhất**. Từ lặp đã gộp mà giữ mọi nghĩa/chủ đề. Không tự tạo thêm từ, nghĩa, IPA hoặc ví dụ.
