@@ -1,2 +1,2 @@
-import LifeApp from './LifeApp';
-export default function Page() { return <LifeApp />; }
+import AuthApp from './AuthApp';
+export default function Page() { return <AuthApp />; }

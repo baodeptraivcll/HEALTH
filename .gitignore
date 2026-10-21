@@ -5,6 +5,9 @@ out/
 .env*
 !.env.example
 *.tsbuildinfo
-preview/*.png
+tmp/
+__pycache__/
+*.pyc
+/*.pdf
 *.log
 src/app/qa/

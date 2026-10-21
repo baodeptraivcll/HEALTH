@@ -1,0 +1,5349 @@
+{
+  "source_file": "data/toeic600.pdf",
+  "source_sha256": "fe978519e4679b5bbfaa365f60d09e4bbb33ecb42ba2af32bf038e7dd668d4aa",
+  "page_count": 31,
+  "source_entries": 600,
+  "unique_words": 596,
+  "required_unique_words": 600,
+  "shortfall": 4,
+  "ready_for_seed": false,
+  "topic_count": 50,
+  "topics": [
+    {
+      "index": 1,
+      "title": "CONTRACTS (HỢP ĐỒNG)",
+      "page": 1
+    },
+    {
+      "index": 2,
+      "title": "MARKETING (TIẾP THỊ)",
+      "page": 2
+    },
+    {
+      "index": 3,
+      "title": "WARRANTIES (BẢO HÀNH)",
+      "page": 2
+    },
+    {
+      "index": 4,
+      "title": "BUSINESS PLANNING (KẾ HOẠCH KINH DOANH)",
+      "page": 3
+    },
+    {
+      "index": 5,
+      "title": "CONFERENCES (HỘI NGHỊ)",
+      "page": 3
+    },
+    {
+      "index": 6,
+      "title": "COMPUTERS (MÁY TÍNH)",
+      "page": 4
+    },
+    {
+      "index": 7,
+      "title": "OFFICE TECHNOLOGY (CÔNG NGHỆ VĂN PHÒNG)",
+      "page": 5
+    },
+    {
+      "index": 8,
+      "title": "OFFICE PROCEDURES (THỦ TỤC VĂN PHÒNG)",
+      "page": 5
+    },
+    {
+      "index": 9,
+      "title": "ELECTRONICS (ĐIỆN TỬ)",
+      "page": 6
+    },
+    {
+      "index": 10,
+      "title": "CORRESPONDENCES (THƯ TÍN)",
+      "page": 7
+    },
+    {
+      "index": 11,
+      "title": "JOB ADVERTISING AND RECRUITING (QUẢNG CÁO VIỆC LÀM VÀ TUYỂN DỤNG)",
+      "page": 7
+    },
+    {
+      "index": 12,
+      "title": "APPLYING AND INTERVIEWING (ỨNG TUYỂN VÀ PHỎNG VẤN)",
+      "page": 8
+    },
+    {
+      "index": 13,
+      "title": "HIRING AND TRAINING (TUYỂN DỤNG VÀ ĐÀO TẠO)",
+      "page": 9
+    },
+    {
+      "index": 14,
+      "title": "SALARIES AND BENEFITS (LƯƠNG VÀ PHÚC LỢI)",
+      "page": 9
+    },
+    {
+      "index": 15,
+      "title": "PROMOTIONS, PENSIONS AND AWARDS (THĂNG TIẾN, LƯƠNG HƯU VÀ GIẢI THƯỞNG)",
+      "page": 10
+    },
+    {
+      "index": 16,
+      "title": "SHOPPING (MUA SẮM)",
+      "page": 11
+    },
+    {
+      "index": 17,
+      "title": "ORDERING SUPPLIES (ĐẶT HÀNG NHÀ CUNG CẤP)",
+      "page": 11
+    },
+    {
+      "index": 18,
+      "title": "SHIPPING (VẬN CHUYỂN)",
+      "page": 12
+    },
+    {
+      "index": 19,
+      "title": "INVOICES (HÓA ĐƠN)",
+      "page": 13
+    },
+    {
+      "index": 20,
+      "title": "INVENTORY (HÀNG HÓA)",
+      "page": 13
+    },
+    {
+      "index": 21,
+      "title": "BANKING (GIAO DỊCH NGÂN HÀNG)",
+      "page": 14
+    },
+    {
+      "index": 22,
+      "title": "ACCOUNTING (KẾ TOÁN)",
+      "page": 14
+    },
+    {
+      "index": 23,
+      "title": "INVESTMENTS (ĐẦU TƯ)",
+      "page": 15
+    },
+    {
+      "index": 24,
+      "title": "TAXES (THUẾ)",
+      "page": 15
+    },
+    {
+      "index": 25,
+      "title": "FINANCIAL STATEMENTS (BÁO CÁO TÀI CHÍNH)",
+      "page": 16
+    },
+    {
+      "index": 26,
+      "title": "PROPERTY AND DEPARTMENTS (TÀI SẢN VÀ PHÒNG BAN)",
+      "page": 17
+    },
+    {
+      "index": 27,
+      "title": "BOARD MEETINGS AND COMMITTEES (HỌP HỘI ĐỒNG VÀ ỦY BAN)",
+      "page": 17
+    },
+    {
+      "index": 28,
+      "title": "QUALITY CONTROL (QUẢN TRỊ CHẤT LƯỢNG)",
+      "page": 18
+    },
+    {
+      "index": 29,
+      "title": "PRODUCT DEVELOPMENT (PHÁT TRIỂN SẢN PHẨM)",
+      "page": 18
+    },
+    {
+      "index": 30,
+      "title": "RENTING AND LEASING (THUÊ VÀ CHO THUÊ)",
+      "page": 19
+    },
+    {
+      "index": 31,
+      "title": "SELECTING A RESTAURANT (CHỌN NHÀ HÀNG)",
+      "page": 20
+    },
+    {
+      "index": 32,
+      "title": "EATING OUT (ĐI ĂN NGOÀI)",
+      "page": 20
+    },
+    {
+      "index": 33,
+      "title": "ORDERING LUNCH (ĐẶT BỮA TRƯA)",
+      "page": 21
+    },
+    {
+      "index": 34,
+      "title": "COOKING AS A CAREER (NẤU ĂN LÀ SỰ NGHIỆP)",
+      "page": 21
+    },
+    {
+      "index": 35,
+      "title": "EVENTS (SỰ KIỆN)",
+      "page": 22
+    },
+    {
+      "index": 36,
+      "title": "GENERAL TRAVEL (DU LỊCH)",
+      "page": 22
+    },
+    {
+      "index": 37,
+      "title": "AIRLINES (HÀNG KHÔNG)",
+      "page": 23
+    },
+    {
+      "index": 38,
+      "title": "TRAINS (XE LỬA)",
+      "page": 24
+    },
+    {
+      "index": 39,
+      "title": "HOTELS (KHÁCH SẠN)",
+      "page": 24
+    },
+    {
+      "index": 40,
+      "title": "CAR RENTALS (THUÊ Ô TÔ)",
+      "page": 25
+    },
+    {
+      "index": 41,
+      "title": "MOVIES (PHIM ẢNH)",
+      "page": 25
+    },
+    {
+      "index": 42,
+      "title": "THEATER (RẠP PHIM)",
+      "page": 26
+    },
+    {
+      "index": 43,
+      "title": "MUSIC (ÂM NHẠC)",
+      "page": 26
+    },
+    {
+      "index": 44,
+      "title": "MUSEUMS (BẢO TÀNG)",
+      "page": 27
+    },
+    {
+      "index": 45,
+      "title": "MEDIA (TRUYỀN THÔNG)",
+      "page": 28
+    },
+    {
+      "index": 46,
+      "title": "DOCTOR’S OFFICE (PHÒNG KHÁM BÁC SĨ)",
+      "page": 28
+    },
+    {
+      "index": 47,
+      "title": "DENTIST’S OFFICE (PHÒNG KHÁM NHA KHOA)",
+      "page": 29
+    },
+    {
+      "index": 48,
+      "title": "HEALTH INSURANCE (BẢO HIỂM SỨC KHỎE)",
+      "page": 29
+    },
+    {
+      "index": 49,
+      "title": "HOSPITALS (BỆNH VIỆN)",
+      "page": 30
+    },
+    {
+      "index": 50,
+      "title": "PHARMACY (HIỆU THUỐC)",
+      "page": 30
+    }
+  ],
+  "missing_counts_source": {
+    "word": 0,
+    "ipa": 1,
+    "pos": 2,
+    "meaning_vi": 0,
+    "example": 600,
+    "topic": 0
+  },
+  "missing_counts_unique": {
+    "word": 0,
+    "ipa": 1,
+    "pos": 2,
+    "meaning_vi": 0,
+    "example": 596,
+    "topic": 0
+  },
+  "duplicates": [
+    {
+      "word": "productive",
+      "occurrences": [
+        {
+          "order_index": 21,
+          "source_number": 21,
+          "page": 2,
+          "topic": "MARKETING (TIẾP THỊ)",
+          "pos": "adj",
+          "ipa": "/prəˈdʌk.tɪv/",
+          "meaning_vi": "năng suất"
+        },
+        {
+          "order_index": 176,
+          "source_number": 176,
+          "page": 10,
+          "topic": "PROMOTIONS, PENSIONS AND AWARDS (THĂNG TIẾN, LƯƠNG HƯU VÀ GIẢI THƯỞNG)",
+          "pos": "adj",
+          "ipa": "/prəˈdʌk.tɪv/",
+          "meaning_vi": "có hiệu quả, có năng suất"
+        }
+      ]
+    },
+    {
+      "word": "express",
+      "occurrences": [
+        {
+          "order_index": 112,
+          "source_number": 112,
+          "page": 7,
+          "topic": "CORRESPONDENCES (THƯ TÍN)",
+          "pos": "adj",
+          "ipa": "/ɪkˈspres/",
+          "meaning_vi": "nhanh, hỏa tốc"
+        },
+        {
+          "order_index": 522,
+          "source_number": 522,
+          "page": 27,
+          "topic": "MUSEUMS (BẢO TÀNG)",
+          "pos": "v",
+          "ipa": "/ɪkˈspres/",
+          "meaning_vi": "biểu lộ, bày tỏ"
+        }
+      ]
+    },
+    {
+      "word": "constantly",
+      "occurrences": [
+        {
+          "order_index": 137,
+          "source_number": 137,
+          "page": 8,
+          "topic": "APPLYING AND INTERVIEWING (ỨNG TUYỂN VÀ PHỎNG VẤN)",
+          "pos": "adv",
+          "ipa": "/ˈkɑːn.stənt.li/",
+          "meaning_vi": "liên tục, không ngừng"
+        },
+        {
+          "order_index": 531,
+          "source_number": 531,
+          "page": 28,
+          "topic": "MEDIA (TRUYỀN THÔNG)",
+          "pos": "adv",
+          "ipa": "/ˈkɒn.stənt.li/",
+          "meaning_vi": "liên tục"
+        }
+      ]
+    },
+    {
+      "word": "procedure",
+      "occurrences": [
+        {
+          "order_index": 405,
+          "source_number": 405,
+          "page": 22,
+          "topic": "COOKING AS A CAREER (NẤU ĂN LÀ SỰ NGHIỆP)",
+          "pos": "n",
+          "ipa": "/prəˈsidʒər/",
+          "meaning_vi": "quy trình"
+        },
+        {
+          "order_index": 586,
+          "source_number": 586,
+          "page": 30,
+          "topic": "HOSPITALS (BỆNH VIỆN)",
+          "pos": "n",
+          "ipa": "/prəˈsiːdʒər/",
+          "meaning_vi": "quy trình"
+        }
+      ]
+    }
+  ],
+  "anomalies": [
+    {
+      "kind": "ipa_format",
+      "word": "duplicate",
+      "page": 4,
+      "raw": "ˈduː.plə.keɪt/"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "commensurate with",
+      "page": 8,
+      "raw": "/kəˈmenʃərət /wɪð/"
+    },
+    {
+      "kind": "pos_normalization",
+      "word": "hesitant",
+      "page": 8,
+      "from": "a",
+      "to": "adj"
+    },
+    {
+      "kind": "pos_normalization",
+      "word": "on track",
+      "page": 9,
+      "from": "a",
+      "to": "adj"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "expand",
+      "page": 11,
+      "raw": "/ɪkˈspænd"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "crucial",
+      "page": 13,
+      "raw": "/ˈkruːʃl"
+    },
+    {
+      "kind": "source_number",
+      "word": "restricted",
+      "page": 14,
+      "printed": 28,
+      "position": 248
+    },
+    {
+      "kind": "ipa_format",
+      "word": "familiar with",
+      "page": 20,
+      "raw": "/fəˈmɪliər wɪθ/ /"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "suggestion",
+      "page": 20,
+      "raw": "səɡˈdʒɛstʃən/"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "patron",
+      "page": 20,
+      "raw": "/ˈpeɪtrən"
+    },
+    {
+      "kind": "pos_normalization",
+      "word": "valid",
+      "page": 23,
+      "from": "a",
+      "to": "adj"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "prospective",
+      "page": 23,
+      "raw": "/prəˈspektɪv"
+    },
+    {
+      "kind": "ipa_format",
+      "word": "encouragement",
+      "page": 29,
+      "raw": "/ /ɪnˈkʌr.ɪdʒ.mənt/"
+    }
+  ],
+  "missing_fields": [
+    {
+      "word": "abide by",
+      "page": 1,
+      "source_order_index": 1,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "agreement",
+      "page": 1,
+      "source_order_index": 2,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assurance",
+      "page": 1,
+      "source_order_index": 3,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "cancellation",
+      "page": 1,
+      "source_order_index": 4,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "determine",
+      "page": 1,
+      "source_order_index": 5,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "engage",
+      "page": 1,
+      "source_order_index": 6,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "establish",
+      "page": 1,
+      "source_order_index": 7,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "obligate",
+      "page": 1,
+      "source_order_index": 8,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "party",
+      "page": 1,
+      "source_order_index": 9,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "provision",
+      "page": 1,
+      "source_order_index": 10,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "resolve",
+      "page": 1,
+      "source_order_index": 11,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "specific",
+      "page": 1,
+      "source_order_index": 12,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "attract",
+      "page": 2,
+      "source_order_index": 13,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "compare",
+      "page": 2,
+      "source_order_index": 14,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "competition",
+      "page": 2,
+      "source_order_index": 15,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "consume",
+      "page": 2,
+      "source_order_index": 16,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "convince",
+      "page": 2,
+      "source_order_index": 17,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "inspiration",
+      "page": 2,
+      "source_order_index": 18,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "market",
+      "page": 2,
+      "source_order_index": 19,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "persuasion",
+      "page": 2,
+      "source_order_index": 20,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "productive",
+      "page": 2,
+      "source_order_index": 21,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "satisfaction",
+      "page": 2,
+      "source_order_index": 22,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "currently",
+      "page": 2,
+      "source_order_index": 23,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fad",
+      "page": 2,
+      "source_order_index": 24,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "characteristic",
+      "page": 2,
+      "source_order_index": 25,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "consequence",
+      "page": 2,
+      "source_order_index": 26,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "cover",
+      "page": 2,
+      "source_order_index": 27,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expiration",
+      "page": 2,
+      "source_order_index": 28,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "frequently",
+      "page": 2,
+      "source_order_index": 29,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "imply",
+      "page": 2,
+      "source_order_index": 30,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "promise",
+      "page": 2,
+      "source_order_index": 31,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reputation",
+      "page": 2,
+      "source_order_index": 32,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "require",
+      "page": 2,
+      "source_order_index": 33,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "variety",
+      "page": 3,
+      "source_order_index": 34,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "address",
+      "page": 3,
+      "source_order_index": 35,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "avoid",
+      "page": 3,
+      "source_order_index": 36,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "page": 3,
+      "source_order_index": 37,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "develop",
+      "page": 3,
+      "source_order_index": 38,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "evaluate",
+      "page": 3,
+      "source_order_index": 39,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "gather",
+      "page": 3,
+      "source_order_index": 40,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "offer",
+      "page": 3,
+      "source_order_index": 41,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "primarily",
+      "page": 3,
+      "source_order_index": 42,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "risk",
+      "page": 3,
+      "source_order_index": 43,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "strategy",
+      "page": 3,
+      "source_order_index": 44,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "strengthen",
+      "page": 3,
+      "source_order_index": 45,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "substitution",
+      "page": 3,
+      "source_order_index": 46,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accommodate",
+      "page": 3,
+      "source_order_index": 47,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "arrangement",
+      "page": 3,
+      "source_order_index": 48,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "association",
+      "page": 3,
+      "source_order_index": 49,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "attend",
+      "page": 3,
+      "source_order_index": 50,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "get in touch + with somebody",
+      "page": 3,
+      "source_order_index": 51,
+      "fields": [
+        "ipa",
+        "example"
+      ]
+    },
+    {
+      "word": "hold",
+      "page": 4,
+      "source_order_index": 52,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "location",
+      "page": 4,
+      "source_order_index": 53,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "overcrowded",
+      "page": 4,
+      "source_order_index": 54,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "register",
+      "page": 4,
+      "source_order_index": 55,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "select",
+      "page": 4,
+      "source_order_index": 56,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "session",
+      "page": 4,
+      "source_order_index": 57,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "take part in",
+      "page": 4,
+      "source_order_index": 58,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "access",
+      "page": 4,
+      "source_order_index": 59,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "allocate",
+      "page": 4,
+      "source_order_index": 60,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "compatible + with something",
+      "page": 4,
+      "source_order_index": 61,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "delete",
+      "page": 4,
+      "source_order_index": 62,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "display",
+      "page": 4,
+      "source_order_index": 63,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "duplicate",
+      "page": 4,
+      "source_order_index": 64,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "failure",
+      "page": 4,
+      "source_order_index": 65,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "figure out",
+      "page": 4,
+      "source_order_index": 66,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ignore",
+      "page": 4,
+      "source_order_index": 67,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "search",
+      "page": 4,
+      "source_order_index": 68,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "shut down",
+      "page": 4,
+      "source_order_index": 69,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "warning",
+      "page": 5,
+      "source_order_index": 70,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "affordable",
+      "page": 5,
+      "source_order_index": 71,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "as needed",
+      "page": 5,
+      "source_order_index": 72,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "capacity",
+      "page": 5,
+      "source_order_index": 73,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "durable",
+      "page": 5,
+      "source_order_index": 74,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "be in charge of",
+      "page": 5,
+      "source_order_index": 75,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "initiative",
+      "page": 5,
+      "source_order_index": 76,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "physically",
+      "page": 5,
+      "source_order_index": 77,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "provider",
+      "page": 5,
+      "source_order_index": 78,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "recur",
+      "page": 5,
+      "source_order_index": 79,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reduction",
+      "page": 5,
+      "source_order_index": 80,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "stay on top of",
+      "page": 5,
+      "source_order_index": 81,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "stock",
+      "page": 5,
+      "source_order_index": 82,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "appreciation",
+      "page": 5,
+      "source_order_index": 83,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "bring in",
+      "page": 5,
+      "source_order_index": 84,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "casually",
+      "page": 5,
+      "source_order_index": 85,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "code",
+      "page": 5,
+      "source_order_index": 86,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expose",
+      "page": 5,
+      "source_order_index": 87,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "glimpse",
+      "page": 6,
+      "source_order_index": 88,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "be made of",
+      "page": 6,
+      "source_order_index": 89,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "out of",
+      "page": 6,
+      "source_order_index": 90,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "outdated",
+      "page": 6,
+      "source_order_index": 91,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "practice",
+      "page": 6,
+      "source_order_index": 92,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reinforce",
+      "page": 6,
+      "source_order_index": 93,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "verbally",
+      "page": 6,
+      "source_order_index": 94,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "device",
+      "page": 6,
+      "source_order_index": 95,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "facilitate",
+      "page": 6,
+      "source_order_index": 96,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "network",
+      "page": 6,
+      "source_order_index": 97,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "popularity",
+      "page": 6,
+      "source_order_index": 98,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "process",
+      "page": 6,
+      "source_order_index": 99,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "replace",
+      "page": 6,
+      "source_order_index": 100,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "revolution",
+      "page": 6,
+      "source_order_index": 101,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "sharp",
+      "page": 6,
+      "source_order_index": 102,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "skill",
+      "page": 6,
+      "source_order_index": 103,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "software",
+      "page": 6,
+      "source_order_index": 104,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "store",
+      "page": 6,
+      "source_order_index": 105,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "technical",
+      "page": 7,
+      "source_order_index": 106,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assemble",
+      "page": 7,
+      "source_order_index": 107,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "beforehand",
+      "page": 7,
+      "source_order_index": 108,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "complication",
+      "page": 7,
+      "source_order_index": 109,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "courier",
+      "page": 7,
+      "source_order_index": 110,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "distribute",
+      "page": 7,
+      "source_order_index": 111,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "express",
+      "page": 7,
+      "source_order_index": 112,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fold",
+      "page": 7,
+      "source_order_index": 113,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "layout",
+      "page": 7,
+      "source_order_index": 114,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mention",
+      "page": 7,
+      "source_order_index": 115,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "petition",
+      "page": 7,
+      "source_order_index": 116,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "proof",
+      "page": 7,
+      "source_order_index": 117,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "revise",
+      "page": 7,
+      "source_order_index": 118,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "abundant",
+      "page": 7,
+      "source_order_index": 119,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accomplishment",
+      "page": 7,
+      "source_order_index": 120,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "bring together",
+      "page": 8,
+      "source_order_index": 121,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "candidate",
+      "page": 8,
+      "source_order_index": 122,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "come up with",
+      "page": 8,
+      "source_order_index": 123,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "commensurate with",
+      "page": 8,
+      "source_order_index": 124,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "match",
+      "page": 8,
+      "source_order_index": 125,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "profile",
+      "page": 8,
+      "source_order_index": 126,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "qualification",
+      "page": 8,
+      "source_order_index": 127,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "recruit",
+      "page": 8,
+      "source_order_index": 128,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "submit",
+      "page": 8,
+      "source_order_index": 129,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "time-consuming",
+      "page": 8,
+      "source_order_index": 130,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ability",
+      "page": 8,
+      "source_order_index": 131,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "apply for",
+      "page": 8,
+      "source_order_index": 132,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "background",
+      "page": 8,
+      "source_order_index": 133,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "be ready for",
+      "page": 8,
+      "source_order_index": 134,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "call in",
+      "page": 8,
+      "source_order_index": 135,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "confidence",
+      "page": 8,
+      "source_order_index": 136,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "constantly",
+      "page": 8,
+      "source_order_index": 137,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expert",
+      "page": 8,
+      "source_order_index": 138,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "follow up",
+      "page": 8,
+      "source_order_index": 139,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "hesitant",
+      "page": 8,
+      "source_order_index": 140,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "interview",
+      "page": 8,
+      "source_order_index": 141,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "present",
+      "page": 8,
+      "source_order_index": 142,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "weaken",
+      "page": 9,
+      "source_order_index": 143,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "conduct",
+      "page": 9,
+      "source_order_index": 144,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "generate",
+      "page": 9,
+      "source_order_index": 145,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "hire",
+      "page": 9,
+      "source_order_index": 146,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "keep up with",
+      "page": 9,
+      "source_order_index": 147,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "look up to somebody",
+      "page": 9,
+      "source_order_index": 148,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mentor",
+      "page": 9,
+      "source_order_index": 149,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "on track",
+      "page": 9,
+      "source_order_index": 150,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reject",
+      "page": 9,
+      "source_order_index": 151,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "set up",
+      "page": 9,
+      "source_order_index": 152,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "success",
+      "page": 9,
+      "source_order_index": 153,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "training",
+      "page": 9,
+      "source_order_index": 154,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "update",
+      "page": 9,
+      "source_order_index": 155,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "be aware of",
+      "page": 9,
+      "source_order_index": 156,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "basis",
+      "page": 9,
+      "source_order_index": 157,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "benefit",
+      "page": 9,
+      "source_order_index": 158,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "compensate",
+      "page": 10,
+      "source_order_index": 159,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "delicate",
+      "page": 10,
+      "source_order_index": 160,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "eligible",
+      "page": 10,
+      "source_order_index": 161,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "flexibly",
+      "page": 10,
+      "source_order_index": 162,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "negotiate",
+      "page": 10,
+      "source_order_index": 163,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "retire",
+      "page": 10,
+      "source_order_index": 164,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "vested",
+      "page": 10,
+      "source_order_index": 165,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "wage",
+      "page": 10,
+      "source_order_index": 166,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "raise",
+      "page": 10,
+      "source_order_index": 167,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "achievement",
+      "page": 10,
+      "source_order_index": 168,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "contribute",
+      "page": 10,
+      "source_order_index": 169,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "dedication",
+      "page": 10,
+      "source_order_index": 170,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "looking forward to V-ing",
+      "page": 10,
+      "source_order_index": 171,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "look to",
+      "page": 10,
+      "source_order_index": 172,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "loyal",
+      "page": 10,
+      "source_order_index": 173,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "merit",
+      "page": 10,
+      "source_order_index": 174,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "obviously",
+      "page": 10,
+      "source_order_index": 175,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "productive",
+      "page": 10,
+      "source_order_index": 176,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "promote",
+      "page": 10,
+      "source_order_index": 177,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "recognition",
+      "page": 10,
+      "source_order_index": 178,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "value",
+      "page": 11,
+      "source_order_index": 179,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "bargain",
+      "page": 11,
+      "source_order_index": 180,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "bear",
+      "page": 11,
+      "source_order_index": 181,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "behavior",
+      "page": 11,
+      "source_order_index": 182,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "checkout",
+      "page": 11,
+      "source_order_index": 183,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "comfort",
+      "page": 11,
+      "source_order_index": 184,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expand",
+      "page": 11,
+      "source_order_index": 185,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "explore",
+      "page": 11,
+      "source_order_index": 186,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "item",
+      "page": 11,
+      "source_order_index": 187,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mandatory",
+      "page": 11,
+      "source_order_index": 188,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "merchandise",
+      "page": 11,
+      "source_order_index": 189,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "strictly",
+      "page": 11,
+      "source_order_index": 190,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "trend",
+      "page": 11,
+      "source_order_index": 191,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "diversify",
+      "page": 11,
+      "source_order_index": 192,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "consistent",
+      "page": 11,
+      "source_order_index": 193,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "enterprise",
+      "page": 11,
+      "source_order_index": 194,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "essentially",
+      "page": 12,
+      "source_order_index": 195,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "function",
+      "page": 12,
+      "source_order_index": 196,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "maintain",
+      "page": 12,
+      "source_order_index": 197,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "obtain",
+      "page": 12,
+      "source_order_index": 198,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prerequisite",
+      "page": 12,
+      "source_order_index": 199,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "quality",
+      "page": 12,
+      "source_order_index": 200,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "source",
+      "page": 12,
+      "source_order_index": 201,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "stationery",
+      "page": 12,
+      "source_order_index": 202,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "smooth",
+      "page": 12,
+      "source_order_index": 203,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "carrier",
+      "page": 12,
+      "source_order_index": 204,
+      "fields": [
+        "pos",
+        "example"
+      ]
+    },
+    {
+      "word": "inventory",
+      "page": 12,
+      "source_order_index": 205,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accurately",
+      "page": 12,
+      "source_order_index": 206,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "catalog",
+      "page": 12,
+      "source_order_index": 207,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fulfill",
+      "page": 12,
+      "source_order_index": 208,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "integral",
+      "page": 12,
+      "source_order_index": 209,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "minimize",
+      "page": 12,
+      "source_order_index": 210,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "on hand",
+      "page": 12,
+      "source_order_index": 211,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ship",
+      "page": 12,
+      "source_order_index": 212,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "sufficiently",
+      "page": 12,
+      "source_order_index": 213,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "supply",
+      "page": 12,
+      "source_order_index": 214,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "receive",
+      "page": 12,
+      "source_order_index": 215,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "charge",
+      "page": 13,
+      "source_order_index": 216,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "compile",
+      "page": 13,
+      "source_order_index": 217,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "customer",
+      "page": 13,
+      "source_order_index": 218,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "discount",
+      "page": 13,
+      "source_order_index": 219,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "dispute",
+      "page": 13,
+      "source_order_index": 220,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "efficient",
+      "page": 13,
+      "source_order_index": 221,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "estimate",
+      "page": 13,
+      "source_order_index": 222,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "impose",
+      "page": 13,
+      "source_order_index": 223,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mistake",
+      "page": 13,
+      "source_order_index": 224,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prompt",
+      "page": 13,
+      "source_order_index": 225,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "rectify",
+      "page": 13,
+      "source_order_index": 226,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "terms",
+      "page": 13,
+      "source_order_index": 227,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "adjustment",
+      "page": 13,
+      "source_order_index": 228,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "automatic",
+      "page": 13,
+      "source_order_index": 229,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "crucial",
+      "page": 13,
+      "source_order_index": 230,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "discrepancy",
+      "page": 13,
+      "source_order_index": 231,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disturb",
+      "page": 13,
+      "source_order_index": 232,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reflection",
+      "page": 13,
+      "source_order_index": 233,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "run",
+      "page": 13,
+      "source_order_index": 234,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "scan",
+      "page": 13,
+      "source_order_index": 235,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "subtract",
+      "page": 13,
+      "source_order_index": 236,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "tedious",
+      "page": 14,
+      "source_order_index": 237,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "verify",
+      "page": 14,
+      "source_order_index": 238,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "install",
+      "page": 14,
+      "source_order_index": 239,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accept",
+      "page": 14,
+      "source_order_index": 240,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "balance",
+      "page": 14,
+      "source_order_index": 241,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "borrow",
+      "page": 14,
+      "source_order_index": 242,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "cautiously",
+      "page": 14,
+      "source_order_index": 243,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "deduct",
+      "page": 14,
+      "source_order_index": 244,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "dividend",
+      "page": 14,
+      "source_order_index": 245,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "down payment",
+      "page": 14,
+      "source_order_index": 246,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mortgage",
+      "page": 14,
+      "source_order_index": 247,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "restricted",
+      "page": 14,
+      "source_order_index": 248,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "signature",
+      "page": 14,
+      "source_order_index": 249,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "take out",
+      "page": 14,
+      "source_order_index": 250,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "transaction",
+      "page": 14,
+      "source_order_index": 251,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accounting",
+      "page": 14,
+      "source_order_index": 252,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accumulate",
+      "page": 14,
+      "source_order_index": 253,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "asset",
+      "page": 14,
+      "source_order_index": 254,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "audit",
+      "page": 14,
+      "source_order_index": 255,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "budget",
+      "page": 15,
+      "source_order_index": 256,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "build up",
+      "page": 15,
+      "source_order_index": 257,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "client",
+      "page": 15,
+      "source_order_index": 258,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "debt",
+      "page": 15,
+      "source_order_index": 259,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "outstanding",
+      "page": 15,
+      "source_order_index": 260,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "profitable",
+      "page": 15,
+      "source_order_index": 261,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reconcile",
+      "page": 15,
+      "source_order_index": 262,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "turnover",
+      "page": 15,
+      "source_order_index": 263,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "aggressive",
+      "page": 15,
+      "source_order_index": 264,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "attitude",
+      "page": 15,
+      "source_order_index": 265,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "commit",
+      "page": 15,
+      "source_order_index": 266,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "conservative",
+      "page": 15,
+      "source_order_index": 267,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fund",
+      "page": 15,
+      "source_order_index": 268,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "invest",
+      "page": 15,
+      "source_order_index": 269,
+      "fields": [
+        "pos",
+        "example"
+      ]
+    },
+    {
+      "word": "long-term",
+      "page": 15,
+      "source_order_index": 270,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "portfolio",
+      "page": 15,
+      "source_order_index": 271,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "pull out",
+      "page": 15,
+      "source_order_index": 272,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "resource",
+      "page": 15,
+      "source_order_index": 273,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "return",
+      "page": 15,
+      "source_order_index": 274,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "wisely",
+      "page": 15,
+      "source_order_index": 275,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "calculation",
+      "page": 16,
+      "source_order_index": 276,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "deadline",
+      "page": 16,
+      "source_order_index": 277,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "file",
+      "page": 16,
+      "source_order_index": 278,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fill out",
+      "page": 16,
+      "source_order_index": 279,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "give up",
+      "page": 16,
+      "source_order_index": 280,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "joint",
+      "page": 16,
+      "source_order_index": 281,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "owe",
+      "page": 16,
+      "source_order_index": 282,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "penalty",
+      "page": 16,
+      "source_order_index": 283,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "preparation",
+      "page": 16,
+      "source_order_index": 284,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "refund",
+      "page": 16,
+      "source_order_index": 285,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "spouse",
+      "page": 16,
+      "source_order_index": 286,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "withhold",
+      "page": 16,
+      "source_order_index": 287,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "desire",
+      "page": 16,
+      "source_order_index": 288,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "detail",
+      "page": 16,
+      "source_order_index": 289,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "forecast",
+      "page": 16,
+      "source_order_index": 290,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "level",
+      "page": 16,
+      "source_order_index": 291,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "overall",
+      "page": 16,
+      "source_order_index": 292,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "perspective",
+      "page": 16,
+      "source_order_index": 293,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "project",
+      "page": 16,
+      "source_order_index": 294,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "realistic",
+      "page": 16,
+      "source_order_index": 295,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "target",
+      "page": 16,
+      "source_order_index": 296,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "translation",
+      "page": 16,
+      "source_order_index": 297,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "typically",
+      "page": 16,
+      "source_order_index": 298,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "yield",
+      "page": 17,
+      "source_order_index": 299,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "adjacent",
+      "page": 17,
+      "source_order_index": 300,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "collaboration",
+      "page": 17,
+      "source_order_index": 301,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "concentrate on",
+      "page": 17,
+      "source_order_index": 302,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "conductive",
+      "page": 17,
+      "source_order_index": 303,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disruption",
+      "page": 17,
+      "source_order_index": 304,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "hamper",
+      "page": 17,
+      "source_order_index": 305,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "inconsiderate",
+      "page": 17,
+      "source_order_index": 306,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "lobby",
+      "page": 17,
+      "source_order_index": 307,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "move up",
+      "page": 17,
+      "source_order_index": 308,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "open to",
+      "page": 17,
+      "source_order_index": 309,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "scrutiny",
+      "page": 17,
+      "source_order_index": 310,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "opt",
+      "page": 17,
+      "source_order_index": 311,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "adhear to",
+      "page": 17,
+      "source_order_index": 312,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "agenda",
+      "page": 17,
+      "source_order_index": 313,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "bring up",
+      "page": 17,
+      "source_order_index": 314,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "conclude",
+      "page": 17,
+      "source_order_index": 315,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "go ahead",
+      "page": 17,
+      "source_order_index": 316,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "goal",
+      "page": 17,
+      "source_order_index": 317,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "lengthy",
+      "page": 17,
+      "source_order_index": 318,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "matter",
+      "page": 18,
+      "source_order_index": 319,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "periodically",
+      "page": 18,
+      "source_order_index": 320,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "priority",
+      "page": 18,
+      "source_order_index": 321,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "progress",
+      "page": 18,
+      "source_order_index": 322,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "waste",
+      "page": 18,
+      "source_order_index": 323,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "brand",
+      "page": 18,
+      "source_order_index": 324,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "conform to",
+      "page": 18,
+      "source_order_index": 325,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "defect",
+      "page": 18,
+      "source_order_index": 326,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "enhance",
+      "page": 18,
+      "source_order_index": 327,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "garment",
+      "page": 18,
+      "source_order_index": 328,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "inspect",
+      "page": 18,
+      "source_order_index": 329,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "perceptive",
+      "page": 18,
+      "source_order_index": 330,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "repel",
+      "page": 18,
+      "source_order_index": 331,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "take back",
+      "page": 18,
+      "source_order_index": 332,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "throw out",
+      "page": 18,
+      "source_order_index": 333,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "uniformly",
+      "page": 18,
+      "source_order_index": 334,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "wrinkle",
+      "page": 18,
+      "source_order_index": 335,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "anxious",
+      "page": 18,
+      "source_order_index": 336,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ascertain",
+      "page": 18,
+      "source_order_index": 337,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assume",
+      "page": 19,
+      "source_order_index": 338,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "decade",
+      "page": 19,
+      "source_order_index": 339,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "examine",
+      "page": 19,
+      "source_order_index": 340,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "experiment",
+      "page": 19,
+      "source_order_index": 341,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "logical",
+      "page": 19,
+      "source_order_index": 342,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "research",
+      "page": 19,
+      "source_order_index": 343,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "responsibility",
+      "page": 19,
+      "source_order_index": 344,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "solve",
+      "page": 19,
+      "source_order_index": 345,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "supervisor",
+      "page": 19,
+      "source_order_index": 346,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "systematic",
+      "page": 19,
+      "source_order_index": 347,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "apprehensive",
+      "page": 19,
+      "source_order_index": 348,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "circumstance",
+      "page": 19,
+      "source_order_index": 349,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "condition",
+      "page": 19,
+      "source_order_index": 350,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "due to",
+      "page": 19,
+      "source_order_index": 351,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fluctuate",
+      "page": 19,
+      "source_order_index": 352,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "get out of",
+      "page": 19,
+      "source_order_index": 353,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "indicator",
+      "page": 19,
+      "source_order_index": 354,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "lease",
+      "page": 19,
+      "source_order_index": 355,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "lock into",
+      "page": 19,
+      "source_order_index": 356,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "occupy",
+      "page": 19,
+      "source_order_index": 357,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "tenant",
+      "page": 19,
+      "source_order_index": 358,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "subject to",
+      "page": 19,
+      "source_order_index": 359,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "appeal",
+      "page": 20,
+      "source_order_index": 360,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "arrive",
+      "page": 20,
+      "source_order_index": 361,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "compromise",
+      "page": 20,
+      "source_order_index": 362,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "daring",
+      "page": 20,
+      "source_order_index": 363,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "familiar with",
+      "page": 20,
+      "source_order_index": 364,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "guide",
+      "page": 20,
+      "source_order_index": 365,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "majority",
+      "page": 20,
+      "source_order_index": 366,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mix",
+      "page": 20,
+      "source_order_index": 367,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "rely on",
+      "page": 20,
+      "source_order_index": 368,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "secure",
+      "page": 20,
+      "source_order_index": 369,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "subjective",
+      "page": 20,
+      "source_order_index": 370,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "suggestion",
+      "page": 20,
+      "source_order_index": 371,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "appetite",
+      "page": 20,
+      "source_order_index": 372,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "complete",
+      "page": 20,
+      "source_order_index": 373,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "excite",
+      "page": 20,
+      "source_order_index": 374,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "flavor",
+      "page": 20,
+      "source_order_index": 375,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "forget",
+      "page": 20,
+      "source_order_index": 376,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ingredient",
+      "page": 20,
+      "source_order_index": 377,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "judge",
+      "page": 20,
+      "source_order_index": 378,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "mix-up",
+      "page": 20,
+      "source_order_index": 379,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "patron",
+      "page": 20,
+      "source_order_index": 380,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "predict",
+      "page": 21,
+      "source_order_index": 381,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "randomly",
+      "page": 21,
+      "source_order_index": 382,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "remind",
+      "page": 21,
+      "source_order_index": 383,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "burden",
+      "page": 21,
+      "source_order_index": 384,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "commonly",
+      "page": 21,
+      "source_order_index": 385,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "delivery",
+      "page": 21,
+      "source_order_index": 386,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "elegance",
+      "page": 21,
+      "source_order_index": 387,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fall to",
+      "page": 21,
+      "source_order_index": 388,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "impress",
+      "page": 21,
+      "source_order_index": 389,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "individual",
+      "page": 21,
+      "source_order_index": 390,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reasonable",
+      "page": 21,
+      "source_order_index": 391,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "multiple",
+      "page": 21,
+      "source_order_index": 392,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "narrow",
+      "page": 21,
+      "source_order_index": 393,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "pick up",
+      "page": 21,
+      "source_order_index": 394,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "settle",
+      "page": 21,
+      "source_order_index": 395,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accustom to",
+      "page": 21,
+      "source_order_index": 396,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "apprentice",
+      "page": 21,
+      "source_order_index": 397,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "culinary",
+      "page": 21,
+      "source_order_index": 398,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "demand",
+      "page": 21,
+      "source_order_index": 399,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "draw",
+      "page": 22,
+      "source_order_index": 400,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "incorporate",
+      "page": 22,
+      "source_order_index": 401,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "influx",
+      "page": 22,
+      "source_order_index": 402,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "method",
+      "page": 22,
+      "source_order_index": 403,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "methodical",
+      "page": 22,
+      "source_order_index": 404,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "procedure",
+      "page": 22,
+      "source_order_index": 405,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "outlet",
+      "page": 22,
+      "source_order_index": 406,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "profession",
+      "page": 22,
+      "source_order_index": 407,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "relinquish",
+      "page": 22,
+      "source_order_index": 408,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "theme",
+      "page": 22,
+      "source_order_index": 409,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assist",
+      "page": 22,
+      "source_order_index": 410,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "support",
+      "page": 22,
+      "source_order_index": 411,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "coordinate",
+      "page": 22,
+      "source_order_index": 412,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "dimension",
+      "page": 22,
+      "source_order_index": 413,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "general",
+      "page": 22,
+      "source_order_index": 414,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "ideal",
+      "page": 22,
+      "source_order_index": 415,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "exact",
+      "page": 22,
+      "source_order_index": 416,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "lead time",
+      "page": 22,
+      "source_order_index": 417,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "proximity",
+      "page": 22,
+      "source_order_index": 418,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "regulation",
+      "page": 22,
+      "source_order_index": 419,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "site",
+      "page": 22,
+      "source_order_index": 420,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "stage",
+      "page": 22,
+      "source_order_index": 421,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "agency",
+      "page": 23,
+      "source_order_index": 422,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "announce",
+      "page": 23,
+      "source_order_index": 423,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "beverage",
+      "page": 23,
+      "source_order_index": 424,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "board",
+      "page": 23,
+      "source_order_index": 425,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "claim",
+      "page": 23,
+      "source_order_index": 426,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "delay",
+      "page": 23,
+      "source_order_index": 427,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "depart",
+      "page": 23,
+      "source_order_index": 428,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "embark",
+      "page": 23,
+      "source_order_index": 429,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "itinerary",
+      "page": 23,
+      "source_order_index": 430,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "luggage",
+      "page": 23,
+      "source_order_index": 431,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prohibit",
+      "page": 23,
+      "source_order_index": 432,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "valid",
+      "page": 23,
+      "source_order_index": 433,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "deal with",
+      "page": 23,
+      "source_order_index": 434,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "destination",
+      "page": 23,
+      "source_order_index": 435,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "distinguish",
+      "page": 23,
+      "source_order_index": 436,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "economize",
+      "page": 23,
+      "source_order_index": 437,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "equivalent",
+      "page": 23,
+      "source_order_index": 438,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "excursion",
+      "page": 23,
+      "source_order_index": 439,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expense",
+      "page": 23,
+      "source_order_index": 440,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "extend",
+      "page": 23,
+      "source_order_index": 441,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prospective",
+      "page": 23,
+      "source_order_index": 442,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "situation",
+      "page": 23,
+      "source_order_index": 443,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "substantially",
+      "page": 23,
+      "source_order_index": 444,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "economy class",
+      "page": 23,
+      "source_order_index": 445,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "page": 24,
+      "source_order_index": 446,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "deluxe",
+      "page": 24,
+      "source_order_index": 447,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "directory",
+      "page": 24,
+      "source_order_index": 448,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "duration",
+      "page": 24,
+      "source_order_index": 449,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "entitle",
+      "page": 24,
+      "source_order_index": 450,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fare",
+      "page": 24,
+      "source_order_index": 451,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "offset",
+      "page": 24,
+      "source_order_index": 452,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "operate",
+      "page": 24,
+      "source_order_index": 453,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "punctual",
+      "page": 24,
+      "source_order_index": 454,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "relatively",
+      "page": 24,
+      "source_order_index": 455,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "remainder",
+      "page": 24,
+      "source_order_index": 456,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "remote",
+      "page": 24,
+      "source_order_index": 457,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "advanced",
+      "page": 24,
+      "source_order_index": 458,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "chain",
+      "page": 24,
+      "source_order_index": 459,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "check in",
+      "page": 24,
+      "source_order_index": 460,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "confirm",
+      "page": 24,
+      "source_order_index": 461,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "expect",
+      "page": 24,
+      "source_order_index": 462,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "housekeeper",
+      "page": 24,
+      "source_order_index": 463,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "notify",
+      "page": 24,
+      "source_order_index": 464,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "preclude",
+      "page": 24,
+      "source_order_index": 465,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "quote",
+      "page": 24,
+      "source_order_index": 466,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "rate",
+      "page": 24,
+      "source_order_index": 467,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reserve",
+      "page": 25,
+      "source_order_index": 468,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "serve",
+      "page": 25,
+      "source_order_index": 469,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "coincide",
+      "page": 25,
+      "source_order_index": 470,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "confusion",
+      "page": 25,
+      "source_order_index": 471,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "contact",
+      "page": 25,
+      "source_order_index": 472,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disappoint",
+      "page": 25,
+      "source_order_index": 473,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "guarantee",
+      "page": 25,
+      "source_order_index": 474,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "intend",
+      "page": 25,
+      "source_order_index": 475,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "license",
+      "page": 25,
+      "source_order_index": 476,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "nervous",
+      "page": 25,
+      "source_order_index": 477,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "optional",
+      "page": 25,
+      "source_order_index": 478,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "tempt",
+      "page": 25,
+      "source_order_index": 479,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "thrill",
+      "page": 25,
+      "source_order_index": 480,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "tier",
+      "page": 25,
+      "source_order_index": 481,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "attain",
+      "page": 25,
+      "source_order_index": 482,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "combine",
+      "page": 25,
+      "source_order_index": 483,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "continue",
+      "page": 25,
+      "source_order_index": 484,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "description",
+      "page": 25,
+      "source_order_index": 485,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disperse",
+      "page": 25,
+      "source_order_index": 486,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "entertain",
+      "page": 26,
+      "source_order_index": 487,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "influence",
+      "page": 26,
+      "source_order_index": 488,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "range",
+      "page": 26,
+      "source_order_index": 489,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "release",
+      "page": 26,
+      "source_order_index": 490,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "represent",
+      "page": 26,
+      "source_order_index": 491,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "separate",
+      "page": 26,
+      "source_order_index": 492,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "successive",
+      "page": 26,
+      "source_order_index": 493,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "action",
+      "page": 26,
+      "source_order_index": 494,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "approach",
+      "page": 26,
+      "source_order_index": 495,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "audience",
+      "page": 26,
+      "source_order_index": 496,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "creative",
+      "page": 26,
+      "source_order_index": 497,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "dialogue",
+      "page": 26,
+      "source_order_index": 498,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "element",
+      "page": 26,
+      "source_order_index": 499,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "experience",
+      "page": 26,
+      "source_order_index": 500,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "occur",
+      "page": 26,
+      "source_order_index": 501,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "perform",
+      "page": 26,
+      "source_order_index": 502,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "rehearse",
+      "page": 26,
+      "source_order_index": 503,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "review",
+      "page": 26,
+      "source_order_index": 504,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "sell out",
+      "page": 26,
+      "source_order_index": 505,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "available",
+      "page": 27,
+      "source_order_index": 506,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "broaden",
+      "page": 27,
+      "source_order_index": 507,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "categorize",
+      "page": 27,
+      "source_order_index": 508,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disparate",
+      "page": 27,
+      "source_order_index": 509,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "divide",
+      "page": 27,
+      "source_order_index": 510,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "favor",
+      "page": 27,
+      "source_order_index": 511,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "instinct",
+      "page": 27,
+      "source_order_index": 512,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prefer",
+      "page": 27,
+      "source_order_index": 513,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reason",
+      "page": 27,
+      "source_order_index": 514,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "relaxation",
+      "page": 27,
+      "source_order_index": 515,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "taste",
+      "page": 27,
+      "source_order_index": 516,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "urge",
+      "page": 27,
+      "source_order_index": 517,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "acquire",
+      "page": 27,
+      "source_order_index": 518,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "admire",
+      "page": 27,
+      "source_order_index": 519,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "collection",
+      "page": 27,
+      "source_order_index": 520,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "criticism",
+      "page": 27,
+      "source_order_index": 521,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "express",
+      "page": 27,
+      "source_order_index": 522,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "fashion",
+      "page": 27,
+      "source_order_index": 523,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "leisure",
+      "page": 27,
+      "source_order_index": 524,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "respond",
+      "page": 27,
+      "source_order_index": 525,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "schedule",
+      "page": 27,
+      "source_order_index": 526,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "significant",
+      "page": 27,
+      "source_order_index": 527,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "specialize in",
+      "page": 27,
+      "source_order_index": 528,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "spectrum",
+      "page": 28,
+      "source_order_index": 529,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assignment",
+      "page": 28,
+      "source_order_index": 530,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "constantly",
+      "page": 28,
+      "source_order_index": 531,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "decisive",
+      "page": 28,
+      "source_order_index": 532,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "disseminate",
+      "page": 28,
+      "source_order_index": 533,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "impact",
+      "page": 28,
+      "source_order_index": 534,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "in-depth",
+      "page": 28,
+      "source_order_index": 535,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "investigate",
+      "page": 28,
+      "source_order_index": 536,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "link",
+      "page": 28,
+      "source_order_index": 537,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "politician",
+      "page": 28,
+      "source_order_index": 538,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "subscribe",
+      "page": 28,
+      "source_order_index": 539,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "thorough",
+      "page": 28,
+      "source_order_index": 540,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "choose",
+      "page": 28,
+      "source_order_index": 541,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "annual",
+      "page": 28,
+      "source_order_index": 542,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "appointment",
+      "page": 28,
+      "source_order_index": 543,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "assess",
+      "page": 28,
+      "source_order_index": 544,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "diagnose",
+      "page": 28,
+      "source_order_index": 545,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "effective",
+      "page": 28,
+      "source_order_index": 546,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "instrument",
+      "page": 28,
+      "source_order_index": 547,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "manage",
+      "page": 29,
+      "source_order_index": 548,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "prevent",
+      "page": 29,
+      "source_order_index": 549,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "recommend",
+      "page": 29,
+      "source_order_index": 550,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "record",
+      "page": 29,
+      "source_order_index": 551,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "serious",
+      "page": 29,
+      "source_order_index": 552,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "refer",
+      "page": 29,
+      "source_order_index": 553,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "catch up",
+      "page": 29,
+      "source_order_index": 554,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "distraction",
+      "page": 29,
+      "source_order_index": 555,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "encouragement",
+      "page": 29,
+      "source_order_index": 556,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "evident",
+      "page": 29,
+      "source_order_index": 557,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "habit",
+      "page": 29,
+      "source_order_index": 558,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "illuminate",
+      "page": 29,
+      "source_order_index": 559,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "irritate",
+      "page": 29,
+      "source_order_index": 560,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "overview",
+      "page": 29,
+      "source_order_index": 561,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "position",
+      "page": 29,
+      "source_order_index": 562,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "regular",
+      "page": 29,
+      "source_order_index": 563,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "restore",
+      "page": 29,
+      "source_order_index": 564,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "aware",
+      "page": 29,
+      "source_order_index": 565,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "alternative",
+      "page": 29,
+      "source_order_index": 566,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "aspect",
+      "page": 29,
+      "source_order_index": 567,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "concern",
+      "page": 30,
+      "source_order_index": 568,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "emphasize",
+      "page": 30,
+      "source_order_index": 569,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "incur",
+      "page": 30,
+      "source_order_index": 570,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "personnel",
+      "page": 30,
+      "source_order_index": 571,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "policy",
+      "page": 30,
+      "source_order_index": 572,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "portion",
+      "page": 30,
+      "source_order_index": 573,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "regardless",
+      "page": 30,
+      "source_order_index": 574,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "reimburse",
+      "page": 30,
+      "source_order_index": 575,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "suit",
+      "page": 30,
+      "source_order_index": 576,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "treat",
+      "page": 30,
+      "source_order_index": 577,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "accompany",
+      "page": 30,
+      "source_order_index": 578,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "admit",
+      "page": 30,
+      "source_order_index": 579,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "authorize",
+      "page": 30,
+      "source_order_index": 580,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "designate",
+      "page": 30,
+      "source_order_index": 581,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "escort",
+      "page": 30,
+      "source_order_index": 582,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "identify",
+      "page": 30,
+      "source_order_index": 583,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "permission",
+      "page": 30,
+      "source_order_index": 584,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "pertinent",
+      "page": 30,
+      "source_order_index": 585,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "procedure",
+      "page": 30,
+      "source_order_index": 586,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "result",
+      "page": 30,
+      "source_order_index": 587,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "statement",
+      "page": 30,
+      "source_order_index": 588,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "surgery",
+      "page": 30,
+      "source_order_index": 589,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "consultation",
+      "page": 31,
+      "source_order_index": 590,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "convenient",
+      "page": 31,
+      "source_order_index": 591,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "detect",
+      "page": 31,
+      "source_order_index": 592,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "factor",
+      "page": 31,
+      "source_order_index": 593,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "interaction",
+      "page": 31,
+      "source_order_index": 594,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "limit",
+      "page": 31,
+      "source_order_index": 595,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "monitor",
+      "page": 31,
+      "source_order_index": 596,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "potential",
+      "page": 31,
+      "source_order_index": 597,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "sample",
+      "page": 31,
+      "source_order_index": 598,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "sense",
+      "page": 31,
+      "source_order_index": 599,
+      "fields": [
+        "example"
+      ]
+    },
+    {
+      "word": "volunteer",
+      "page": 31,
+      "source_order_index": 600,
+      "fields": [
+        "example"
+      ]
+    }
+  ],
+  "extraction_adjustments": [
+    {
+      "word": "initiative",
+      "page": 5,
+      "field": "ipa",
+      "table_text": "/ɪˈnɪʃ.ə.tɪ̬ v/",
+      "pdf_text_order": "/ɪˈnɪʃ.ə.t̬ɪv/"
+    },
+    {
+      "word": "popularity",
+      "page": 6,
+      "field": "ipa",
+      "table_text": "/ˌpɑː.pjəˈler.ə.ti̬/",
+      "pdf_text_order": "/ˌpɑː.pjəˈler.ə.t̬i/"
+    },
+    {
+      "word": "integral",
+      "page": 12,
+      "field": "ipa",
+      "table_text": "/ˈɪn.tə̬ .ɡrəl/",
+      "pdf_text_order": "/ˈɪn.t̬ə.ɡrəl/"
+    },
+    {
+      "word": "automatic",
+      "page": 13,
+      "field": "ipa",
+      "table_text": "/ˌɑː.tə̬ ˈmæt.̬ɪk/",
+      "pdf_text_order": "/ˌɑː.t̬əˈmæt̬.ɪk/"
+    },
+    {
+      "word": "profitable",
+      "page": 15,
+      "field": "ipa",
+      "table_text": "/ˈprɑː.fɪ.tə̬ .bəl/",
+      "pdf_text_order": "/ˈprɑː.fɪ.t̬ə.bəl/"
+    },
+    {
+      "word": "conservative",
+      "page": 15,
+      "field": "ipa",
+      "table_text": "/kənˈsɝː.və.tɪ̬ v/",
+      "pdf_text_order": "/kənˈsɝː.və.t̬ɪv/"
+    },
+    {
+      "word": "scrutiny",
+      "page": 17,
+      "field": "ipa",
+      "table_text": "/ˈskruː.tə̬ n.i/",
+      "pdf_text_order": "/ˈskruː.t̬ən.i/"
+    },
+    {
+      "word": "priority",
+      "page": 18,
+      "field": "ipa",
+      "table_text": "/praɪˈɔrəti̮/",
+      "pdf_text_order": "/praɪˈɔrət̮i/"
+    },
+    {
+      "word": "indicator",
+      "page": 19,
+      "field": "ipa",
+      "table_text": "/ˈɪndəˌkeɪtə̮ r/",
+      "pdf_text_order": "/ˈɪndəˌkeɪt̮ər/"
+    },
+    {
+      "word": "relatively",
+      "page": 24,
+      "field": "ipa",
+      "table_text": "/ˈrɛlətɪ̮ vli/",
+      "pdf_text_order": "/ˈrɛlət̮ɪvli/"
+    },
+    {
+      "word": "criticism",
+      "page": 27,
+      "field": "ipa",
+      "table_text": "/ˈkrɪtə̮ ˌsɪzəm/",
+      "pdf_text_order": "/ˈkrɪt̮əˌsɪzəm/"
+    }
+  ],
+  "rules": [
+    "No generated translations, examples, IPA or inferred parts of speech.",
+    "Whitespace is collapsed; source a is normalized to adj.",
+    "Missing source values are null. Malformed IPA is retained and flagged.",
+    "IPA character order is cross-checked with pypdf; original table cells are preserved.",
+    "Repeated words are merged in first-occurrence order; distinct source values use |; parts of speech use commas.",
+    "words-source.json preserves all 600 source rows, senses, topics and page references."
+  ]
+}

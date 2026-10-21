@@ -1,5 +1,5 @@
 {
-  "name": "health-nep",
+  "name": "toeic-600",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -8,20 +8,22 @@
     "build": "next build",
     "start": "next start",
     "test": "node --test tests/*.test.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "seed": "node scripts/seed-words.mjs",
+    "seed:sql": "node scripts/seed-words.mjs --sql supabase/seed.sql"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.105.4",
     "next": "16.4.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "lucide-react": "^1.16.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "jsdom": "^30.1.2",
-    "lucide-react": "^1.16.0",
     "typescript": "^5"
   }
 }
